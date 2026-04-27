@@ -1,0 +1,30 @@
+services:
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "8501:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    depends_on:
+      menu:
+        condition: service_started
+      blockpricer:
+        condition: service_healthy
+      finra:
+        condition: service_healthy
+    restart: unless-stopped
+
+  menu:
+    build: ./menu
+    restart: unless-stopped
+
+  blockpricer:
+    build: ./blockpricer
+    restart: unless-stopped
+
+  finra:
+    build: ./finra
+    restart: unless-stopped
+    volumes:
+      - ./finra/finra_blocks_summary.pkl:/app/finra_blocks_summary.pkl:ro
+      - ./finra/finra_weekly_summary_2026.pkl:/app/finra_weekly_summary_2026.pkl:ro

@@ -1,0 +1,12 @@
+services:
+  finra-dashboard:
+    build: .
+    ports:
+      - "8503"
+    volumes:
+      # Mount pickle data files without rebuilding the image when they change
+      - ./finra_blocks_summary.pkl:/app/finra_blocks_summary.pkl:ro
+      - ./finra_weekly_summary_2026.pkl:/app/finra_weekly_summary_2026.pkl:ro
+    environment:
+      - PYTHONPATH=/app
+    restart: unless-stopped
