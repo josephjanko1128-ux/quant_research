@@ -1,0 +1,70 @@
+{
+  "author": "Joe Kirchner",
+  "affiliation": "Individual (unaffiliated)",
+  "stakeholder_type": "Individual Retail Investor / Public Commenter",
+  "overall_position": "oppose",
+  "tone": "Formal, analytical, cautionary, respectful but firm",
+  "executive_summary": "Joe Kirchner, writing as an individual, opposes the SEC's proposed rescission of Rule 611 (Order Protection Rule) and Rule 610(e) (prohibition on locked/crossed markets) under Regulation NMS. His central argument is that the rise of AI-driven trading makes these bright-line protections more necessary, not less, because subjective best-execution standards are inadequate to govern opaque, adaptive algorithms operating at microsecond speeds. He argues the proposal creates asymmetric harm for retail investors, risks degrading displayed liquidity and price discovery, and lacks sufficient empirical analysis of AI-era market dynamics. He urges the Commission to withdraw the proposed amendments.",
+  "market_structure_topics": [
+    "Order Protection Rule (Rule 611) rescission",
+    "Locked and crossed markets (Rule 610(e))",
+    "Best execution as a substitute standard",
+    "AI and machine learning in order routing and trading",
+    "Displayed liquidity and price discovery",
+    "Venue fragmentation and opaque trading",
+    "Retail investor protection",
+    "Algorithmic accountability and auditability",
+    "Regulation NMS modernization",
+    "Emergent AI behavior and feedback loops"
+  ],
+  "positions": {
+    "order_competition_rule": "Not directly addressed",
+    "best_execution": "Opposes reliance on best execution as a substitute for Rule 611; argues it is a subjective, principles-based standard that is difficult to monitor and enforce in an AI-driven trading environment where decision logic is opaque and adaptive",
+    "tick_size_reform": "Not addressed",
+    "access_fee_reform": "Not addressed",
+    "transparency": "Strongly favors transparency; argues Rule 611 provides an objective, machine-verifiable benchmark and that its removal would shift oversight to opaque algorithms that regulators, brokers, and investors cannot readily audit"
+  },
+  "economic_arguments": [
+    "The Commission has not demonstrated that compliance-cost savings from rescission would offset the risks created by removing Rule 611 and Rule 610(e)",
+    "Empirical analysis derived from a pre-AI market structure cannot be assumed to hold in markets now shaped by machine intelligence",
+    "Removing Rule 611 widens the accountability gap rather than closing it by replacing a clear rule with inspection of opaque, adaptive algorithms",
+    "The proposal lacks robust analysis of how autonomous and increasingly adaptive trading systems would behave once these guardrails are removed"
+  ],
+  "liquidity_arguments": [
+    "Rule 611 rewards participants who post the best displayed prices by ensuring those quotes are honored, incentivizing public quote display",
+    "Removing Rule 611 could accelerate the migration of liquidity into opaque venues as AI models deprioritize public quote display",
+    "Degradation of displayed liquidity would harm price discovery for all market participants",
+    "Permitting locked and crossed markets under rescission of Rule 610(e) could produce emergent, hard-to-predict AI behavior and feedback loops that the Commission has not analyzed"
+  ],
+  "competition_arguments": [
+    "AI-driven trading sharpens the asymmetry between sophisticated firms and ordinary investors",
+    "Firms deploying advanced models to predict order flow and optimize execution stand to benefit most from removal of a baseline price guarantee",
+    "Retail and less-sophisticated investors cannot monitor execution quality across dozens of venues in real time or audit routing algorithms, placing them at a structural disadvantage without Rule 611",
+    "Removal of bright-line protections disproportionately advantages technologically sophisticated market participants"
+  ],
+  "retail_investor_arguments": [
+    "Rule 611 is a safeguard that does not depend on an investor's technological resources to be effective, making it uniquely valuable for retail investors",
+    "Retail investors cannot monitor execution quality across dozens of venues in real time, nor audit the algorithms routing their orders",
+    "Shifting from a bright-line rule to a principles-based best-execution standard leaves retail investors exposed to harms they have no practical means to detect or challenge",
+    "The asymmetry between AI-equipped firms and retail investors makes baseline price guarantees more important, not less, in the current environment"
+  ],
+  "recommended_actions": [
+    "Withdraw the proposed amendments rescinding Rule 611 and Rule 610(e)",
+    "Conduct robust empirical analysis specifically addressing AI-driven trading dynamics before dismantling existing protections",
+    "Consider narrower, targeted reforms rather than wholesale rescission of Rule 611 and Rule 610(e)",
+    "Analyze how autonomous and adaptive trading systems would behave in the absence of these regulatory guardrails",
+    "Study the interaction between AI quoting strategies and displayed liquidity before proceeding with any reforms"
+  ],
+  "key_quotes": [
+    "The rapid integration of artificial intelligence into trading and order routing makes these protections more necessary, not less.",
+    "Best execution is a subjective, principles-based standard, and in an environment where routing, pricing, and liquidity decisions are increasingly made by AI and machine-learning systems operating at microsecond speed, subjective standards are far harder to monitor and enforce.",
+    "The Order Protection Rule offers an objective, machine-verifiable benchmark \u2014 a displayed price that either was or was not honored.",
+    "Removing it would shift oversight from a clear rule to the inspection of opaque, adaptive algorithms whose decision logic regulators, brokers, and investors cannot readily reconstruct or audit.",
+    "A bright-line protection like Rule 611 is precisely the kind of safeguard that does not depend on an investor's technological resources to be effective.",
+    "Removing that assurance could accelerate the migration of liquidity into opaque venues and incentivize models to deprioritize public quote display, degrading price discovery for everyone.",
+    "AI systems optimizing within an environment of locked and crossed quotations may produce emergent, hard-to-predict behavior and feedback loops that the Commission has not analyzed.",
+    "Empirical analysis from a pre-AI market structure cannot be assumed to hold in markets now shaped by machine intelligence.",
+    "Before dismantling protections that have underpinned U.S. equity markets for nearly two decades, the Commission should conduct robust analysis specifically addressing AI-driven trading dynamics."
+  ],
+  "source_file": "00012_Comments_of_Joe_Kirchner.html"
+}

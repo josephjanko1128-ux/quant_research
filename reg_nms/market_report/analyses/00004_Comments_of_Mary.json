@@ -1,0 +1,65 @@
+{
+  "author": "Mary Smith",
+  "affiliation": "Individual Retail Investor",
+  "stakeholder_type": "retail_investor",
+  "overall_position": "oppose",
+  "tone": "concerned, assertive, protective of retail investor interests",
+  "executive_summary": "Mary Smith, an individual retail investor, strongly opposes the SEC's proposed rescission of Rule 611 (Order Protection Rule) and Rule 610(e) of Regulation NMS. She argues these rules serve as essential backstops for best execution, promote market transparency by preventing locked and crossed markets, and sustain retail investor trust in U.S. markets. She urges the Commission to modernize rather than eliminate these protections.",
+  "market_structure_topics": [
+    "Order Protection Rule (Rule 611)",
+    "Rule 610(e) - locked and crossed markets",
+    "Regulation NMS",
+    "National Best Bid and Offer (NBBO)",
+    "Best execution",
+    "Market fragmentation",
+    "Price discovery",
+    "Dark pools and lit venues",
+    "High-frequency trading",
+    "Retail investor protection",
+    "Market transparency"
+  ],
+  "positions": {
+    "order_competition_rule": "Not directly addressed, but implicitly supportive of rules that protect retail order execution quality and oppose removal of existing order protection mechanisms",
+    "best_execution": "Strongly supportive of maintaining Rule 611 as an objective backstop for best execution; concerned that rescission would leave retail investors reliant solely on broker-dealer internal routing with no regulatory floor",
+    "tick_size_reform": "Not directly addressed",
+    "access_fee_reform": "Briefly mentioned as a potential area for modernization rather than outright rescission; suggests adjusting access fees as a preferable alternative to removing core protections",
+    "transparency": "Strongly supportive of maintaining transparency through prohibition of locked and crossed markets; opposes any changes that would increase market opacity or fragmentation across dark and lit venues"
+  },
+  "economic_arguments": [
+    "Compliance costs and market fragmentation concerns cited by proponents of rescission are characterized as acceptable costs of maintaining a fair system",
+    "Rescission of Rule 611 could allow retail orders to be executed at inferior prices, effectively subsidizing institutional and high-frequency trader latency advantages at the expense of retail participants",
+    "Removal of objective price standards shifts execution quality responsibility entirely to broker-dealer internal routing, creating potential for conflicts of interest and inferior outcomes"
+  ],
+  "liquidity_arguments": [
+    "Fragmentation of markets into disparate dark and lit pools with varying price protections would reduce retail investors' ability to confidently assess market conditions",
+    "The NBBO serves as a primary and accessible indicator of market health for retail investors; its erosion would diminish market clarity",
+    "No explicit liquidity provision or market-making arguments made, but implicitly argues that retail participation underpins market health"
+  ],
+  "competition_arguments": [
+    "Rescission would tilt the playing field toward professional traders and high-frequency traders who can navigate a more complex, less regulated landscape",
+    "Retail investors lack the tools and sophistication to compete in a fragmented, unprotected market environment",
+    "Removing Rule 611 prioritizes institutional routing efficiency over retail price protection, creating an uneven competitive dynamic"
+  ],
+  "retail_investor_arguments": [
+    "Rule 611 provides a clear, objective, and trustworthy standard (NBBO) that retail investors rely upon when placing orders",
+    "Retail participation in U.S. markets is at an all-time high due to belief in market fairness and transparency; rescission threatens this confidence",
+    "Declining retail trust and participation could result if foundational protections are removed in favor of institutional efficiency",
+    "Individual investors are not equipped to independently verify or negotiate execution quality without a regulatory baseline",
+    "The Commission should modernize existing rules rather than eliminate protections that guarantee a baseline of fairness for all investors"
+  ],
+  "recommended_actions": [
+    "Reject the proposal to rescind Rule 611 and Rule 610(e) of Regulation NMS",
+    "If modernization is needed, improve the definition of protected quotes rather than eliminating the Order Protection Rule",
+    "Consider adjusting access fees as a targeted reform rather than removing core investor protections",
+    "Ensure any replacement framework is robust and proven before removing existing safeguards"
+  ],
+  "key_quotes": [
+    "I am writing to express my strong opposition to the Commission's proposal to rescind Rule 611 (the 'Order Protection Rule') and Rule 610(e) of Regulation NMS.",
+    "Without the objective 'backstop' of Rule 611, there is a significant risk that retail orders could be executed at inferior prices, essentially subsidizing institutional latency advantages at the expense of everyday participants.",
+    "If the market becomes a collection of disparate 'dark' and 'lit' pools with varying price protections, the ability for an individual to confidently enter the market will diminish.",
+    "Repealing these foundational rules signals that the Commission is prioritizing the efficiency of high-frequency trading and institutional routing over the price-protection of the individual.",
+    "These are costs of maintaining a fair system.",
+    "If the Commission believes the current rules are outdated, it should focus on modernizing them to reflect current market realities... rather than removing the protections that guarantee a baseline of fairness for all investors."
+  ],
+  "source_file": "00004_Comments_of_Mary.html"
+}

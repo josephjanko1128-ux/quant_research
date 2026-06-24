@@ -1,0 +1,41 @@
+{
+  "author": "Scott S",
+  "affiliation": "Unknown - Retail Investor (presumed)",
+  "stakeholder_type": "retail_investor",
+  "overall_position": "oppose",
+  "tone": "hostile, emotional, confrontational, profane",
+  "executive_summary": "A retail investor strongly opposes the proposed rule change, arguing it would benefit large market makers Citadel and Virtu at the expense of retail investors. The commenter expresses deep distrust of the SEC, characterizing the agency as captured by Wall Street interests.",
+  "market_structure_topics": [
+    "payment_for_order_flow",
+    "market_maker_concentration",
+    "regulatory_capture",
+    "retail_investor_protection"
+  ],
+  "positions": {
+    "order_competition_rule": "The commenter opposes repeal of the referenced regulation, viewing it as protective of retail investors",
+    "best_execution": "Implicitly concerned that repeal harms retail execution quality",
+    "tick_size_reform": "Not addressed",
+    "access_fee_reform": "Not addressed",
+    "transparency": "Not addressed"
+  },
+  "economic_arguments": [
+    "Repeal of the regulation would financially benefit dominant market makers Citadel and Virtu",
+    "Retail investors would be economically harmed by the proposed repeal"
+  ],
+  "liquidity_arguments": [],
+  "competition_arguments": [
+    "Implicitly argues that the rule change favors entrenched large market makers over broader market participants"
+  ],
+  "retail_investor_arguments": [
+    "Retail investors would be disadvantaged by the repeal",
+    "The SEC is perceived as prioritizing Wall Street interests over retail investor protection"
+  ],
+  "recommended_actions": [
+    "Do not repeal the referenced regulation"
+  ],
+  "key_quotes": [
+    "It could not be more obvious that repealing this regulation would benefit Citadel & Virtu and screw retail investors.",
+    "I suppose that IS the ethos of the SEC; screw retail & suck off wall street"
+  ],
+  "source_file": "00002_Comments_of_Scott_S.html"
+}

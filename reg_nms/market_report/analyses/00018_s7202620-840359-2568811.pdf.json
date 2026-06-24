@@ -1,0 +1,98 @@
+{
+  "author": "Jeff Martinez, CRPC\u00ae",
+  "affiliation": "Treveri Capital LLC (Founder and Financial Advisor); former electronic floor broker at the Pacific Exchange; former Vice President of Sales at a major wirehouse",
+  "stakeholder_type": "Registered Investment Adviser / Retail Financial Advisor",
+  "overall_position": "mixed",
+  "tone": "Analytical, measured, and constructive; critical of the proposed rescission while acknowledging the validity of the SEC's diagnosis; respectful but firm in opposition to the remedy",
+  "executive_summary": "Jeff Martinez, a California-registered investment adviser and former exchange floor broker with over twenty years of market experience, comments on the SEC's proposal to rescind Rule 611 (the trade-through rule) and Rule 610(e) (locked and crossed markets) of Regulation NMS. He agrees with the Commission's diagnosis that the 2005 framework has failed to incentivize displayed liquidity and that dark trading has grown substantially. However, he strongly opposes outright rescission as the remedy, arguing it would remove the only cross-venue price-discovery discipline without fixing the underlying incentive failure. Instead, he proposes rebuilding the framework around a consolidated lit book with strict displayed-order priority, preserving an intermarket sweep mechanism for institutional block trading, extending trade-through discipline to tokenized NMS equities regardless of their technological wrapper, and allowing genuinely non-NMS assets to trade freely. He frames the core problem as a dual failure: a free-riding problem where dark orders execute at prices formed by displayed quotes without contributing to price discovery, and an agency problem where broker-dealers route orders for their own economic benefit rather than the customer's best outcome.",
+  "market_structure_topics": [
+    "Rule 611 trade-through protection",
+    "Rule 610(e) locked and crossed markets",
+    "Regulation NMS reform",
+    "Dark pool and off-exchange trading volume",
+    "Payment for order flow (PFOF)",
+    "Order routing conflicts of interest",
+    "Maker-taker fee model and access fee caps",
+    "Displayed vs. non-displayed liquidity incentives",
+    "Free-riding on public quotes by dark orders",
+    "Consolidated lit order book proposal",
+    "Strict displayed-order priority",
+    "Intermarket sweep orders (ISOs)",
+    "Tokenized securities and automated market makers (AMMs)",
+    "National Market System (NMS) equity classification",
+    "Price discovery and market fragmentation",
+    "Canadian and Australian dark trading reforms",
+    "Wholesaler internalization of retail order flow",
+    "Best execution duty (FINRA Rule 5310)",
+    "Rule 606/607 order routing disclosures",
+    "Access fee cap reduction to $0.0010 per share"
+  ],
+  "positions": {
+    "order_competition_rule": "Not directly addressed as a standalone topic, but Martinez implicitly supports the principle of order competition through his proposed consolidated lit book with strict displayed-order priority, which would force competitive interaction among displayed orders across venues and deny priority to non-displayed orders",
+    "best_execution": "Acknowledges the broker-dealer duty of best execution as a valid and independent obligation but argues it is an insufficient substitute for Rule 611 because it is a principles-based, after-the-fact enforcement standard rather than a structural price-discovery mechanism that ties competing venue prices together; notes that routing conflicts of interest undermine best execution in practice",
+    "tick_size_reform": "Not directly addressed",
+    "access_fee_reform": "Acknowledges the existing maker-taker model pays approximately $0.0020 per share in rebates to displayed liquidity providers, but argues this is insufficient compensation for adverse-selection risk; notes that the scheduled reduction of the access fee cap from $0.0030 to $0.0010 per share will further narrow the margin for displayed liquidity, worsening incentives; also notes that rescinding Rule 611 would unsettle the legal basis of the access fee cap itself since the cap applies by its terms to protected quotations",
+    "transparency": "Supports enhanced transparency through a consolidated displayed order book; references existing Rule 606/607 disclosure requirements for order routing and PFOF as necessary but insufficient; implicitly supports transparency reforms that would deepen the public quote and improve price discovery for all investors"
+  },
+  "economic_arguments": [
+    "Rule 611 has failed over two decades to incentivize displayed liquidity, with off-exchange trading regularly exceeding 50% of total volume since end of 2024",
+    "The maker-taker rebate of approximately $0.0020 per share is insufficient compensation for the adverse-selection and information-leakage costs of posting a visible quote, making dark execution economically superior for liquidity providers",
+    "Reducing the access fee cap from $0.0030 to $0.0010 per share will further narrow the economic margin for displayed liquidity, worsening the incentive problem rather than improving it",
+    "Rescinding Rule 611 would unsettle the legal basis of the access fee cap under Rule 610(c), since the cap applies by its terms to protected quotations, creating regulatory uncertainty",
+    "Dark orders free-ride on prices formed by displayed quotes without contributing to price formation, creating a structural subsidy for non-displayed trading at the expense of displayed liquidity providers",
+    "Strict displayed-order priority would cause liquidity to migrate to the lit book, deepening the public quote and improving the benchmark price against which all investors trade, including those who never interact with a wholesaler",
+    "The Canadian (2012) and Australian (2013) reforms conditioning dark execution on meaningful price improvement produced movement of activity toward displayed venues, suggesting strict priority would produce an even stronger migration effect",
+    "Internalization of retail order flow by a small number of wholesalers (Citadel Securities, Virtu, Jane Street) drains the lit book of the very order flow that would tighten displayed spreads, creating a self-reinforcing cycle of wide spreads and continued internalization"
+  ],
+  "liquidity_arguments": [
+    "Rescinding Rule 611 without replacement would accelerate the flight to dark trading rather than reverse it, because the underlying incentive failure remains unaddressed",
+    "A consolidated lit book with strict displayed-order priority would cause liquidity to migrate toward displayed venues, deepening the public quote and improving price discovery",
+    "Dark orders currently have no execution priority disadvantage relative to displayed orders at the same price, eliminating the incentive to display",
+    "Strict displayed-order priority does not ban dark liquidity but denies it priority, preserving optionality for those who prefer to hide orders while rewarding those who display",
+    "An intermarket sweep mechanism should be preserved in any replacement framework so that institutions can take displayed liquidity across all venues and price levels in a single action, addressing concerns about block trading market impact",
+    "The wide displayed spread that wholesalers improve upon exists precisely because internalization has drained the lit book; directing retail flow into the open market would tighten the public quote, making the benchmark itself better for all investors",
+    "The evidence from Canadian and Australian reforms shows that conditioning dark execution on price improvement moves activity toward displayed venues; strict priority should produce a stronger effect"
+  ],
+  "competition_arguments": [
+    "The Commission frames rescission as allowing competition and market forces to shape market structure, but the market force that failed\u2014the incentive to display\u2014remains equally broken after rescission",
+    "Broker-dealer routing conflicts of interest mean that competition among venues is distorted by intermediary economics rather than investor outcomes; rescission does not address this structural agency problem",
+    "Payment for order flow arrangements cause marketable retail orders to be routed to a small number of off-exchange wholesalers rather than to displayed venues, concentrating order flow away from competitive lit markets",
+    "Broker-dealers adding liquidity for their own account have incentive to route to whichever venue pays the richest rebate rather than the one that best serves the client, further distorting competitive venue dynamics",
+    "Tokenization platforms (identified by Benchmark Equity Research as including Securitize, Coinbase, and Galaxy Digital) are the most direct beneficiaries of rescission, suggesting the proposal may be shaped by the interests of new entrants rather than the investing public",
+    "Automated market makers on tokenized platforms price against their own liquidity pools without referencing the NBBO, creating a form of competition that bypasses public price discovery entirely",
+    "A technology-neutral displayed-priority rule would allow tokenized and traditional venues to compete on equal terms while preserving price discovery discipline for NMS equities regardless of their trading venue"
+  ],
+  "retail_investor_arguments": [
+    "Retail investors are harmed by the agency problem in order routing: broker-dealers route marketable retail orders to wholesalers in exchange for PFOF, so retail orders never reach the displayed book and do not contribute to price discovery",
+    "Wholesalers provide small per-order price improvements measured against a displayed spread that internalization has artificially widened; the apparent benefit to retail investors is illusory relative to what a deeper lit market would provide",
+    "A consolidated lit book with strict displayed-order priority would tighten the public quote, improving the benchmark price against which all investors trade, including retail investors who never interact with a wholesaler",
+    "Ordinary investors cannot see across tokenized and conventional venues; without trade-through protection on tokenized NMS equities, retail investors would be on the wrong side of persistent crossed markets and arbitrage spreads between venues",
+    "Rescinding Rule 611 without replacement removes the only structural mechanism tying execution prices across venues to the best displayed quotation, leaving retail investor protection entirely dependent on after-the-fact best execution enforcement",
+    "The author writes as a practicing retail financial adviser whose clients are retail investors, lending practical credibility to the retail impact analysis",
+    "A better public price serves the ordinary investor more durably than a small per-order rebate measured against a quote that internalization has hollowed out"
+  ],
+  "recommended_actions": [
+    "Reject outright rescission of Rule 611 and instead rebuild the trade-through framework around a consolidated displayed order book with strict displayed-order priority at every price level",
+    "Codify a rule that non-displayed orders may never trade at parity with or ahead of a displayed order at the same price, so that the only way to secure execution priority at the top of the book is to display",
+    "Preserve and re-codify an intermarket sweep order mechanism in any replacement framework so that institutions retain the ability to take displayed liquidity across all venues and price levels in a single action",
+    "Extend trade-through discipline and displayed-priority rules to tokenized NMS equities regardless of their technological wrapper or trading venue, on the principle that the regulatory category follows the underlying asset, not the token",
+    "Allow genuinely non-NMS assets\u2014tokenized bonds, tokenized real estate, fund interests, native digital assets, and purely synthetic instruments\u2014to trade freely without trade-through protection, since there is no public equity quotation for them to free-ride upon",
+    "Address the agency problem in order routing by strengthening the alignment between broker-dealer routing decisions and customer outcomes, rather than relying solely on after-the-fact best execution enforcement",
+    "Recognize that reducing the access fee cap to $0.0010 per share will further narrow the economic margin for displayed liquidity and factor this into the incentive analysis for any replacement framework"
+  ],
+  "key_quotes": [
+    "The Commission's diagnosis is largely correct, but its remedy is wrong.",
+    "Rescinding Rule 611 without replacing it, however, would remove the only cross-venue price-discovery discipline in the equity markets at the precise moment that tokenized securities are arriving on venues that reference no public quote at all.",
+    "The better course is not to abolish protection but to rebuild it correctly, around a consolidated displayed order book in which lit orders have strict priority, so that the act of showing a quote is finally rewarded.",
+    "Best execution is a principles-based, facts-and-circumstances standard enforced after the fact. It instructs a broker to seek favorable terms. It does not tie the prices of competing venues together, and it is not a structural price-discovery mechanism.",
+    "The market force the rule failed to harness, an incentive to display, is left exactly as broken after rescission as before. Removing the rule treats the complexity while abandoning the discipline, and it is likely to accelerate the flight to the dark rather than reverse it.",
+    "A hidden or dark order can execute at the national best bid or offer, a price formed by some other participant who posted a displayed quote and bore the information leakage and adverse-selection risk of showing their hand. The dark venue then prints at that price having contributed nothing to forming it.",
+    "The broker-dealer, not the customer, ordinarily decides where an order is routed, and a broker-dealer that controls the flow has every reason to route for its own economics rather than the customer's result.",
+    "Rescinding Rule 611 repairs none of this. It leaves the thin display incentive and the routing conflict exactly as they are, while removing the one mechanism that at least kept executions tethered to the best displayed quote. It treats the symptom and aggravates the disease.",
+    "If a token conveys the ownership and economic interest of a publicly traded NMS equity, it is that equity, and it should trade under the same displayed-priority discipline, whether on a blockchain or on a traditional exchange. The wrapper does not launder the asset out of its regulatory category.",
+    "The displayed spread is wide enough to improve upon precisely because two decades of internalization have drained the lit book of the very order flow that would tighten it.",
+    "A market that rewards display produces a better public price, and a better public price serves the ordinary investor more durably than a small per-order rebate measured against a quote that internalization has hollowed out.",
+    "The Commission is right that the present structure is broken. It is wrong that the answer is to remove the rule. The answer is to fix the incentive the rule failed to create."
+  ],
+  "source_file": "00018_s7202620-840359-2568811.pdf.pdf"
+}

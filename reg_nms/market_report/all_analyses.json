@@ -1,0 +1,1819 @@
+[
+  {
+    "author": "Unknown (Government of India, Ministry of Corporate Affairs)",
+    "affiliation": "Government of India, Ministry of Corporate Affairs / Central Registration Centre",
+    "stakeholder_type": "N/A",
+    "overall_position": "unclear",
+    "tone": "N/A - Official government document, not a comment letter",
+    "executive_summary": "This document is NOT an SEC comment letter. It is a Certificate of Incorporation issued by the Government of India, Ministry of Corporate Affairs, certifying that DARTERS INDIA RESORT PRIVATE LIMITED was incorporated on July 13, 2017 under the Companies Act, 2013. The document is entirely unrelated to SEC rulemaking, market microstructure, or any U.S. securities regulation topic.",
+    "market_structure_topics": [],
+    "positions": {
+      "order_competition_rule": "N/A - Document is not an SEC comment letter",
+      "best_execution": "N/A - Document is not an SEC comment letter",
+      "tick_size_reform": "N/A - Document is not an SEC comment letter",
+      "access_fee_reform": "N/A - Document is not an SEC comment letter",
+      "transparency": "N/A - Document is not an SEC comment letter"
+    },
+    "economic_arguments": [],
+    "liquidity_arguments": [],
+    "competition_arguments": [],
+    "retail_investor_arguments": [],
+    "recommended_actions": [
+      "Verify that the correct document was submitted for analysis",
+      "Resubmit the actual SEC comment letter for proper analysis"
+    ],
+    "key_quotes": [
+      "I hereby certify that DARTERS INDIA RESORT PRIVATE LIMITED is incorporated on this Thirteenth day of July Two thousand seventeen under the Companies Act, 2013",
+      "This certificate only evidences incorporation of the company on the basis of documents and declarations of the applicant(s). This certificate is neither a license nor permission to conduct business or solicit deposits or funds from public."
+    ],
+    "source_file": "00008_s7202620-816519-2486611.pdf.pdf"
+  },
+  {
+    "author": "Katya Malinova and Andreas Park",
+    "affiliation": "McMaster University (DeGroote School of Business) and University of Toronto; APIA Scholar consultancy",
+    "stakeholder_type": "Academic Researchers / Market Microstructure Economists",
+    "overall_position": "support",
+    "tone": "Analytical, measured, cautiously supportive with substantive caveats; scholarly and evidence-based",
+    "executive_summary": "Professors Malinova and Park, academic market microstructure researchers, support the SEC's proposed rescission of Rule 611 (the Order Protection Rule/Trade-Through Rule) on two principal grounds: (1) the OPR's mandatory routing creates predictable cross-market order-splitting patterns that fast traders exploit through latency arbitrage, as documented in their own empirical research using Canadian regulatory audit-trail data; and (2) the OPR is structurally incompatible with the emerging world of tokenized equities trading on blockchain-based venues. Their support is conditioned on two important caveats: retail investors must retain robust best-execution protections anchored to a meaningful benchmark, and the Commission must monitor the potential weakening of incentives to post aggressive displayed limit orders following removal of the OPR's price-priority protection.",
+    "market_structure_topics": [
+      "Order Protection Rule (Rule 611) rescission",
+      "Trade-through rule and routing mandates",
+      "Market fragmentation and venue competition",
+      "Latency arbitrage and high-frequency trading",
+      "Cross-market order splitting and sniping",
+      "Tokenized equities and blockchain-based trading venues",
+      "Automated market makers (AMMs) and decentralized finance",
+      "Best execution obligations",
+      "Displayed liquidity and limit order incentives",
+      "National Market System integration",
+      "Retail investor protection",
+      "European market structure comparison (MiFID best execution)"
+    ],
+    "positions": {
+      "order_competition_rule": "Supportive of rescinding Rule 611; argue the OPR has outlived its purpose, generates exploitable predictability via mandatory order splitting, and is incompatible with tokenized/blockchain trading environments. Support is conditional on maintaining investor protections.",
+      "best_execution": "Strongly favor a robust, benchmark-anchored best-execution obligation as the replacement framework for investor protection post-OPR rescission. Explicitly warn against weak European-style 'all reasonable steps' standards, citing empirical evidence that only 79-86% of orders in European markets execute at the best available price under that regime.",
+      "tick_size_reform": "Not addressed",
+      "access_fee_reform": "Not addressed",
+      "transparency": "Implicitly supportive of transparency in displayed liquidity; caution that rescinding the OPR may reduce incentives to post aggressive displayed limit orders, with broader implications for price discovery and market quality that warrant Commission monitoring."
+    },
+    "economic_arguments": [
+      "The OPR's mandatory cross-venue order routing creates predictable order-splitting patterns that are structurally exploitable by fast traders, making latency arbitrage profitable as a direct consequence of regulatory compliance requirements rather than informational advantages.",
+      "Removing the OPR routing mandate eliminates the primary source of cross-market predictability that enables latency arbitrage, potentially reducing a form of trading cost imposed on investors by the rule itself.",
+      "The OPR is economically incompatible with blockchain-based trading systems: on-chain venues execute trades at discrete block intervals via smart contract calls, making real-time cross-system routing physically impossible.",
+      "Automated market makers price continuously based on pool state and may display best prices at any moment, creating an irresolvable compliance paradox if the OPR were extended to cover tokenized equity venues.",
+      "European best-execution experience demonstrates that vague 'reasonable steps' standards produce measurable execution quality shortfalls, with 14-21% of marketable orders failing to execute at the best available price across major Eurostoxx50 stocks.",
+      "A price-driven best-execution framework protects only marketable order submitters, leaving limit order posters\u2014who provide liquidity and bear option risk\u2014without the priority protection currently afforded by the OPR."
+    ],
+    "liquidity_arguments": [
+      "The OPR currently protects investors who post the best displayed prices by giving their orders priority over worse-priced orders; rescission removes this protection and may weaken the incentive to display aggressive limit orders.",
+      "Reduced incentives to post displayed limit orders could have broader negative implications for market liquidity quality, price discovery, and the overall health of displayed order books.",
+      "The Commission is urged to monitor post-rescission changes in displayed liquidity as a key market quality metric.",
+      "Cross-market order splitting mandated by the OPR, while intended to ensure best prices, paradoxically exposes liquidity-seeking orders to sniping by fast traders who anticipate subsequent legs of split orders arriving at other venues."
+    ],
+    "competition_arguments": [
+      "The OPR electronically integrates geographically dispersed market centers, but this integration comes at the cost of creating exploitable routing patterns that benefit fast traders at the expense of other market participants.",
+      "Rescinding the OPR allows best-execution obligations rather than hard routing mandates to govern competition between traditional and emerging (blockchain-based) trading venues, enabling more organic market evolution.",
+      "The inability of decentralized on-chain venues to comply with OPR routing requirements creates an unlevel competitive playing field that would either exclude blockchain venues from the NMS or impose irresolvable compliance burdens on traditional brokers."
+    ],
+    "retail_investor_arguments": [
+      "Retail investors are identified as the most vulnerable population requiring continued protection following OPR rescission, as they are the least sophisticated participants and most reliant on broker intermediation for execution quality.",
+      "A strong best-execution obligation anchored to a clear, measurable benchmark is recommended as the primary mechanism to protect retail investors in the absence of the OPR.",
+      "The European cautionary example is directly relevant to retail protection: weak best-execution standards demonstrably result in a significant percentage of orders not executing at the best available price, a harm that would disproportionately affect retail investors.",
+      "The authors implicitly distinguish between retail investors who submit marketable orders (protected by best-execution frameworks) and those who might post limit orders (whose priority protection would be lost with OPR rescission)."
+    ],
+    "recommended_actions": [
+      "Support rescission of Rule 611 (the Order Protection Rule/Trade-Through Rule).",
+      "Establish a robust best-execution obligation anchored to a specific, measurable benchmark to replace OPR investor protections, explicitly avoiding the weak European 'all reasonable steps' standard.",
+      "Ensure the best-execution framework provides meaningful, enforceable protection specifically for retail investors who rely on broker intermediation.",
+      "Monitor post-rescission market quality, with particular attention to changes in displayed liquidity, limit order posting incentives, and the broader implications for price discovery.",
+      "Consider the structural incompatibility of the OPR with tokenized equity and blockchain-based trading venues as a forward-looking rationale for rescission, and develop a regulatory framework that can accommodate both traditional and on-chain trading systems.",
+      "Allow best-execution obligations rather than hard routing mandates to govern the interaction between traditional NMS venues and emerging decentralized trading platforms."
+    ],
+    "key_quotes": [
+      "The OPR is a well-intended rule: it electronically integrates geographically dispersed market centers, it assures investors that their orders execute at the best displayed prices, and it gives priority to traders who publicly post the best-priced orders. We believe, however, that the rule has outlived its time, and we support the proposed rescission.",
+      "In short, the OPR's routing mandate itself generates the predictability that makes latency arbitrage profitable. Removing the mandate removes the source of this predictability.",
+      "On a platform such as Ethereum, trades are the result of calls to smart contracts; they execute when validators include them in a block, at discrete intervals; and the systems are disjoint, so it is impossible to 'route' an order from one to the other.",
+      "The absence of an order protection rule allows market participants to sidestep this essentially irresolvable issue, and lets best-execution obligations, rather than a hard routing mandate, govern the interaction between the two systems.",
+      "The Commission should ensure that a robust mechanism remains in place so that the least sophisticated participants, retail investors above all, continue to obtain the best available prices when relying on the services of a broker.",
+      "The European experience provides a cautionary tale: there, brokers merely apply the nebulous criterion of taking 'all reasonable steps' toward favourable outcomes... only 79-86% of marketable orders in Eurostoxx50 stocks execute at the best available price.",
+      "Rescinding the rule removes the protection that gives them priority over worse-priced orders, which may weaken the incentive to display aggressive limit orders. The Commission should consider, and monitor, the broader implications for displayed liquidity."
+    ],
+    "source_file": "00011_s7202620-820899-2503568.pdf.pdf"
+  },
+  {
+    "author": "Bernard McDevitt",
+    "affiliation": "FCF Securities and Derivatives LLC (d/b/a FOG Equities LLC)",
+    "stakeholder_type": "Broker-Dealer / Market Intermediary",
+    "overall_position": "mixed",
+    "tone": "Constructive and cautionary; formally respectful but urgently warning of unintended consequences",
+    "executive_summary": "FOG Equities, a Chicago-based registered broker-dealer specializing in the stock leg of complex listed options orders, conditionally supports the rescission of Rule 611 (the trade-through prohibition) but raises a focused and urgent concern: the Proposal eliminates the Qualified Contingent Trade (QCT) exemption without providing a replacement safe harbor. The firm argues this creates a regulatory vacuum that will introduce legal uncertainty into the equity hedging mechanism underpinning options market liquidity, foreseeably causing wider spreads, reduced depth in complex options series, and diminished hedging capacity. FOG Equities requests that the Commission issue a no-action letter or adopt a new standalone safe harbor for QCT-type transactions before or concurrent with finalizing the Proposal.",
+    "market_structure_topics": [
+      "Rescission of Rule 611 (Trade-Through Prohibition)",
+      "Qualified Contingent Trade (QCT) Exemption",
+      "Complex Listed Options Market Structure",
+      "Stock Leg of Stock-Option Contingent Trades",
+      "Best Execution Duty (FINRA Rule 5310)",
+      "National Best Bid and Offer (NBBO)",
+      "Options Market Maker Liquidity Provision",
+      "Regulatory Safe Harbors and No-Action Relief",
+      "Equity-Options Market Linkage",
+      "Regulation NMS Reform"
+    ],
+    "positions": {
+      "order_competition_rule": "Not directly addressed in this letter",
+      "best_execution": "Concerned that principles-based best execution duty (FINRA Rule 5310) is fundamentally ambiguous when applied to the stock leg of contingent options transactions, providing no bright-line standard to replace the QCT exemption's certainty; requests no-action relief or explicit FINRA guidance on how Rule 5310 applies to these transactions",
+      "tick_size_reform": "Not addressed in this letter",
+      "access_fee_reform": "Not addressed in this letter",
+      "transparency": "Implicitly supports regulatory clarity and predictability; criticizes the Proposal for failing to acknowledge, request comment on, or propose transitional relief for the QCT gap, characterizing the Commission's silence as a failure of transparency in rulemaking"
+    },
+    "economic_arguments": [
+      "The QCT exemption reflects a longstanding Commission finding that contingent trades contribute to efficient market functioning and price discovery, and that requiring the stock leg to meet trade-through provisions would make such trades too risky and costly to employ successfully.",
+      "Removing the QCT safe harbor without replacement disrupts the economics of options liquidity provision: market makers must price regulatory uncertainty into their quotes, resulting in wider spreads and reduced size, costs ultimately borne by investors.",
+      "The predetermined economics of a contingent trade fix the spread or ratio between component prices at order placement, meaning the stock leg price may legitimately differ from the prevailing NBBO \u2014 a structural feature that a facts-and-circumstances best execution standard cannot accommodate with predictability.",
+      "Liquidity provision in complex options series depends on market maker confidence built over years of stable regulatory treatment; once disrupted, restoring it after the fact may be slow and incomplete, counseling strongly for preemptive action.",
+      "The Commission's own 2006 findings in Release No. 34-54389 \u2014 that breaking up contingent trade components could leave parties out of hedge, prevent dealers from committing capital, and disadvantage the market as a whole \u2014 remain equally valid today and are directly applicable to the consequences of rescinding Rule 611 without a replacement."
+    ],
+    "liquidity_arguments": [
+      "The stock leg of a complex options order is the hedge that allows options market makers to quote multi-leg strategies confidently and in size; regulatory certainty around that hedge is a prerequisite for deep, tightly quoted complex options markets.",
+      "Without a defined safe harbor, each equity hedge priced outside the NBBO becomes subject to after-the-fact, facts-and-circumstances best execution scrutiny, making the hedge legally uncertain and operationally unreliable.",
+      "Market makers facing hedge uncertainty will respond by widening options quotes, reducing quoted size, or declining to quote certain complex series altogether, directly degrading liquidity in the complex options market.",
+      "Institutions managing risk, pension funds hedging equity exposure, and sophisticated investors constructing tailored risk profiles are the primary users of complex stock-tied options strategies and will bear the greatest harm from reduced liquidity depth.",
+      "The Commission itself warned in 2006 that reducing contingent trading activity 'potentially could remove liquidity from the market' \u2014 the Proposal risks reintroducing that precise harm as an unintended byproduct of equity market structure reform."
+    ],
+    "competition_arguments": [
+      "The Proposal is intended to reduce costs and enhance competition and market quality in equities, but by inadvertently undermining the hedging mechanism underpinning options liquidity, it risks producing the opposite result in the options market.",
+      "A reform designed to improve equity market quality should not be permitted to degrade options market quality as an unintended byproduct, particularly when the two markets are structurally linked through contingent stock-option transactions.",
+      "The Commission's separate options market structure review, including the April 2026 roundtable, does not address the immediate consequences of Rule 611 rescission for the stock leg of listed options orders, leaving a competitive gap that cannot await the outcome of that review."
+    ],
+    "retail_investor_arguments": [
+      "While FOG Equities' primary concern is market-wide, it notes that the investors who rely most heavily on complex stock-tied options strategies \u2014 including institutions and pension funds \u2014 depend on deep, tightly quoted complex options markets for efficient risk management.",
+      "As liquidity in complex options strategies thins due to regulatory uncertainty, the ability to efficiently construct and unwind hedges deteriorates, raising the cost of risk management across the market for all participants.",
+      "The Commission's broader market structure agenda aims to serve market participants broadly; degrading options market quality as an unintended consequence of equity reform would undermine that agenda and harm the investors it is designed to benefit."
+    ],
+    "recommended_actions": [
+      "Issue a no-action letter confirming that broker-dealers reporting the stock leg of a complex listed options order outside the NBBO, pursuant to the predetermined economics of the contingent transaction, will not be deemed to have violated best execution obligations under FINRA Rule 5310 or applicable Commission rules, provided the overall transaction meets conditions substantially equivalent to the seven elements of a qualified contingent trade set forth in Release No. 34-54389.",
+      "Alternatively, adopt a new standalone safe harbor \u2014 by rule or interpretive guidance \u2014 providing the same bright-line certainty as the QCT exemption for tied stock-option transactions, independent of Rule 611's existence, using the Commission's existing exemptive order authority as precedent.",
+      "At minimum, explicitly request comment on the QCT gap in any reproposing release, and coordinate with FINRA to issue guidance on how Rule 5310 applies to the stock leg of contingent options transactions.",
+      "Address the QCT safe harbor question before or concurrent with finalizing the Proposal, rather than leaving market participants without regulatory clarity during an indeterminate transition period pending the outcome of the separate options market structure review."
+    ],
+    "key_quotes": [
+      "'The stock leg is not an ancillary detail of these transactions; it is the hedge that makes options market makers willing to quote complex, multi-leg strategies in size.'",
+      "'Introducing legal uncertainty into the execution of that hedge would, FOG Equities submits, degrade liquidity in the options market, widen spreads, and impair the ability of investors to execute and hedge complex options strategies \u2014 the very harms the Commission sought to avoid when it granted the QCT exemption.'",
+      "'The Proposal states only that the duty of best execution is independent from the requirements under Rule 611 and will continue to apply. FOG Equities is concerned that this creates a material regulatory vacuum.'",
+      "'It is unclear whether prevailing market conditions incorporates the predetermined economics of the options leg, and whether pricing the stock component outside the NBBO to facilitate a complex options transaction satisfies the reasonable diligence standard.'",
+      "'The only thing that has changed is the regulatory vehicle: the harm the Commission guarded against by granting the exemption would now be reintroduced by rescinding the rule on which the exemption rests, without putting anything in its place.'",
+      "'A reform designed to improve equity market quality should not be permitted to degrade options market quality as an unintended byproduct.'",
+      "'Liquidity provision in complex options series depends on market maker confidence built over many years of stable regulatory treatment. If that confidence is disrupted and liquidity providers withdraw, restoring it after the fact \u2014 even through subsequent corrective guidance \u2014 may prove slow and incomplete.'",
+      "'The Commission has not addressed what standard will govern these transactions going forward... This silence is itself a concern: it suggests that the Commission may not have fully considered the downstream consequences of Rule 611's rescission for the complex options market.'"
+    ],
+    "source_file": "00015_s7202620-827579-2531957.pdf.pdf"
+  },
+  {
+    "author": "Division of Trading and Markets",
+    "affiliation": "U.S. Securities and Exchange Commission",
+    "stakeholder_type": "Regulator/Government Agency",
+    "overall_position": "unclear",
+    "tone": "neutral, analytical, data-driven",
+    "executive_summary": "This SEC Division of Trading and Markets internal memorandum updates six key market structure data tables originally published in the April 2015 EMSAC Market Structure Memo, substituting January 2026 data for the prior February 2014 figures. The memo documents significant structural shifts including dramatic growth in off-exchange (dark) trading, a massive increase in average daily share volume particularly in NASDAQ-listed stocks, a continued decline in average trade size, and persistent fragmentation across lit venues. It does not advocate for any specific policy position but provides empirical baseline data relevant to File Number S7-2026-20, which concerns Rule 611 of Regulation NMS.",
+    "market_structure_topics": [
+      "Rule 611 of Regulation NMS (Order Protection Rule)",
+      "Market share distribution across exchanges and dark venues",
+      "Off-exchange and dark trading fragmentation",
+      "Visible market fragmentation (HHI analysis)",
+      "Average daily share volume trends",
+      "Average trade size trends",
+      "Exchange consolidation and proliferation",
+      "FINRA TRF reporting and off-exchange volume",
+      "Lit venue competition",
+      "Market fragmentation over time"
+    ],
+    "positions": {
+      "order_competition_rule": "No explicit position taken; memo provides updated empirical data on market share and fragmentation relevant to Rule 611 (Order Protection Rule) rulemaking under File S7-2026-20",
+      "best_execution": "Not addressed",
+      "tick_size_reform": "Not addressed",
+      "access_fee_reform": "Not addressed",
+      "transparency": "Implicitly supports transparency through provision of updated public data on market structure metrics, but no explicit policy position stated"
+    },
+    "economic_arguments": [
+      "Average daily share volume in NASDAQ-listed stocks increased 333% from February 2014 to January 2026 (from 2.11 billion to 9.14 billion shares), suggesting dramatic growth in overall market activity",
+      "Average daily share volume in NYSE-listed stocks increased 50% from February 2014 to January 2026 (from 3.67 billion to 5.51 billion shares)",
+      "Average trade size has declined sharply and continuously: NYSE-listed stocks fell from 777 shares in 2005 to 110 shares in 2026 (-86% total), suggesting increasing algorithmic and retail participation with smaller order sizes",
+      "Average trade size in NASDAQ-listed stocks fell from 434 shares in 2005 to 146 shares in 2026 (-66% total), consistent with market microstructure fragmentation and high-frequency trading trends"
+    ],
+    "liquidity_arguments": [
+      "Dark trading as a share of total volume has grown substantially: NASDAQ-listed stocks rose from 29.4% in 2005 to 51.9% in January 2026, meaning over half of NASDAQ volume now executes off-exchange",
+      "NYSE-listed stock dark trading share rose from 13.0% in 2005 to 47.0% in January 2026, nearly quadrupling over two decades",
+      "The shift of volume to dark venues raises implicit questions about price discovery quality and the effectiveness of Rule 611's order protection framework on lit exchanges",
+      "Declining average trade sizes alongside rising total volume may indicate liquidity is more dispersed and harder to aggregate, with implications for institutional execution quality"
+    ],
+    "competition_arguments": [
+      "Lit venue fragmentation among NASDAQ-listed stocks remains high with no single dominant exchange: NASDAQ leads at 19.71% but FINRA TRFs account for 51.89% of volume, dwarfing all lit venues combined",
+      "NYSE has partially recovered its share in NYSE-listed stocks (23.30% in 2026 vs. 20.1% in 2014), suggesting some re-consolidation on the primary listing exchange",
+      "The number of lit trading venues has proliferated significantly, with at least 17 distinct market centers reporting volume for NYSE-listed stocks in January 2026 compared to far fewer in 2005",
+      "HHI for NYSE-listed stocks on visible venues declined from 0.816 in 2014 to 0.750 in 2026, indicating slightly more competitive fragmentation among lit venues",
+      "HHI for NASDAQ-listed stocks increased modestly from 0.754 in 2014 to 0.766 in 2026, suggesting marginal consolidation among lit venues for those stocks",
+      "New entrants such as MEMX, IEX, 24X, and LTSE have captured measurable but modest market share, demonstrating continued competitive entry into exchange markets"
+    ],
+    "retail_investor_arguments": [
+      "The dramatic decline in average trade size (to 110-146 shares) may reflect increased retail participation, as retail orders tend to be smaller than institutional orders",
+      "The dominance of FINRA TRFs (51.89% for NASDAQ stocks, 46.97% for NYSE stocks) suggests a large proportion of retail order flow is being internalized or executed in dark venues rather than on lit exchanges, which has implications for price improvement and execution quality debates",
+      "No explicit retail investor protection arguments are made in this memo, as it is purely a data update document"
+    ],
+    "recommended_actions": [
+      "No policy recommendations are made; the memorandum is solely a data update to support the rulemaking record for File Number S7-2026-20 concerning Rule 611 of Regulation NMS"
+    ],
+    "key_quotes": [
+      "The purpose of this memorandum is to update Table 1 through Table 6 of the memorandum re: Rule 611 of Regulation NMS from SEC Division of Trading and Markets to SEC Market Structure Advisory Committee, dated April 30, 2015.",
+      "FINRA TRFs: 51.89% [of NASDAQ-listed stock volume, January 2026]",
+      "FINRA TRFs: 46.97% [of NYSE-listed stock volume, January 2026]",
+      "Dark ATSs and Broker-Dealers [NASDAQ Stocks]: 29.4% [2005], 38.6% [2014], 51.9% [2026]",
+      "Dark ATSs and Broker-Dealers [NYSE Stocks]: 13.0% [2005], 34.6% [2014], 47.0% [2026]",
+      "Average Daily Share Volume NASDAQ Stocks: 1.97B [2005], 2.11B [2014], 9.14B [2026] \u2014 Change '14 to '26: +333%",
+      "Average Trade Size NYSE Stocks: 777 [2005], 195 [2014], 110 [2026] \u2014 Change '05 to '14: -75%, Change '14 to '26: -44%"
+    ],
+    "source_file": "00017_s7202620-831659-2544033.pdf.pdf"
+  },
+  {
+    "author": "Jeff Martinez, CRPC\u00ae",
+    "affiliation": "Treveri Capital LLC (Founder and Financial Advisor); former electronic floor broker at the Pacific Exchange; former Vice President of Sales at a major wirehouse",
+    "stakeholder_type": "Registered Investment Adviser / Retail Financial Advisor",
+    "overall_position": "mixed",
+    "tone": "Analytical, measured, and constructive; critical of the proposed rescission while acknowledging the validity of the SEC's diagnosis; respectful but firm in opposition to the remedy",
+    "executive_summary": "Jeff Martinez, a California-registered investment adviser and former exchange floor broker with over twenty years of market experience, comments on the SEC's proposal to rescind Rule 611 (the trade-through rule) and Rule 610(e) (locked and crossed markets) of Regulation NMS. He agrees with the Commission's diagnosis that the 2005 framework has failed to incentivize displayed liquidity and that dark trading has grown substantially. However, he strongly opposes outright rescission as the remedy, arguing it would remove the only cross-venue price-discovery discipline without fixing the underlying incentive failure. Instead, he proposes rebuilding the framework around a consolidated lit book with strict displayed-order priority, preserving an intermarket sweep mechanism for institutional block trading, extending trade-through discipline to tokenized NMS equities regardless of their technological wrapper, and allowing genuinely non-NMS assets to trade freely. He frames the core problem as a dual failure: a free-riding problem where dark orders execute at prices formed by displayed quotes without contributing to price discovery, and an agency problem where broker-dealers route orders for their own economic benefit rather than the customer's best outcome.",
+    "market_structure_topics": [
+      "Rule 611 trade-through protection",
+      "Rule 610(e) locked and crossed markets",
+      "Regulation NMS reform",
+      "Dark pool and off-exchange trading volume",
+      "Payment for order flow (PFOF)",
+      "Order routing conflicts of interest",
+      "Maker-taker fee model and access fee caps",
+      "Displayed vs. non-displayed liquidity incentives",
+      "Free-riding on public quotes by dark orders",
+      "Consolidated lit order book proposal",
+      "Strict displayed-order priority",
+      "Intermarket sweep orders (ISOs)",
+      "Tokenized securities and automated market makers (AMMs)",
+      "National Market System (NMS) equity classification",
+      "Price discovery and market fragmentation",
+      "Canadian and Australian dark trading reforms",
+      "Wholesaler internalization of retail order flow",
+      "Best execution duty (FINRA Rule 5310)",
+      "Rule 606/607 order routing disclosures",
+      "Access fee cap reduction to $0.0010 per share"
+    ],
+    "positions": {
+      "order_competition_rule": "Not directly addressed as a standalone topic, but Martinez implicitly supports the principle of order competition through his proposed consolidated lit book with strict displayed-order priority, which would force competitive interaction among displayed orders across venues and deny priority to non-displayed orders",
+      "best_execution": "Acknowledges the broker-dealer duty of best execution as a valid and independent obligation but argues it is an insufficient substitute for Rule 611 because it is a principles-based, after-the-fact enforcement standard rather than a structural price-discovery mechanism that ties competing venue prices together; notes that routing conflicts of interest undermine best execution in practice",
+      "tick_size_reform": "Not directly addressed",
+      "access_fee_reform": "Acknowledges the existing maker-taker model pays approximately $0.0020 per share in rebates to displayed liquidity providers, but argues this is insufficient compensation for adverse-selection risk; notes that the scheduled reduction of the access fee cap from $0.0030 to $0.0010 per share will further narrow the margin for displayed liquidity, worsening incentives; also notes that rescinding Rule 611 would unsettle the legal basis of the access fee cap itself since the cap applies by its terms to protected quotations",
+      "transparency": "Supports enhanced transparency through a consolidated displayed order book; references existing Rule 606/607 disclosure requirements for order routing and PFOF as necessary but insufficient; implicitly supports transparency reforms that would deepen the public quote and improve price discovery for all investors"
+    },
+    "economic_arguments": [
+      "Rule 611 has failed over two decades to incentivize displayed liquidity, with off-exchange trading regularly exceeding 50% of total volume since end of 2024",
+      "The maker-taker rebate of approximately $0.0020 per share is insufficient compensation for the adverse-selection and information-leakage costs of posting a visible quote, making dark execution economically superior for liquidity providers",
+      "Reducing the access fee cap from $0.0030 to $0.0010 per share will further narrow the economic margin for displayed liquidity, worsening the incentive problem rather than improving it",
+      "Rescinding Rule 611 would unsettle the legal basis of the access fee cap under Rule 610(c), since the cap applies by its terms to protected quotations, creating regulatory uncertainty",
+      "Dark orders free-ride on prices formed by displayed quotes without contributing to price formation, creating a structural subsidy for non-displayed trading at the expense of displayed liquidity providers",
+      "Strict displayed-order priority would cause liquidity to migrate to the lit book, deepening the public quote and improving the benchmark price against which all investors trade, including those who never interact with a wholesaler",
+      "The Canadian (2012) and Australian (2013) reforms conditioning dark execution on meaningful price improvement produced movement of activity toward displayed venues, suggesting strict priority would produce an even stronger migration effect",
+      "Internalization of retail order flow by a small number of wholesalers (Citadel Securities, Virtu, Jane Street) drains the lit book of the very order flow that would tighten displayed spreads, creating a self-reinforcing cycle of wide spreads and continued internalization"
+    ],
+    "liquidity_arguments": [
+      "Rescinding Rule 611 without replacement would accelerate the flight to dark trading rather than reverse it, because the underlying incentive failure remains unaddressed",
+      "A consolidated lit book with strict displayed-order priority would cause liquidity to migrate toward displayed venues, deepening the public quote and improving price discovery",
+      "Dark orders currently have no execution priority disadvantage relative to displayed orders at the same price, eliminating the incentive to display",
+      "Strict displayed-order priority does not ban dark liquidity but denies it priority, preserving optionality for those who prefer to hide orders while rewarding those who display",
+      "An intermarket sweep mechanism should be preserved in any replacement framework so that institutions can take displayed liquidity across all venues and price levels in a single action, addressing concerns about block trading market impact",
+      "The wide displayed spread that wholesalers improve upon exists precisely because internalization has drained the lit book; directing retail flow into the open market would tighten the public quote, making the benchmark itself better for all investors",
+      "The evidence from Canadian and Australian reforms shows that conditioning dark execution on price improvement moves activity toward displayed venues; strict priority should produce a stronger effect"
+    ],
+    "competition_arguments": [
+      "The Commission frames rescission as allowing competition and market forces to shape market structure, but the market force that failed\u2014the incentive to display\u2014remains equally broken after rescission",
+      "Broker-dealer routing conflicts of interest mean that competition among venues is distorted by intermediary economics rather than investor outcomes; rescission does not address this structural agency problem",
+      "Payment for order flow arrangements cause marketable retail orders to be routed to a small number of off-exchange wholesalers rather than to displayed venues, concentrating order flow away from competitive lit markets",
+      "Broker-dealers adding liquidity for their own account have incentive to route to whichever venue pays the richest rebate rather than the one that best serves the client, further distorting competitive venue dynamics",
+      "Tokenization platforms (identified by Benchmark Equity Research as including Securitize, Coinbase, and Galaxy Digital) are the most direct beneficiaries of rescission, suggesting the proposal may be shaped by the interests of new entrants rather than the investing public",
+      "Automated market makers on tokenized platforms price against their own liquidity pools without referencing the NBBO, creating a form of competition that bypasses public price discovery entirely",
+      "A technology-neutral displayed-priority rule would allow tokenized and traditional venues to compete on equal terms while preserving price discovery discipline for NMS equities regardless of their trading venue"
+    ],
+    "retail_investor_arguments": [
+      "Retail investors are harmed by the agency problem in order routing: broker-dealers route marketable retail orders to wholesalers in exchange for PFOF, so retail orders never reach the displayed book and do not contribute to price discovery",
+      "Wholesalers provide small per-order price improvements measured against a displayed spread that internalization has artificially widened; the apparent benefit to retail investors is illusory relative to what a deeper lit market would provide",
+      "A consolidated lit book with strict displayed-order priority would tighten the public quote, improving the benchmark price against which all investors trade, including retail investors who never interact with a wholesaler",
+      "Ordinary investors cannot see across tokenized and conventional venues; without trade-through protection on tokenized NMS equities, retail investors would be on the wrong side of persistent crossed markets and arbitrage spreads between venues",
+      "Rescinding Rule 611 without replacement removes the only structural mechanism tying execution prices across venues to the best displayed quotation, leaving retail investor protection entirely dependent on after-the-fact best execution enforcement",
+      "The author writes as a practicing retail financial adviser whose clients are retail investors, lending practical credibility to the retail impact analysis",
+      "A better public price serves the ordinary investor more durably than a small per-order rebate measured against a quote that internalization has hollowed out"
+    ],
+    "recommended_actions": [
+      "Reject outright rescission of Rule 611 and instead rebuild the trade-through framework around a consolidated displayed order book with strict displayed-order priority at every price level",
+      "Codify a rule that non-displayed orders may never trade at parity with or ahead of a displayed order at the same price, so that the only way to secure execution priority at the top of the book is to display",
+      "Preserve and re-codify an intermarket sweep order mechanism in any replacement framework so that institutions retain the ability to take displayed liquidity across all venues and price levels in a single action",
+      "Extend trade-through discipline and displayed-priority rules to tokenized NMS equities regardless of their technological wrapper or trading venue, on the principle that the regulatory category follows the underlying asset, not the token",
+      "Allow genuinely non-NMS assets\u2014tokenized bonds, tokenized real estate, fund interests, native digital assets, and purely synthetic instruments\u2014to trade freely without trade-through protection, since there is no public equity quotation for them to free-ride upon",
+      "Address the agency problem in order routing by strengthening the alignment between broker-dealer routing decisions and customer outcomes, rather than relying solely on after-the-fact best execution enforcement",
+      "Recognize that reducing the access fee cap to $0.0010 per share will further narrow the economic margin for displayed liquidity and factor this into the incentive analysis for any replacement framework"
+    ],
+    "key_quotes": [
+      "The Commission's diagnosis is largely correct, but its remedy is wrong.",
+      "Rescinding Rule 611 without replacing it, however, would remove the only cross-venue price-discovery discipline in the equity markets at the precise moment that tokenized securities are arriving on venues that reference no public quote at all.",
+      "The better course is not to abolish protection but to rebuild it correctly, around a consolidated displayed order book in which lit orders have strict priority, so that the act of showing a quote is finally rewarded.",
+      "Best execution is a principles-based, facts-and-circumstances standard enforced after the fact. It instructs a broker to seek favorable terms. It does not tie the prices of competing venues together, and it is not a structural price-discovery mechanism.",
+      "The market force the rule failed to harness, an incentive to display, is left exactly as broken after rescission as before. Removing the rule treats the complexity while abandoning the discipline, and it is likely to accelerate the flight to the dark rather than reverse it.",
+      "A hidden or dark order can execute at the national best bid or offer, a price formed by some other participant who posted a displayed quote and bore the information leakage and adverse-selection risk of showing their hand. The dark venue then prints at that price having contributed nothing to forming it.",
+      "The broker-dealer, not the customer, ordinarily decides where an order is routed, and a broker-dealer that controls the flow has every reason to route for its own economics rather than the customer's result.",
+      "Rescinding Rule 611 repairs none of this. It leaves the thin display incentive and the routing conflict exactly as they are, while removing the one mechanism that at least kept executions tethered to the best displayed quote. It treats the symptom and aggravates the disease.",
+      "If a token conveys the ownership and economic interest of a publicly traded NMS equity, it is that equity, and it should trade under the same displayed-priority discipline, whether on a blockchain or on a traditional exchange. The wrapper does not launder the asset out of its regulatory category.",
+      "The displayed spread is wide enough to improve upon precisely because two decades of internalization have drained the lit book of the very order flow that would tighten it.",
+      "A market that rewards display produces a better public price, and a better public price serves the ordinary investor more durably than a small per-order rebate measured against a quote that internalization has hollowed out.",
+      "The Commission is right that the present structure is broken. It is wrong that the answer is to remove the rule. The answer is to fix the incentive the rule failed to create."
+    ],
+    "source_file": "00018_s7202620-840359-2568811.pdf.pdf"
+  },
+  {
+    "author": "Michael Ravnitzky",
+    "affiliation": "Individual (Silver Spring, Maryland)",
+    "stakeholder_type": "Individual/Academic Observer",
+    "overall_position": "mixed",
+    "tone": "Analytical, measured, constructive, technically rigorous",
+    "executive_summary": "Michael Ravnitzky, an individual commenter from Silver Spring, Maryland, submits a technically sophisticated comment letter on the SEC's proposal to rescind Rule 611 (Trade-Through Rule) and Rule 610(e) (Locked and Crossed Markets) under Regulation NMS. Rather than opposing or supporting the proposal outright, Ravnitzky identifies five specific analytical gaps in the Commission's economic analysis and requests additional clarity, scenario analyses, and monitoring frameworks. His core concerns center on: (1) whether best execution obligations can functionally substitute for explicit price protection; (2) ambiguous fragmentation predictions; (3) insufficient analysis of quoting incentive changes; (4) unsubstantiated exchange disconnection assumptions; and (5) the limited inferential validity of odd-lot trade-through data as a proxy for round-lot behavior. The letter is notable for its intellectual rigor and absence of advocacy for any particular industry interest.",
+    "market_structure_topics": [
+      "Trade-through protection (Rule 611 rescission)",
+      "Best execution obligations as a substitute safeguard",
+      "Rule 605 reporting and execution quality metrics",
+      "Market fragmentation and off-exchange trading growth",
+      "Displayed liquidity and quoting incentives",
+      "Adverse selection and spread dynamics",
+      "Exchange connectivity and broker-dealer disconnection economics",
+      "Odd-lot vs. round-lot quote protection dynamics",
+      "Wholesaler internalization and payment for order flow",
+      "National Best Bid and Offer (NBBO) integrity",
+      "SIP data dissemination and top-of-book odd-lot quotes",
+      "Smaller exchange viability and competitive resilience",
+      "Cross-subsidization in wholesale market making",
+      "Scenario analysis and regulatory monitoring frameworks"
+    ],
+    "positions": {
+      "order_competition_rule": "Not directly addressed; implicitly relevant insofar as wholesaler internalization and routing incentives are discussed in the context of Rule 611 rescission",
+      "best_execution": "Skeptical that principles-based best execution obligations, assessed on an aggregate flow basis, can serve as an effective real-time substitute for explicit trade-through price protection, particularly for smaller orders; requests Commission clarify how per-order execution shortfalls will be monitored and addressed",
+      "tick_size_reform": "Not addressed",
+      "access_fee_reform": "Not directly addressed; exchange connectivity cost savings from potential broker-dealer disconnections are noted as a relevant economic variable",
+      "transparency": "Strongly supportive of enhanced transparency; requests publication of scenario analyses, disconnection rate assumptions, and explicit identification of Rule 605 metrics the Commission will use to monitor post-rescission execution quality"
+    },
+    "economic_arguments": [
+      "Best execution is a principles-based, flow-averaged standard that permits cross-subsidization across orders, meaning some orders may receive inferior prices while aggregate metrics remain acceptable \u2014 a structural limitation not resolved by Rule 605 enhancements alone",
+      "The proposal's fragmentation predictions are internally inconsistent: rescinding Rule 611 could reduce exchange connectivity incentives (reducing fragmentation) but simultaneously accelerate off-exchange internalization (increasing fragmentation), and the Commission does not resolve which effect dominates",
+      "The Commission's conclusions about exchange disconnection rates and their revenue impact on smaller exchanges rest on unstated assumptions; low, medium, and high disconnection scenarios should be modeled explicitly",
+      "Odd-lot trade-through cost data, used to suggest modest harm from trade-throughs, may not be a valid proxy for round-lot behavior because odd-lot quotes were historically unprotected and market participants have adapted their strategies accordingly",
+      "The sensitivity of posted liquidity to changes in expected adverse selection is not quantified, leaving the Commission's conclusion that effects on price efficiency will be limited without sufficient empirical grounding"
+    ],
+    "liquidity_arguments": [
+      "Liquidity providers may widen spreads, reduce displayed sizes, or shorten quote duration if trade-through protection is removed and adverse selection risk increases \u2014 the proposal acknowledges this but does not model the magnitude",
+      "The proposal notes that odd-lot quotes inside the NBBO are frequently traded through today, but does not explain how this observation translates to predictions about round-lot quoting behavior under the new regime",
+      "A detailed discussion of how spreads, displayed sizes, and quote duration might change under different market conditions would make the Commission's liquidity analysis more complete and credible",
+      "The conclusion that effects on displayed liquidity and price efficiency are likely limited depends critically on quoting behavior assumptions that are not fully articulated"
+    ],
+    "competition_arguments": [
+      "Smaller exchanges may face significant revenue pressure if broker-dealers disconnect to reduce connectivity and data costs following Rule 611 rescission; the Commission's assertion that exchanges will not exit the market requires more rigorous support",
+      "The proposal anticipates competitive innovation by exchanges in response to reduced trade-through protection, but does not specify what forms such innovation might take or how likely they are to succeed in retaining order flow",
+      "Wholesaler internalization may increase if trade-through protection is removed, potentially concentrating more retail order flow off-exchange and reducing competitive pressure on displayed markets",
+      "The distribution of trading activity between exchanges and off-exchange venues under the new framework is uncertain, and the Commission should outline the scenarios it considers most plausible"
+    ],
+    "retail_investor_arguments": [
+      "Retail orders, particularly smaller orders, may be most vulnerable to execution quality degradation because the per-order incentive for wholesalers to seek incremental price improvement is limited at small order sizes",
+      "The cross-subsidization dynamic in wholesale market making \u2014 where some orders receive better prices and others worse while averages remain acceptable \u2014 is a structural concern for retail investors whose individual orders may be on the unfavorable side of that distribution",
+      "Enhanced Rule 605 reporting is a necessary but potentially insufficient safeguard for retail investors if it cannot identify and trigger remediation of systematic per-order execution shortfalls",
+      "The Commission should clarify what specific Rule 605 metrics will be monitored post-rescission and what thresholds or patterns would prompt regulatory intervention to protect retail execution quality"
+    ],
+    "recommended_actions": [
+      "Publish scenario analyses showing the effects of different broker-dealer disconnection rates on exchange revenues, displayed liquidity, and retail execution quality",
+      "Clarify how best execution obligations and Rule 605 reporting are expected to function as real-time constraints on routing decisions in the absence of explicit trade-through price protection",
+      "Describe the monitoring tools and specific Rule 605 metrics the Commission will rely on to identify adverse outcomes after any rescission of Rule 611",
+      "Explain how the Commission expects the overall distribution of trading activity between exchanges and off-exchange venues to evolve, and identify which fragmentation scenarios are considered most plausible",
+      "Provide a more detailed analysis of how spreads, displayed sizes, and quote duration might change under different adverse selection conditions following rescission",
+      "Disclose the assumptions underlying disconnection estimates and present outcomes under low, medium, and high disconnection scenarios to allow readers to evaluate smaller exchange resilience",
+      "Explain the inferential relationship between odd-lot trade-through behavior and expected round-lot behavior, and provide a sensitivity analysis showing how conclusions change if round-lot behavior differs materially from odd-lot patterns",
+      "Address how the Commission expects to monitor and remediate systematic per-order execution shortfalls, particularly for smaller retail orders"
+    ],
+    "key_quotes": [
+      "Best execution is principles-based and assessed across a broker's flow... This structure allows for cross-subsidization: some orders may receive better prices and others less favorable prices while overall averages remain acceptable.",
+      "Nothing in these comments is intended to suggest that wholesalers would reduce execution quality if Rule 611 were rescinded; the point is simply that the proposal would benefit from a clearer explanation of how best execution and Rule 605 reporting are expected to operate as the primary safeguards in the new framework.",
+      "These trends point in different directions, and the proposal would benefit from a clearer explanation of how the Commission expects the overall distribution of trading activity to evolve.",
+      "Quantifying the sensitivity of posted liquidity to changes in expected adverse selection would help clarify the potential impact on execution quality.",
+      "Providing the assumptions behind the disconnection estimates and presenting outcomes under low, medium, and high disconnection scenarios would help readers understand the basis for the Commission's expectations and evaluate the resilience of smaller exchanges under the proposed framework.",
+      "Odd-lot patterns are informative, but they may not fully predict how market participants will treat larger displayed sizes.",
+      "Clarifying the monitoring tools and Rule 605 metrics the Commission will rely on to identify adverse outcomes after any rescission would also assist market participants in understanding how execution quality will be overseen in the new framework."
+    ],
+    "source_file": "00020_s7202620-842399-2579842.pdf.pdf"
+  },
+  {
+    "author": "Joe Lee",
+    "affiliation": "None (Retail Investor)",
+    "stakeholder_type": "Retail Investor",
+    "overall_position": "oppose",
+    "tone": "Respectful, concerned, cautious",
+    "executive_summary": "Joe Lee, a self-identified retail investor, opposes the proposed rescission of Rule 611 of Regulation NMS and the removal of the prohibition on locked and crossed quotations. He argues that these protections are essential for ordinary investors who lack control over order routing and execution, and that removing them without first establishing stronger safeguards would harm retail investors. He urges the SEC to retain the rules or delay repeal pending evidence of no retail harm.",
+    "market_structure_topics": [
+      "Rule 611 (Order Protection Rule)",
+      "Locked and crossed quotations",
+      "NBBO as execution benchmark",
+      "Best execution obligations",
+      "Order routing transparency",
+      "Retail execution quality",
+      "Broker routing disclosures"
+    ],
+    "positions": {
+      "order_competition_rule": "Opposes rescission of Rule 611; believes it provides essential price protection for retail investors who cannot control order routing or venue selection",
+      "best_execution": "Supports retention and strengthening of best execution obligations as a safeguard for retail investors who depend on brokers to act in their interest",
+      "tick_size_reform": "Not addressed",
+      "access_fee_reform": "Not addressed",
+      "transparency": "Supports improved broker routing disclosures and better tools for retail investors to compare execution quality across brokers"
+    },
+    "economic_arguments": [
+      "Rescinding Rule 611 may benefit sophisticated market participants but offers no clear economic benefit to retail investors",
+      "Removal of locked/crossed quotation prohibitions could lead to materially different fills for similar retail orders across brokers, creating inequitable outcomes",
+      "The NBBO's utility as a pricing benchmark would be diminished without Rule 611, making execution quality harder to evaluate"
+    ],
+    "liquidity_arguments": [
+      "No explicit liquidity arguments made; implicitly suggests that Rule 611 supports a coherent, unified price reference point that benefits retail order execution"
+    ],
+    "competition_arguments": [
+      "Increased flexibility for sophisticated market participants from Rule 611 rescission does not translate to competitive benefits for retail investors",
+      "Disparate execution quality across brokers could emerge, disadvantaging retail investors who lack the tools to identify or respond to inferior fills"
+    ],
+    "retail_investor_arguments": [
+      "Retail investors do not control order routing, venue selection, wholesaler arrangements, or execution algorithms and therefore depend on regulatory protections",
+      "Rule 611 and locked/crossed quotation prohibitions serve as critical safeguards for ordinary investors",
+      "Without these rules, retail investors face greater risk of receiving inferior executions with no practical recourse",
+      "Any repeal should be conditioned on the prior adoption of stronger retail execution-quality safeguards and disclosure tools"
+    ],
+    "recommended_actions": [
+      "Retain Rule 611 and the prohibition on locked and crossed quotations",
+      "If repeal proceeds, first adopt stronger retail execution-quality safeguards",
+      "Require clearer broker order routing disclosures to improve retail investor visibility",
+      "Develop better tools enabling ordinary investors to compare actual execution quality across brokers",
+      "Delay any repeal until the SEC can demonstrate with empirical evidence that retail investors will not be harmed"
+    ],
+    "key_quotes": [
+      "I am a retail investor and I oppose the proposed rescission of Rule 611 of Regulation NMS and the removal of the prohibition on locked and crossed quotations.",
+      "Retail investors generally do not control order routing, venue selection, wholesaler arrangements, or execution algorithms. We depend on brokers, best execution obligations, and clear market-wide price protection rules.",
+      "Removing Rule 611 may give sophisticated market participants more flexibility, but I do not see how it benefits ordinary retail investors.",
+      "It could make execution quality harder to evaluate, reduce the usefulness of the NBBO as a benchmark, and increase the risk that different brokers provide materially different fills for similar orders.",
+      "I respectfully urge the Commission to retain Rule 611 and the locked/crossed quotation protections, or at minimum delay any repeal until the Commission can show with evidence that retail investors will not be harmed."
+    ],
+    "source_file": "00001_Comments_of_joe_lee.html"
+  },
+  {
+    "author": "Scott S",
+    "affiliation": "Unknown - Retail Investor (presumed)",
+    "stakeholder_type": "retail_investor",
+    "overall_position": "oppose",
+    "tone": "hostile, emotional, confrontational, profane",
+    "executive_summary": "A retail investor strongly opposes the proposed rule change, arguing it would benefit large market makers Citadel and Virtu at the expense of retail investors. The commenter expresses deep distrust of the SEC, characterizing the agency as captured by Wall Street interests.",
+    "market_structure_topics": [
+      "payment_for_order_flow",
+      "market_maker_concentration",
+      "regulatory_capture",
+      "retail_investor_protection"
+    ],
+    "positions": {
+      "order_competition_rule": "The commenter opposes repeal of the referenced regulation, viewing it as protective of retail investors",
+      "best_execution": "Implicitly concerned that repeal harms retail execution quality",
+      "tick_size_reform": "Not addressed",
+      "access_fee_reform": "Not addressed",
+      "transparency": "Not addressed"
+    },
+    "economic_arguments": [
+      "Repeal of the regulation would financially benefit dominant market makers Citadel and Virtu",
+      "Retail investors would be economically harmed by the proposed repeal"
+    ],
+    "liquidity_arguments": [],
+    "competition_arguments": [
+      "Implicitly argues that the rule change favors entrenched large market makers over broader market participants"
+    ],
+    "retail_investor_arguments": [
+      "Retail investors would be disadvantaged by the repeal",
+      "The SEC is perceived as prioritizing Wall Street interests over retail investor protection"
+    ],
+    "recommended_actions": [
+      "Do not repeal the referenced regulation"
+    ],
+    "key_quotes": [
+      "It could not be more obvious that repealing this regulation would benefit Citadel & Virtu and screw retail investors.",
+      "I suppose that IS the ethos of the SEC; screw retail & suck off wall street"
+    ],
+    "source_file": "00002_Comments_of_Scott_S.html"
+  },
+  {
+    "author": "Mary Smith",
+    "affiliation": "Individual Retail Investor",
+    "stakeholder_type": "retail_investor",
+    "overall_position": "oppose",
+    "tone": "concerned, assertive, protective of retail investor interests",
+    "executive_summary": "Mary Smith, an individual retail investor, strongly opposes the SEC's proposed rescission of Rule 611 (Order Protection Rule) and Rule 610(e) of Regulation NMS. She argues these rules serve as essential backstops for best execution, promote market transparency by preventing locked and crossed markets, and sustain retail investor trust in U.S. markets. She urges the Commission to modernize rather than eliminate these protections.",
+    "market_structure_topics": [
+      "Order Protection Rule (Rule 611)",
+      "Rule 610(e) - locked and crossed markets",
+      "Regulation NMS",
+      "National Best Bid and Offer (NBBO)",
+      "Best execution",
+      "Market fragmentation",
+      "Price discovery",
+      "Dark pools and lit venues",
+      "High-frequency trading",
+      "Retail investor protection",
+      "Market transparency"
+    ],
+    "positions": {
+      "order_competition_rule": "Not directly addressed, but implicitly supportive of rules that protect retail order execution quality and oppose removal of existing order protection mechanisms",
+      "best_execution": "Strongly supportive of maintaining Rule 611 as an objective backstop for best execution; concerned that rescission would leave retail investors reliant solely on broker-dealer internal routing with no regulatory floor",
+      "tick_size_reform": "Not directly addressed",
+      "access_fee_reform": "Briefly mentioned as a potential area for modernization rather than outright rescission; suggests adjusting access fees as a preferable alternative to removing core protections",
+      "transparency": "Strongly supportive of maintaining transparency through prohibition of locked and crossed markets; opposes any changes that would increase market opacity or fragmentation across dark and lit venues"
+    },
+    "economic_arguments": [
+      "Compliance costs and market fragmentation concerns cited by proponents of rescission are characterized as acceptable costs of maintaining a fair system",
+      "Rescission of Rule 611 could allow retail orders to be executed at inferior prices, effectively subsidizing institutional and high-frequency trader latency advantages at the expense of retail participants",
+      "Removal of objective price standards shifts execution quality responsibility entirely to broker-dealer internal routing, creating potential for conflicts of interest and inferior outcomes"
+    ],
+    "liquidity_arguments": [
+      "Fragmentation of markets into disparate dark and lit pools with varying price protections would reduce retail investors' ability to confidently assess market conditions",
+      "The NBBO serves as a primary and accessible indicator of market health for retail investors; its erosion would diminish market clarity",
+      "No explicit liquidity provision or market-making arguments made, but implicitly argues that retail participation underpins market health"
+    ],
+    "competition_arguments": [
+      "Rescission would tilt the playing field toward professional traders and high-frequency traders who can navigate a more complex, less regulated landscape",
+      "Retail investors lack the tools and sophistication to compete in a fragmented, unprotected market environment",
+      "Removing Rule 611 prioritizes institutional routing efficiency over retail price protection, creating an uneven competitive dynamic"
+    ],
+    "retail_investor_arguments": [
+      "Rule 611 provides a clear, objective, and trustworthy standard (NBBO) that retail investors rely upon when placing orders",
+      "Retail participation in U.S. markets is at an all-time high due to belief in market fairness and transparency; rescission threatens this confidence",
+      "Declining retail trust and participation could result if foundational protections are removed in favor of institutional efficiency",
+      "Individual investors are not equipped to independently verify or negotiate execution quality without a regulatory baseline",
+      "The Commission should modernize existing rules rather than eliminate protections that guarantee a baseline of fairness for all investors"
+    ],
+    "recommended_actions": [
+      "Reject the proposal to rescind Rule 611 and Rule 610(e) of Regulation NMS",
+      "If modernization is needed, improve the definition of protected quotes rather than eliminating the Order Protection Rule",
+      "Consider adjusting access fees as a targeted reform rather than removing core investor protections",
+      "Ensure any replacement framework is robust and proven before removing existing safeguards"
+    ],
+    "key_quotes": [
+      "I am writing to express my strong opposition to the Commission's proposal to rescind Rule 611 (the 'Order Protection Rule') and Rule 610(e) of Regulation NMS.",
+      "Without the objective 'backstop' of Rule 611, there is a significant risk that retail orders could be executed at inferior prices, essentially subsidizing institutional latency advantages at the expense of everyday participants.",
+      "If the market becomes a collection of disparate 'dark' and 'lit' pools with varying price protections, the ability for an individual to confidently enter the market will diminish.",
+      "Repealing these foundational rules signals that the Commission is prioritizing the efficiency of high-frequency trading and institutional routing over the price-protection of the individual.",
+      "These are costs of maintaining a fair system.",
+      "If the Commission believes the current rules are outdated, it should focus on modernizing them to reflect current market realities... rather than removing the protections that guarantee a baseline of fairness for all investors."
+    ],
+    "source_file": "00004_Comments_of_Mary.html"
+  },
+  {
+    "author": "Fardeen Irani",
+    "affiliation": "Individual (no institutional affiliation stated)",
+    "stakeholder_type": "Individual Retail Investor / Market Structure Commentator",
+    "overall_position": "mixed",
+    "tone": "Analytical, technically sophisticated, cautiously supportive of deregulation with strong caveats, reform-oriented",
+    "executive_summary": "Fardeen Irani submits a technically detailed comment on the SEC's proposal to rescind Rule 611 (trade-through prohibition) and Rule 610(e) (locked/crossed quotation restrictions). While broadly supportive of moving toward a disclosure-based, free-market routing architecture, Irani argues that deregulation alone is insufficient given empirical evidence that 46\u201393% of internalized retail orders bypass superior midpoint liquidity available on public exchanges and ATSs. The letter calls for concurrent, aggressive enforcement of Best Execution obligations, mandatory pre-internalization venue scanning, modernization of Rule 605 price impact metrics to a one-minute window, PFOF reform, variable tick size harmonization under Rule 612, and technological upgrades to Smart Order Routers. Irani frames the rescission of Rule 611 as structurally sound but warns it creates a regulatory vacuum that must be filled by fiduciary enforcement rather than algorithmic mandates.",
+    "market_structure_topics": [
+      "Rescission of Rule 611 (Trade-Through Prohibition)",
+      "Rescission of Rule 610(e) (Locked and Crossed Quotations)",
+      "Retail Order Internalization and Wholesaler Economics",
+      "NBBO Midpoint Dynamics and Sub-Penny Quoting",
+      "Payment for Order Flow (PFOF)",
+      "Best Execution (FINRA Rule 5310)",
+      "Rule 605 Execution Quality Disclosure Reform",
+      "Variable Tick Sizes and Rule 612",
+      "Smart Order Router (SOR) Architecture",
+      "Odd-Lot Quotation and Protected Quote Reform",
+      "Alternative Trading Systems (ATS) and Venue Fragmentation",
+      "High-Frequency Trading and Inverted-Spread Arbitrage",
+      "Intermarket Sweep Orders (ISOs)",
+      "Midpoint-Pegged Order Types",
+      "Adverse Selection and Price Impact Measurement",
+      "Consolidated Audit Trail (CAT) Analytics"
+    ],
+    "positions": {
+      "order_competition_rule": "Not directly addressed; implicitly supportive of competitive routing frameworks that force brokers to scan all venues for superior midpoint liquidity rather than defaulting to captive wholesaler relationships",
+      "best_execution": "Strongly supportive of aggressive enforcement; argues Best Execution must become the primary investor protection mechanism replacing Rule 611, with FINRA Rule 5310 enforcement requiring brokers to demonstrate regular sampling and routing to venues displaying superior midpoint liquidity",
+      "tick_size_reform": "Supportive; endorses full implementation of Rule 612 variable sub-penny tick sizes to level the competitive playing field between public exchanges and off-exchange wholesalers, arguing current asymmetry drives order flow away from transparent venues",
+      "access_fee_reform": "Not explicitly addressed",
+      "transparency": "Strongly supportive of enhanced transparency; advocates shortening Rule 605 price impact measurement window from five minutes to one minute to reflect modern trading speeds and prevent concealment of poor execution quality"
+    },
+    "economic_arguments": [
+      "Between 46% and 73% of retail marketable order shares are internalized at prices worse than the NBBO midpoint, representing a systemic transfer of value away from retail investors",
+      "Between 40% and 93% of wholesaler principal-capacity executions that are worse than the NBBO midpoint had superior midpoint liquidity available on public exchanges or ATSs at the time of execution, indicating the inferior pricing is not a function of liquidity absence but of routing incentives",
+      "For stocks priced above $30, between 60% and 93% of sub-midpoint wholesaler executions had unexecuted superior liquidity on transparent venues, suggesting the problem is most acute in higher-priced, more liquid securities",
+      "PFOF creates a misaligned economic incentive structure where retail brokers maximize routing revenue rather than execution quality, subsidizing wholesaler access to uninformed retail order flow at the expense of investor outcomes",
+      "Rescinding Rule 611 removes artificial barriers between protected round lots and unprotected odd lots, eliminating operational complexity without necessarily harming price discovery if Best Execution is robustly enforced",
+      "HFT arbitrage of inverted spreads following Rule 610(e) rescission will naturally compress inefficient spreads toward the midpoint, providing a market-based price correction mechanism without regulatory intervention"
+    ],
+    "liquidity_arguments": [
+      "Superior midpoint liquidity is already displayed on public exchanges and ATSs but is systematically bypassed by wholesalers routing under PFOF agreements, meaning the liquidity problem is one of access and incentives rather than supply",
+      "Variable sub-penny tick sizes under Rule 612 would allow exchanges to compete directly with wholesalers on price granularity, drawing retail order flow back to transparent lit books and improving displayed liquidity depth",
+      "Midpoint-pegged retail order types on exchanges would allow automated re-pricing as the NBBO midpoint shifts due to odd-lot quotations, capturing micro-penny improvements without human latency",
+      "Locked markets (zero spread) and crossed markets (negative spread) following Rule 610(e) rescission will create temporary but self-correcting liquidity dynamics as HFT arbitrageurs collapse inverted spreads",
+      "Dynamic SORs splitting retail orders across multiple venues rather than routing 100% to a single wholesaler would improve liquidity utilization and reduce the volume of orders internalized at inferior prices",
+      "ISOs deployed for retail order routing could simultaneously clear superior displayed odd-lot liquidity across fragmented venues, reducing the effective cost of venue fragmentation for retail investors"
+    ],
+    "competition_arguments": [
+      "Current Rule 611 architecture combined with PFOF creates a two-tier market where wholesalers have structural advantages over public exchanges, including the ability to quote in sub-pennies while exchanges were historically restricted to penny increments",
+      "Rescinding Rule 611 and 610(e) removes regulatory barriers that have entrenched wholesaler dominance by eliminating the protected quote framework that disadvantaged odd-lot liquidity on exchanges",
+      "Full Rule 612 implementation enabling sub-penny quoting on exchanges directly addresses the competitive asymmetry that drove retail order flow off-exchange, potentially rebalancing market share toward transparent venues",
+      "Phasing out or heavily restricting PFOF would force retail brokerages to compete on execution quality metrics rather than routing revenue, creating competitive pressure that benefits retail investors",
+      "Without Rule 611, brokers who blindly route to captive wholesalers will be exposed to Best Execution enforcement actions, creating competitive incentives to develop superior routing technology",
+      "HFT competition to arbitrage crossed markets post-Rule 610(e) rescission represents a natural competitive force that improves price efficiency without regulatory mandates"
+    ],
+    "retail_investor_arguments": [
+      "Retail investors are systematically harmed by the current internalization regime, with the majority of their marketable orders executed at prices worse than the NBBO midpoint despite superior prices being available",
+      "The removal of Rule 611 without concurrent Best Execution enforcement creates a regulatory vacuum that could worsen retail investor outcomes by eliminating the only structural routing protection currently in place",
+      "Retail investors lack the sophistication and market access to independently identify when their orders are being internalized at inferior prices, making robust Rule 605 disclosure and Best Execution enforcement essential consumer protections",
+      "Shortening the Rule 605 price impact window to one minute would give retail brokers actionable data to identify and terminate relationships with underperforming wholesalers, indirectly improving retail execution quality",
+      "Midpoint-pegged exchange order types specifically designed for retail investors would automate price optimization that currently requires institutional-grade routing infrastructure",
+      "PFOF reform is framed as a retail investor protection measure, arguing that the current system monetizes retail order flow at the expense of the investors generating it"
+    ],
+    "recommended_actions": [
+      "Aggressively enforce FINRA Rule 5310 Best Execution obligations, requiring brokers to demonstrate regular sampling and routing to venues displaying superior midpoint liquidity rather than defaulting to captive wholesaler relationships",
+      "Mandate pre-internalization venue scanning, requiring wholesalers to systematically ping public exchanges and ATSs to confirm no superior passive midpoint liquidity is available before executing in a principal capacity",
+      "Permanently shorten the Rule 605 price impact measurement window from five minutes to one minute to reflect modern trading speeds and improve the accuracy of adverse selection disclosure",
+      "Require retail brokerages to upgrade Smart Order Routers to dynamically split and route orders to exchanges when superior odd-lot or round-lot midpoint liquidity is displayed, rather than routing 100% of flow to a single wholesaler",
+      "Direct exchanges to develop midpoint-pegged retail order types that automatically re-price to the shifting NBBO midpoint as odd-lot quotations change the midpoint calculation",
+      "Encourage or mandate broker use of Intermarket Sweep Orders to simultaneously access superior displayed retail odd-lot liquidity across fragmented venues",
+      "Fully implement Rule 612 variable sub-penny tick sizes to eliminate the competitive asymmetry between exchanges and wholesalers on price granularity",
+      "Phase out or heavily restrict Payment for Order Flow to realign broker incentives toward execution quality rather than routing revenue maximization"
+    ],
+    "key_quotes": [
+      "The Commission must carefully evaluate how the removal of trade-through protections interacts with the systemic internalization of retail order flow.",
+      "Between 40% and 93% of the shares in marketable retail orders that wholesalers internalize at prices less favorable than the NBBO midpoint actually had midpoint liquidity available at a better price on a public exchange or an Alternative Trading System.",
+      "For stocks priced higher than $30, between 60% and 93% of these principal-capacity wholesaler executions had unexecuted, superior midpoint liquidity sitting readily available on transparent venues.",
+      "Because up to 93% of internalized retail orders are bypassed despite superior midpoint liquidity sitting on exchanges, the SEC cannot rely on deregulation alone.",
+      "If the trade-through rule is eliminated, the Commission must strictly mandate that retail brokers actively scan all public and private venues to capture these available midpoint prices.",
+      "The fiduciary mandate of Best Execution must be fiercely enforced to ensure that retail investors are not continually internalized at inferior prices when superior liquidity is openly displayed on the tape.",
+      "Without Rule 611 forcing a trade to route to the best price, regulators must aggressively penalize brokers who blindly route to a captive wholesaler.",
+      "The economic incentive driving sub-optimal internalization is PFOF\u2014wholesalers paying brokers for exclusive access to 'uninformed' retail trades.",
+      "Phasing out or heavily restricting PFOF would force retail brokerages to compete strictly on execution quality (price improvement) rather than maximizing secondary routing revenue.",
+      "This algorithmic competition will naturally collapse inefficient spreads, automatically pushing prices back to a highly efficient midpoint without needing a regulatory mandate."
+    ],
+    "source_file": "00005_Comments_of_Fardeen_Irani.html"
+  },
+  {
+    "author": "Timothy Ryan McCormack",
+    "affiliation": "Unknown/Individual",
+    "stakeholder_type": "Individual/Retail Public",
+    "overall_position": "unclear",
+    "tone": "informal, tangential, non-substantive",
+    "executive_summary": "The comment letter submitted by Timothy Ryan McCormack does not address any substantive SEC rulemaking topics related to market microstructure, equity market structure reform, order competition, best execution, tick sizes, or access fees. Instead, the letter discusses unrelated concerns about telephone scams, malware, viruses, telecom companies profiting from malware remediation, and outdated software. The comment appears to be entirely off-topic relative to the SEC rulemaking docket it was submitted under.",
+    "market_structure_topics": [],
+    "positions": {
+      "order_competition_rule": "No position stated",
+      "best_execution": "No position stated",
+      "tick_size_reform": "No position stated",
+      "access_fee_reform": "No position stated",
+      "transparency": "No position stated"
+    },
+    "economic_arguments": [],
+    "liquidity_arguments": [],
+    "competition_arguments": [],
+    "retail_investor_arguments": [],
+    "recommended_actions": [
+      "Remove outdated software from the market (as stated by author, though unrelated to SEC rulemaking)"
+    ],
+    "key_quotes": [
+      "scammers are hitting insurance people's telephones with an overflow of links and comments; it has led to more viruses and malware incidents",
+      "telecom sectors like AT&T and Spectrum are getting paid to fix offline malware like never before",
+      "perhaps we need to extract outdated software from the market"
+    ],
+    "source_file": "00006_Comments_of_Timothy_Ryan_McCormack.html"
+  },
+  {
+    "author": "Unknown/Unclear",
+    "affiliation": "US State Government Agencies, Telemetry (unverified)",
+    "stakeholder_type": "unclear",
+    "overall_position": "unclear",
+    "tone": "incoherent",
+    "executive_summary": "This submission does not constitute a substantive comment letter on SEC rulemaking. The text is incoherent, contains no identifiable policy positions, and appears to conflate unrelated concepts including encrypted account holders, GLEI (possibly intended as LEI - Legal Entity Identifier), infrastructure settlement systems, and an unrelated reference to PTSD. The filing references File No. S7-2026-20, which does not correspond to any known active SEC rulemaking docket. The submission lacks any substantive analysis, legal argument, economic reasoning, or actionable policy recommendation.",
+    "market_structure_topics": [],
+    "positions": {
+      "order_competition_rule": "no position stated",
+      "best_execution": "no position stated",
+      "tick_size_reform": "no position stated",
+      "access_fee_reform": "no position stated",
+      "transparency": "no position stated"
+    },
+    "economic_arguments": [],
+    "liquidity_arguments": [],
+    "competition_arguments": [],
+    "retail_investor_arguments": [],
+    "recommended_actions": [
+      "Disregard submission as non-substantive",
+      "Flag for SEC staff review as potentially incoherent or fraudulent filing",
+      "Do not attribute any policy position to any government agency based on this submission",
+      "Verify whether File No. S7-2026-20 is a valid docket number before associating this letter with any active rulemaking"
+    ],
+    "key_quotes": [
+      "Is the encrypted account holder essential establishing public disclosure or tag with unique GLEI?",
+      "The infrastructure system backended supposed to hand off operating processes settlement after PTSD"
+    ],
+    "source_file": "00007_Comments_of_US_State_Government_Agencies_Telemetry.html"
+  },
+  {
+    "author": "Alex Zislin",
+    "affiliation": "Individual Retail Investor",
+    "stakeholder_type": "retail_investor",
+    "overall_position": "oppose",
+    "tone": "concerned, direct, brief",
+    "executive_summary": "Alex Zislin, a self-described active small investor, opposes the proposed changes to the Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS (File No. S7-2026-20), citing the importance of best price execution to his personal portfolio performance.",
+    "market_structure_topics": [
+      "Trade-Through Rule",
+      "Locked and Crossed Markets",
+      "Regulation NMS",
+      "Best Price Execution",
+      "Order Protection"
+    ],
+    "positions": {
+      "order_competition_rule": "Not addressed",
+      "best_execution": "Strongly supportive of maintaining best execution protections; opposes changes that may weaken them",
+      "tick_size_reform": "Not addressed",
+      "access_fee_reform": "Not addressed",
+      "transparency": "Not addressed"
+    },
+    "economic_arguments": [
+      "Best price execution is critical to maximizing retail investor portfolio returns",
+      "Changes to the Trade-Through Rule may negatively impact the prices retail investors receive on their orders"
+    ],
+    "liquidity_arguments": [],
+    "competition_arguments": [],
+    "retail_investor_arguments": [
+      "As an active small investor, the author has a direct personal stake in best execution outcomes",
+      "Proposed changes to Regulation NMS Trade-Through Rule protections are seen as harmful to retail investors who rely on order protection rules to receive the best available prices"
+    ],
+    "recommended_actions": [
+      "Reject or withdraw the proposed changes to the Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS"
+    ],
+    "key_quotes": [
+      "I wish to register opposition to the proposed changes to S7-2026-20 == The Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS.",
+      "As an active small investor, best price execution of orders is extremely important to maximizing my portfolio."
+    ],
+    "source_file": "00008_Comments_of_Alex_Zislin.html"
+  },
+  {
+    "author": "Alex Zislin",
+    "affiliation": "Individual retail investor",
+    "stakeholder_type": "Retail Investor",
+    "overall_position": "oppose",
+    "tone": "Concerned, direct, brief",
+    "executive_summary": "Alex Zislin, an active small retail investor, opposes the proposed changes to the Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS (File No. S7-2026-20), citing the critical importance of best price execution to his personal portfolio performance.",
+    "market_structure_topics": [
+      "Trade-Through Rule",
+      "Locked and Crossed Markets",
+      "Regulation NMS",
+      "Best Price Execution",
+      "Order Protection"
+    ],
+    "positions": {
+      "order_competition_rule": "Not addressed",
+      "best_execution": "Strongly supportive of maintaining best execution protections; opposes changes that may weaken them",
+      "tick_size_reform": "Not addressed",
+      "access_fee_reform": "Not addressed",
+      "transparency": "Not addressed"
+    },
+    "economic_arguments": [
+      "Best price execution is essential to maximizing retail investor portfolio returns",
+      "Changes to the Trade-Through Rule could negatively impact the prices retail investors receive on their orders"
+    ],
+    "liquidity_arguments": [],
+    "competition_arguments": [],
+    "retail_investor_arguments": [
+      "As an active small investor, the author is directly and personally affected by order execution quality",
+      "Weakening the Trade-Through Rule protections could harm retail investors who rely on best price guarantees",
+      "Retail investors depend on Regulation NMS protections to ensure they receive the best available prices in the market"
+    ],
+    "recommended_actions": [
+      "Reject or withdraw the proposed changes to the Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS"
+    ],
+    "key_quotes": [
+      "I wish to register opposition to the proposed changes to S7-2026-20 == The Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS.",
+      "As an active small investor, best price execution of orders is extremely important to maximizing my portfolio."
+    ],
+    "source_file": "00009_Comments_of_Alex_Zislin.html"
+  },
+  {
+    "author": "Donald Barry Smith Jr",
+    "affiliation": "None (Individual Retail Investor)",
+    "stakeholder_type": "retail_investor",
+    "overall_position": "oppose",
+    "tone": "adversarial, skeptical, populist, informal",
+    "executive_summary": "Donald Barry Smith Jr, an individual retail investor, opposes the proposed rule change, arguing it serves Wall Street interests at the expense of retail investors. He dismisses the SEC's stated justification of reducing trading complexity as unconvincing, and warns that removing the existing rule would enable trading firms to route orders for their own profit rather than in the best interest of retail customers.",
+    "market_structure_topics": [
+      "order routing",
+      "conflicts of interest",
+      "retail investor protection",
+      "broker-dealer incentives",
+      "existing regulatory framework"
+    ],
+    "positions": {
+      "order_competition_rule": "Strongly opposes any removal or weakening of the existing rule, asserting it is functioning adequately as written.",
+      "best_execution": "Implicitly supports best execution obligations, warning that deregulation would allow firms to prioritize profits over client outcomes.",
+      "tick_size_reform": "Not addressed",
+      "access_fee_reform": "Not addressed",
+      "transparency": "Not explicitly addressed, though concern about order routing discretion implies support for routing transparency"
+    },
+    "economic_arguments": [
+      "The proposed change would financially benefit Wall Street trading firms at the expense of retail investors.",
+      "Trading firms would exploit increased order routing discretion to maximize their own profits rather than improve market outcomes."
+    ],
+    "liquidity_arguments": [],
+    "competition_arguments": [
+      "Removing the rule would allow trading firms to selectively route orders in self-serving ways, undermining fair competition and neutral order flow."
+    ],
+    "retail_investor_arguments": [
+      "Retail investors will bear significant costs if the rule is removed.",
+      "The current rule provides meaningful protection for retail participants that should not be dismantled."
+    ],
+    "recommended_actions": [
+      "Retain the existing rule without modification.",
+      "Reject the proposed rule change as unjustified and harmful to retail investors."
+    ],
+    "key_quotes": [
+      "This is just a way for wall street to make more money.",
+      "The rule is working just fine.",
+      "The justification that it is 'making trading too complex' is laughable.",
+      "Removing this rule will allow trading firms to pick and choose where to send orders in order to increase profits.",
+      "Retail investors will pay a heavy price if this rule is removed."
+    ],
+    "source_file": "00009_Comments_of_Donald_Barry_Smith_Jr.html"
+  },
+  {
+    "author": "Donald Barry Smith Jr",
+    "affiliation": "None (Individual Retail Investor)",
+    "stakeholder_type": "Retail Investor / Individual",
+    "overall_position": "oppose",
+    "tone": "Skeptical, adversarial, populist, informal",
+    "executive_summary": "Donald Barry Smith Jr opposes the proposed rule change, arguing that the existing rule is functioning adequately and that the proposed modification is motivated by Wall Street profit-seeking rather than genuine market improvement. He warns that removing the rule would harm retail investors by allowing trading firms to route orders opportunistically for their own financial benefit.",
+    "market_structure_topics": [
+      "Order routing practices",
+      "Retail investor protection",
+      "Regulatory rollback concerns",
+      "Conflicts of interest in order flow"
+    ],
+    "positions": {
+      "order_competition_rule": "Strongly opposes any removal or weakening of the existing rule, asserting it is working as intended",
+      "best_execution": "Implicitly supports best execution protections, warning that deregulation would undermine fair order routing for retail investors",
+      "tick_size_reform": "Not addressed",
+      "access_fee_reform": "Not addressed",
+      "transparency": "Not explicitly addressed, though concern about firm discretion in order routing implies support for transparency constraints"
+    },
+    "economic_arguments": [
+      "The proposed rule change is characterized as a mechanism to increase profits for Wall Street trading firms rather than improve market efficiency",
+      "Removing the rule would shift economic benefits away from retail investors toward institutional trading firms"
+    ],
+    "liquidity_arguments": [
+      "No explicit liquidity arguments made"
+    ],
+    "competition_arguments": [
+      "Warns that without the rule, trading firms would selectively route orders to venues that maximize their own profits, undermining competitive and neutral order routing"
+    ],
+    "retail_investor_arguments": [
+      "Retail investors will bear significant costs if the rule is removed",
+      "The current rule provides meaningful protection to retail participants",
+      "Deregulation in this area disproportionately benefits sophisticated trading firms at the expense of ordinary investors"
+    ],
+    "recommended_actions": [
+      "Retain the existing rule without modification",
+      "Reject the justification that the current rule creates undue complexity"
+    ],
+    "key_quotes": [
+      "This is just a way for wall street to make more money.",
+      "The rule is working just fine.",
+      "The justification that it is 'making trading too complex' is laughable.",
+      "Removing this rule will allow trading firms to pick and choose where to send orders in order to increase profits.",
+      "Retail investors will pay a heavy price if this rule is removed."
+    ],
+    "source_file": "00010_Comments_of_Donald_Barry_Smith_Jr.html"
+  },
+  {
+    "author": "Professor DR WISITH TUN-YHONG",
+    "affiliation": "Unknown/Not specified",
+    "stakeholder_type": "Academic (self-identified)",
+    "overall_position": "unclear",
+    "tone": "Deferential, incoherent, apologetic, rambling",
+    "executive_summary": "This comment letter is largely unintelligible and does not contain substantive analysis of the SEC's proposed NMS rules. The author makes vague references to NMS rulemaking, US Government fiscal benefits, and a claimed 28-year personal trading research history, but fails to articulate any clear policy position, economic argument, or actionable recommendation. The letter does not meet the threshold of a substantive regulatory comment.",
+    "market_structure_topics": [
+      "NMS rulemaking (referenced vaguely)",
+      "Trading research (self-referenced, unsubstantiated)"
+    ],
+    "positions": {
+      "order_competition_rule": "No discernible position",
+      "best_execution": "No discernible position",
+      "tick_size_reform": "No discernible position",
+      "access_fee_reform": "No discernible position",
+      "transparency": "No discernible position"
+    },
+    "economic_arguments": [
+      "Author vaguely claims benefits of NMS-related activity accrue to US citizens broadly via Treasury and OMB channels \u2014 no supporting analysis provided",
+      "References a 28-year trading research period with claimed broad economic outcomes \u2014 entirely unsubstantiated"
+    ],
+    "liquidity_arguments": [],
+    "competition_arguments": [],
+    "retail_investor_arguments": [
+      "Implies US citizens are the intended beneficiaries of the regulatory framework \u2014 no specific retail investor protection argument developed"
+    ],
+    "recommended_actions": [
+      "No actionable regulatory recommendations provided",
+      "Author requests decision-makers read more about his personal trading career before ruling"
+    ],
+    "key_quotes": [
+      "NMS acknowledgement that may over rules of act of whatever its doesn't matter the result of benefit its belong to whom may essential to focusing than another issues",
+      "The result of benefits not belong to another even me because a long period of trading timing its represent me as subjective integrating with objects to make research without my consent informed",
+      "all of these not significant to me due to the result of the study is allocating beneficial to US citizens long time for 28 years",
+      "If I break a rules then I apologized and I will respect all of you to make decision",
+      "respecting all decision outcome whatever be"
+    ],
+    "source_file": "00010_Comments_of_Professor_DR_WISITH_TUN-YHONG.html"
+  },
+  {
+    "author": "Jared Albert",
+    "affiliation": "Individual Retail Investor / Lit Exchange Liquidity Provider",
+    "stakeholder_type": "Retail Investor / Individual",
+    "overall_position": "oppose",
+    "tone": "Highly adversarial, emotionally charged, repetitive, urgent, accusatory",
+    "executive_summary": "Jared Albert, an individual retail investor who actively places hidden and odd-lot resting limit orders on primary listing exchanges, submits a collection of emails to multiple SEC Chairs opposing Payment for Order Flow (PFOF) and off-exchange internalization. His core argument is that FINRA-reported trades routinely trade through his resting hidden and odd-lot limit orders on lit exchanges without first checking for available liquidity, constituting what he characterizes as theft and fraud. He calls on the SEC to ban PFOF, enforce FINRA Rule 5310 best execution requirements, and require that all orders interact with the primary listing exchange before any off-exchange execution. He draws comparisons to G7 and OECD nations that have banned or restricted PFOF and internalization.",
+    "market_structure_topics": [
+      "Payment for Order Flow (PFOF)",
+      "Off-exchange / dark trading",
+      "Best execution (FINRA Rule 5310)",
+      "Hidden and odd-lot order trade-throughs",
+      "Internalization by wholesalers",
+      "Lit exchange liquidity and quote quality",
+      "NBBO formation and reference pricing",
+      "Adverse selection on lit markets",
+      "Spread widening",
+      "Primary listing exchange interaction requirements",
+      "Retail Liquidity Programs",
+      "Midpoint execution",
+      "SRO enforcement failures",
+      "International regulatory comparisons (G7/OECD)"
+    ],
+    "positions": {
+      "order_competition_rule": "Strongly supports requiring all orders to interact with the primary listing exchange before off-exchange execution; believes orders should be exposed to lit market liquidity, particularly hidden and odd-lot orders, prior to any internalization",
+      "best_execution": "Strongly supports strict enforcement of FINRA Rule 5310; argues FINRA has systematically failed to enforce its own best execution rules by allowing trade-throughs of resting limit orders on lit exchanges; calls for SEC intervention to compel compliance",
+      "tick_size_reform": "Not directly addressed",
+      "access_fee_reform": "Not directly addressed",
+      "transparency": "Implicitly supports greater transparency; argues that the dominance of dark/off-exchange trading undermines price discovery and reference pricing on lit markets, and that quotes on lit markets are rendered meaningless if no trades occur there"
+    },
+    "economic_arguments": [
+      "Off-exchange trading now represents approximately 65% of all volume and 99% of retail volume, fundamentally undermining lit market price discovery",
+      "PFOF creates adverse selection against lit quotes, which mechanically widens bid-ask spreads over time",
+      "Wholesalers and internalizers pay for the right to selectively fill orders without fiduciary responsibility to the order originator, enabling front-running and cherry-picking of order flow",
+      "Closing prints and NBBO reference prices are derived from lit exchange activity, yet the vast majority of actual trading occurs off-exchange, creating a structurally parasitic relationship between dark and lit markets",
+      "Widening spreads caused by adverse selection increase the economic benefit to off-exchange participants, creating a self-reinforcing cycle that further degrades lit market quality",
+      "PFOF kickback economics incentivize brokers to route orders away from lit markets regardless of execution quality, constituting a misalignment of broker and customer interests"
+    ],
+    "liquidity_arguments": [
+      "Hidden resting limit orders and odd-lot orders on primary listing exchanges represent genuine available liquidity that is systematically bypassed by FINRA-reported off-exchange trades",
+      "Trade-throughs of hidden midpoint orders on lit exchanges deny both sides of the trade access to better pricing than the NBBO",
+      "Off-exchange execution eliminates direct order interaction between retail liquidity providers and retail liquidity takers on lit exchanges, fragmenting natural order matching",
+      "The risk of providing on-demand counter-party liquidity on lit exchanges increases as off-exchange trading grows, further discouraging lit market participation and widening spreads",
+      "Stocks can trade thousands of shares in a session entirely off-exchange, making that volume inaccessible to lit market participants who set reference prices",
+      "Retail Liquidity Program pricing and midpoint execution opportunities are foregone when orders are internalized without checking lit exchange liquidity"
+    ],
+    "competition_arguments": [
+      "PFOF creates a two-tiered market: a dark market where actual trading occurs and a lit market that serves only as a reference pricing mechanism, eliminating genuine competition between buyers and sellers",
+      "Wholesalers can pick and choose which orders to fill without competitive pressure from lit exchange liquidity, constituting capitalism without competition",
+      "The G7 and many OECD nations have banned PFOF and various forms of internalization; the U.S. market structure is an outlier among developed markets",
+      "Brokers advertising intermarket sweep capabilities as part of their routing algorithms still trade through lit exchange hidden and odd-lot orders, suggesting competitive claims are misleading",
+      "Concentration of retail order flow among a small number of large wholesalers reduces competitive pressure for best execution"
+    ],
+    "retail_investor_arguments": [
+      "Retail investors who place resting limit orders on lit exchanges are harmed when those orders are traded through by off-exchange executions at inferior prices",
+      "Retail investors who take liquidity are harmed by paying wider spreads than would exist if their orders were routed to lit markets with available hidden or midpoint liquidity",
+      "PFOF arrangements defraud retail investors on both sides of the trade: liquidity providers whose orders are bypassed and liquidity takers who receive inferior prices",
+      "Retail investors have no visibility into or recourse against systematic trade-throughs of their resting limit orders by FINRA-member firms",
+      "The author personally experiences his hidden resting limit orders being traded through by non-de minimis amounts throughout the trading day, representing direct and quantifiable harm"
+    ],
+    "recommended_actions": [
+      "Ban PFOF outright, consistent with G7 and OECD regulatory standards",
+      "Require all orders to interact with the primary listing exchange and check for available liquidity before any off-exchange or internalized execution",
+      "Mandate that FINRA enforce Rule 5310 best execution requirements, specifically the requirement to check the number of markets including the primary listing exchange",
+      "Prohibit off-exchange execution at the NBBO without first confirming no hidden midpoint liquidity exists on the primary listing exchange",
+      "Ban all unexposed off-exchange trading, joining the regulatory approach of other OECD member nations",
+      "Require smart-order routing with a lit market interaction attempt before any wholesaler internalization is permitted",
+      "Investigate and potentially charge FINRA for failure to enforce its own best execution rules",
+      "Eliminate the ability of FINRA-member firms to front-run lit resting limit orders by executing off-exchange at exactly the same price"
+    ],
+    "key_quotes": [
+      "Payment for order flow orders that execute at the NBBO, without first confirming that there is no hidden midpoint liquidity on the primary listing exchange, is theft and fraud.",
+      "Off exchange trading is now 65% of all volume and 99% of retail volume. PFOF creates adverse selection to lit quotes, which widens spread and also cheats lit retail liquidity providers.",
+      "PFOF is an criminal kick back scheme which defrauds the individual investors.",
+      "There are currently two equity markets. There is the dark market, where the actual trading occurs, then there is the lit market, where the reference pricing for the dark markets take place. It's capitalism without competition.",
+      "Off exchange trading is stealing from both sides of the trade. This theft is increasing the risk to on demand counter party execution on lit exchanges, which widens spreads, which increases the benefits to the theft.",
+      "Time to join the rest of the OECD and simply ban all unexposed off exchange trading.",
+      "The rest of the G7 have banned PFOF and many forms of internalization. I encourage the commission to simply join the rest of the G7 and ban wholesaler internalization and PFOF without first a smart route trade attempt against the lit markets.",
+      "If no trades occur on a lit market, what are the quotes for?",
+      "We have participants that pay to pick and choose which order they fill, with no fiduciary responsibility to the originator of the order, which leads to massive front running and adverse selection to lit quotes, which widens the NBBO spread.",
+      "In every one of those cases, the executing broker failed to make even the most basic check of the primary listing exchange before executing the trade at a worse price for the customer. They have defrauded their customer as I am offering better pricing than the FINRA reported trade."
+    ],
+    "source_file": "00011_Comments_of_Jared_Albert.html"
+  },
+  {
+    "author": "Joe Kirchner",
+    "affiliation": "Individual (unaffiliated)",
+    "stakeholder_type": "Individual Retail Investor / Public Commenter",
+    "overall_position": "oppose",
+    "tone": "Formal, analytical, cautionary, respectful but firm",
+    "executive_summary": "Joe Kirchner, writing as an individual, opposes the SEC's proposed rescission of Rule 611 (Order Protection Rule) and Rule 610(e) (prohibition on locked/crossed markets) under Regulation NMS. His central argument is that the rise of AI-driven trading makes these bright-line protections more necessary, not less, because subjective best-execution standards are inadequate to govern opaque, adaptive algorithms operating at microsecond speeds. He argues the proposal creates asymmetric harm for retail investors, risks degrading displayed liquidity and price discovery, and lacks sufficient empirical analysis of AI-era market dynamics. He urges the Commission to withdraw the proposed amendments.",
+    "market_structure_topics": [
+      "Order Protection Rule (Rule 611) rescission",
+      "Locked and crossed markets (Rule 610(e))",
+      "Best execution as a substitute standard",
+      "AI and machine learning in order routing and trading",
+      "Displayed liquidity and price discovery",
+      "Venue fragmentation and opaque trading",
+      "Retail investor protection",
+      "Algorithmic accountability and auditability",
+      "Regulation NMS modernization",
+      "Emergent AI behavior and feedback loops"
+    ],
+    "positions": {
+      "order_competition_rule": "Not directly addressed",
+      "best_execution": "Opposes reliance on best execution as a substitute for Rule 611; argues it is a subjective, principles-based standard that is difficult to monitor and enforce in an AI-driven trading environment where decision logic is opaque and adaptive",
+      "tick_size_reform": "Not addressed",
+      "access_fee_reform": "Not addressed",
+      "transparency": "Strongly favors transparency; argues Rule 611 provides an objective, machine-verifiable benchmark and that its removal would shift oversight to opaque algorithms that regulators, brokers, and investors cannot readily audit"
+    },
+    "economic_arguments": [
+      "The Commission has not demonstrated that compliance-cost savings from rescission would offset the risks created by removing Rule 611 and Rule 610(e)",
+      "Empirical analysis derived from a pre-AI market structure cannot be assumed to hold in markets now shaped by machine intelligence",
+      "Removing Rule 611 widens the accountability gap rather than closing it by replacing a clear rule with inspection of opaque, adaptive algorithms",
+      "The proposal lacks robust analysis of how autonomous and increasingly adaptive trading systems would behave once these guardrails are removed"
+    ],
+    "liquidity_arguments": [
+      "Rule 611 rewards participants who post the best displayed prices by ensuring those quotes are honored, incentivizing public quote display",
+      "Removing Rule 611 could accelerate the migration of liquidity into opaque venues as AI models deprioritize public quote display",
+      "Degradation of displayed liquidity would harm price discovery for all market participants",
+      "Permitting locked and crossed markets under rescission of Rule 610(e) could produce emergent, hard-to-predict AI behavior and feedback loops that the Commission has not analyzed"
+    ],
+    "competition_arguments": [
+      "AI-driven trading sharpens the asymmetry between sophisticated firms and ordinary investors",
+      "Firms deploying advanced models to predict order flow and optimize execution stand to benefit most from removal of a baseline price guarantee",
+      "Retail and less-sophisticated investors cannot monitor execution quality across dozens of venues in real time or audit routing algorithms, placing them at a structural disadvantage without Rule 611",
+      "Removal of bright-line protections disproportionately advantages technologically sophisticated market participants"
+    ],
+    "retail_investor_arguments": [
+      "Rule 611 is a safeguard that does not depend on an investor's technological resources to be effective, making it uniquely valuable for retail investors",
+      "Retail investors cannot monitor execution quality across dozens of venues in real time, nor audit the algorithms routing their orders",
+      "Shifting from a bright-line rule to a principles-based best-execution standard leaves retail investors exposed to harms they have no practical means to detect or challenge",
+      "The asymmetry between AI-equipped firms and retail investors makes baseline price guarantees more important, not less, in the current environment"
+    ],
+    "recommended_actions": [
+      "Withdraw the proposed amendments rescinding Rule 611 and Rule 610(e)",
+      "Conduct robust empirical analysis specifically addressing AI-driven trading dynamics before dismantling existing protections",
+      "Consider narrower, targeted reforms rather than wholesale rescission of Rule 611 and Rule 610(e)",
+      "Analyze how autonomous and adaptive trading systems would behave in the absence of these regulatory guardrails",
+      "Study the interaction between AI quoting strategies and displayed liquidity before proceeding with any reforms"
+    ],
+    "key_quotes": [
+      "The rapid integration of artificial intelligence into trading and order routing makes these protections more necessary, not less.",
+      "Best execution is a subjective, principles-based standard, and in an environment where routing, pricing, and liquidity decisions are increasingly made by AI and machine-learning systems operating at microsecond speed, subjective standards are far harder to monitor and enforce.",
+      "The Order Protection Rule offers an objective, machine-verifiable benchmark \u2014 a displayed price that either was or was not honored.",
+      "Removing it would shift oversight from a clear rule to the inspection of opaque, adaptive algorithms whose decision logic regulators, brokers, and investors cannot readily reconstruct or audit.",
+      "A bright-line protection like Rule 611 is precisely the kind of safeguard that does not depend on an investor's technological resources to be effective.",
+      "Removing that assurance could accelerate the migration of liquidity into opaque venues and incentivize models to deprioritize public quote display, degrading price discovery for everyone.",
+      "AI systems optimizing within an environment of locked and crossed quotations may produce emergent, hard-to-predict behavior and feedback loops that the Commission has not analyzed.",
+      "Empirical analysis from a pre-AI market structure cannot be assumed to hold in markets now shaped by machine intelligence.",
+      "Before dismantling protections that have underpinned U.S. equity markets for nearly two decades, the Commission should conduct robust analysis specifically addressing AI-driven trading dynamics."
+    ],
+    "source_file": "00012_Comments_of_Joe_Kirchner.html"
+  },
+  {
+    "author": "Professor DR WISITH TUN-YHONG",
+    "affiliation": "Unknown/Unspecified",
+    "stakeholder_type": "Individual/Academic (unverified)",
+    "overall_position": "unclear",
+    "tone": "incoherent, deferential, apologetic, rambling",
+    "executive_summary": "The letter is largely incomprehensible and does not present any substantive, analyzable arguments regarding the SEC's NMS rulemaking. The author makes vague references to NMS rules, US Government fiscal benefits, Treasury and OMB, and a claimed 28-year trading research career. No clear policy positions, economic arguments, or actionable recommendations are articulated. The letter does not meaningfully engage with any specific provisions of the referenced rulemaking.",
+    "market_structure_topics": [
+      "NMS rules (referenced vaguely)",
+      "US fiscal/budgetary impact (tangential and unclear)",
+      "Long-term trading research (unsubstantiated)"
+    ],
+    "positions": {
+      "order_competition_rule": "No discernible position",
+      "best_execution": "No discernible position",
+      "tick_size_reform": "No discernible position",
+      "access_fee_reform": "No discernible position",
+      "transparency": "No discernible position"
+    },
+    "economic_arguments": [
+      "Author vaguely claims that NMS-related benefits accrue to US citizens broadly via Treasury and OMB fiscal mechanisms, but provides no supporting analysis or data",
+      "Claims 28 years of trading activity constitutes a form of research, but no methodology or findings are presented"
+    ],
+    "liquidity_arguments": [],
+    "competition_arguments": [],
+    "retail_investor_arguments": [
+      "Author implies US citizens benefit directly and indirectly from the rulemaking but does not specify how or through what mechanism"
+    ],
+    "recommended_actions": [
+      "No actionable recommendations are made",
+      "Author defers entirely to SEC decision-making authority"
+    ],
+    "key_quotes": [
+      "NMS acknowledgement that may over rules of act of whatever its doesn't matter the result of benefit its belong to whom may essential to focusing than another issues",
+      "the result of the study is allocating beneficial to US citizens long time for 28 years",
+      "If I break a rules then I apologized and I will respect all of you to make decision",
+      "respecting all decision outcome whatever be"
+    ],
+    "source_file": "00012_Comments_of_Professor_DR_WISITH_TUN-YHONG.html"
+  },
+  {
+    "author": "Fardeen Irani",
+    "affiliation": "Individual (unaffiliated)",
+    "stakeholder_type": "Individual Retail Investor / Market Structure Commentator",
+    "overall_position": "mixed",
+    "tone": "Analytical, technically sophisticated, cautiously supportive of deregulation with strong caveats, reform-oriented",
+    "executive_summary": "Fardeen Irani submits a technically detailed comment letter responding to the SEC's proposal to rescind Rule 611 (trade-through prohibition) and Rule 610(e) (locked/crossed market restrictions). While broadly supportive of moving toward a disclosure-based, free-market routing architecture, Irani argues that deregulation alone is insufficient given empirical evidence that 46\u201393% of internalized retail orders bypass superior midpoint liquidity available on public exchanges and ATSs. The letter calls for aggressive Best Execution enforcement, mandatory midpoint-cross checks prior to internalization, modernization of Rule 605 price impact windows to one minute, dynamic Smart Order Router requirements, PFOF reform, and full implementation of variable tick sizes under Rule 612 to restore competitive parity between exchanges and wholesalers.",
+    "market_structure_topics": [
+      "Rule 611 rescission (trade-through prohibition)",
+      "Rule 610(e) rescission (locked and crossed markets)",
+      "Retail order internalization and wholesaler economics",
+      "NBBO midpoint pricing dynamics",
+      "Payment for Order Flow (PFOF)",
+      "Best Execution (FINRA Rule 5310)",
+      "Rule 605 execution quality reporting",
+      "Rule 612 variable tick sizes and sub-penny quoting",
+      "Smart Order Routing (SOR) technology",
+      "Alternative Trading Systems (ATS) and midpoint liquidity",
+      "Odd-lot quote integration and NBBO calculation",
+      "Adverse selection and price impact measurement",
+      "Intermarket Sweep Orders (ISOs)",
+      "High-frequency trading and inverted-spread arbitrage",
+      "Consolidated Audit Trail (CAT) analytics"
+    ],
+    "positions": {
+      "order_competition_rule": "Implicitly supportive of competition-enhancing reforms; argues that without Rule 611, brokers must be mandated to actively scan all venues for superior midpoint liquidity before routing to wholesalers, effectively advocating for a best-execution-driven competition framework as a substitute for prescriptive trade-through protection",
+      "best_execution": "Strongly supportive of aggressive enforcement; central thesis of the letter is that rescinding Rule 611 must be paired with fierce enforcement of FINRA Rule 5310 Best Execution, including mandatory venue sampling, proof of midpoint liquidity checks, and penalties for blind routing to captive wholesalers",
+      "tick_size_reform": "Supportive; advocates full implementation of Rule 612 variable sub-penny tick sizes to eliminate the competitive asymmetry that allowed off-exchange wholesalers to quote in sub-pennies while exchanges were restricted to penny increments, thereby drawing retail order flow back to transparent lit venues",
+      "access_fee_reform": "Not directly addressed; implicitly supportive of structural reforms that reduce off-exchange advantages, but access fee caps under Rule 610(c) are not explicitly analyzed",
+      "transparency": "Strongly supportive; calls for permanent shortening of Rule 605 price impact measurement window from five minutes to one minute to ensure near-instantaneous adverse selection disclosure, enabling retail brokers to identify and terminate underperforming wholesalers"
+    },
+    "economic_arguments": [
+      "Between 46% and 73% of retail marketable order shares are internalized by wholesalers at prices worse than the NBBO midpoint, representing a systemic transfer of value away from retail investors",
+      "Wholesalers provide midpoint-or-better executions for only approximately 46% of orders executed in a principal capacity, indicating structural underperformance relative to available market prices",
+      "PFOF creates a misaligned economic incentive structure where retail brokerages maximize routing revenue rather than execution quality, enabling sub-optimal internalization at scale",
+      "The inverted-spread arbitrage mechanism post-Rule 610(e) rescission will naturally attract HFT competition that collapses inefficient spreads without regulatory intervention, representing a self-correcting market efficiency argument",
+      "Full implementation of Rule 612 sub-penny tick sizes removes the cost asymmetry that historically caused retail order flow to migrate off-exchange, potentially restoring exchange competitiveness on economic grounds"
+    ],
+    "liquidity_arguments": [
+      "Between 40% and 93% of retail shares internalized at sub-midpoint prices had superior midpoint liquidity simultaneously available on public exchanges or ATSs, demonstrating that internalization bypasses rather than provides best available liquidity",
+      "For stocks priced above $30, between 60% and 93% of principal-capacity wholesaler executions had unexecuted superior midpoint liquidity on transparent venues, indicating the problem is most acute in higher-priced, more liquid securities",
+      "Odd-lot and sub-penny quotations under modernized Rules 605 and 612 create a highly dynamic NBBO midpoint that shifts with each new quote, requiring SORs to continuously recalibrate to capture micro-penny liquidity improvements",
+      "Midpoint-pegged retail order types on exchanges could automatically re-price to capture shifting midpoint values in real time, improving liquidity access without human intervention",
+      "Locked markets under a post-Rule 611 regime collapse the spread to zero, making execution price and midpoint identical and theoretically maximizing liquidity efficiency at those moments"
+    ],
+    "competition_arguments": [
+      "Rescinding Rule 611 removes artificial barriers between protected round lots and unprotected odd lots, leveling the competitive playing field across venue types",
+      "The historical sub-penny quoting asymmetry between exchanges and wholesalers constituted a structural competitive disadvantage for lit venues that Rule 612 reforms can correct",
+      "Mandating pre-internalization pings to public exchanges and ATSs would force wholesalers to compete directly against displayed midpoint liquidity rather than operating in a captive PFOF-driven routing environment",
+      "Phasing out or heavily restricting PFOF would shift broker competition from routing revenue maximization to execution quality, creating a more genuinely competitive market for retail order flow",
+      "Dynamic SOR requirements that split orders across multiple venues would reduce wholesaler market power derived from exclusive PFOF agreements and increase intermarket competition"
+    ],
+    "retail_investor_arguments": [
+      "Retail investors are systematically harmed when up to 93% of their orders are internalized despite superior prices being openly displayed on public venues, representing a direct and quantifiable cost to individual investors",
+      "The transition to a disclosure-based regime under rescinded Rule 611 places the burden of protection on Best Execution enforcement rather than prescriptive routing rules, requiring regulators to be more vigilant on behalf of retail participants who cannot monitor execution quality themselves",
+      "Shortening the Rule 605 price impact window to one minute empowers retail brokers to identify underperforming wholesalers and switch routing relationships, indirectly protecting retail investors through market discipline",
+      "Midpoint-pegged retail order types would give individual investors automated access to the best available price without requiring them to understand complex market microstructure",
+      "ISO-based routing technology that sweeps superior displayed retail odd lots across fragmented venues would prevent wholesalers from internalizing retail blocks at inferior prices when better prices exist across the tape"
+    ],
+    "recommended_actions": [
+      "Aggressively enforce FINRA Rule 5310 Best Execution by penalizing brokers who blindly route to captive wholesalers without demonstrating regular sampling of venues displaying superior midpoint liquidity",
+      "Mandate a 'Midpoint Cross' priority requirement obligating wholesalers to systematically ping public exchanges and ATSs to confirm no superior passive midpoint liquidity is being bypassed before internalizing any retail order in a principal capacity",
+      "Permanently shorten the Rule 605 price impact measurement window from five minutes to one minute to reflect modern trading speeds and force accurate near-instantaneous adverse selection disclosure",
+      "Require retail brokerages to upgrade Smart Order Routers to dynamically split and route orders to exchanges when those venues display active odd-lot or round-lot midpoint liquidity rather than routing 100% of flow to a single PFOF wholesaler",
+      "Direct exchanges to introduce midpoint-pegged retail order types that automatically re-price to the shifting NBBO midpoint in real time",
+      "Enable brokers to utilize Intermarket Sweep Orders to simultaneously clear superior displayed retail odd lots across fragmented venues rather than allowing block internalization at inferior prices",
+      "Fully implement Rule 612 variable sub-penny tick sizes to restore competitive parity between public exchanges and off-exchange wholesalers",
+      "Phase out or heavily restrict Payment for Order Flow to realign broker incentives toward execution quality rather than routing revenue maximization"
+    ],
+    "key_quotes": [
+      "The Commission must carefully evaluate how the removal of trade-through protections interacts with the systemic internalization of retail order flow.",
+      "Between 46% and 73% of retail marketable order shares are currently internalized by wholesalers at a price worse than the NBBO midpoint.",
+      "Between 40% and 93% of the shares in marketable retail orders that wholesalers internalize at prices less favorable than the NBBO midpoint actually had midpoint liquidity available at a better price on a public exchange or an Alternative Trading System.",
+      "For stocks priced higher than $30, between 60% and 93% of these principal-capacity wholesaler executions had unexecuted, superior midpoint liquidity sitting readily available on transparent venues.",
+      "Because up to 93% of internalized retail orders are bypassed despite superior midpoint liquidity sitting on exchanges, the SEC cannot rely on deregulation alone.",
+      "The fiduciary mandate of Best Execution must be fiercely enforced to ensure that retail investors are not continually internalized at inferior prices when superior liquidity is openly displayed on the tape.",
+      "Without Rule 611 forcing a trade to route to the best price, regulators must aggressively penalize brokers who blindly route to a captive wholesaler.",
+      "The economic incentive driving sub-optimal internalization is PFOF\u2014wholesalers paying brokers for exclusive access to 'uninformed' retail trades.",
+      "Rescinding Rules 611 and 610(e) will successfully strip away decades of technical complexity, remove artificial barriers between 'protected round lots' and 'unprotected odd lots,' and eliminate the operational burdens of preventing locked or crossed markets."
+    ],
+    "source_file": "00013_Comments_of_fardeen_irani.html"
+  },
+  {
+    "author": "Jared Albert",
+    "affiliation": "Individual Retail Investor / Lit Market Participant",
+    "stakeholder_type": "Retail Investor / Individual",
+    "overall_position": "oppose",
+    "tone": "Highly adversarial, emotionally charged, repetitive, urgent, accusatory",
+    "executive_summary": "Jared Albert, an individual retail investor who actively places hidden and odd-lot resting limit orders on primary listing exchanges, submits a collection of emails to multiple SEC Chairs opposing Payment for Order Flow (PFOF) and off-exchange internalization. His core argument is that FINRA-reported trades routinely trade through his resting hidden and odd-lot limit orders on lit exchanges without first checking for available liquidity, constituting what he characterizes as theft and fraud. He calls on the SEC to ban PFOF unless orders first interact with the primary listing exchange, to enforce FINRA Rule 5310 on best execution, and ultimately to ban all unexposed off-exchange trading in alignment with G7/OECD peer nations.",
+    "market_structure_topics": [
+      "Payment for Order Flow (PFOF)",
+      "Off-exchange / dark trading",
+      "Best execution (FINRA Rule 5310)",
+      "Hidden and odd-lot order trade-throughs",
+      "Internalization by wholesalers",
+      "Lit vs. dark market two-tier structure",
+      "Adverse selection to lit quotes",
+      "NBBO formation and reference pricing",
+      "Retail Liquidity Programs",
+      "Intermarket sweep obligations",
+      "SRO enforcement failures",
+      "International regulatory comparisons (G7/OECD)"
+    ],
+    "positions": {
+      "order_competition_rule": "Strongly supports requiring PFOF orders to first interact with the primary listing exchange before any internalization; advocates that all orders must check lit exchange liquidity including hidden and odd-lot orders prior to off-exchange execution",
+      "best_execution": "Strongly supports strict enforcement of FINRA Rule 5310; argues FINRA has systematically failed to enforce its own best execution rule by allowing members to trade through superior-priced resting limit orders on lit exchanges; calls for SEC to regulate FINRA directly on this issue",
+      "tick_size_reform": "Not directly addressed",
+      "access_fee_reform": "Not directly addressed",
+      "transparency": "Implicitly supports greater transparency; argues that the current structure creates a two-tiered market where dark trading sets no reference prices and lit markets are rendered ineffective price discovery venues"
+    },
+    "economic_arguments": [
+      "Off-exchange trading at the NBBO without checking lit exchange hidden or odd-lot liquidity results in executions at prices inferior to what was available, harming both sides of the trade",
+      "PFOF creates adverse selection against lit quotes, which widens bid-ask spreads over time, increasing transaction costs for all investors",
+      "Widening spreads caused by adverse selection increase the economic benefit to wholesalers of continued internalization, creating a self-reinforcing cycle of market deterioration",
+      "Off-exchange volume now represents approximately 65% of total volume and 99% of retail volume, severely undermining lit market price discovery",
+      "Closing prints based on last round-lot print on listing exchange are distorted when the vast majority of trading occurs off-exchange",
+      "PFOF kickback economics incentivize brokers to route orders away from lit markets regardless of execution quality, constituting a misalignment of broker and customer interests"
+    ],
+    "liquidity_arguments": [
+      "Hidden resting limit orders and odd-lot orders on primary listing exchanges represent genuine available liquidity that is systematically bypassed by FINRA-reported off-exchange trades",
+      "Trade-throughs of hidden midpoint liquidity on lit exchanges deny price improvement to both the incoming order and the resting order provider",
+      "The concentration of trading in dark venues eliminates direct order interaction between retail liquidity providers and retail liquidity takers on lit exchanges",
+      "Lit market liquidity providers face increasing adverse selection risk as only the least informed or least favorable order flow reaches lit venues, discouraging liquidity provision",
+      "Stocks can trade thousands of shares in a session entirely off-exchange, making lit market quotes irrelevant as reference prices while simultaneously depending on them",
+      "Retail Liquidity Program pricing on lit exchanges is also bypassed, denying customers access to sub-NBBO execution opportunities"
+    ],
+    "competition_arguments": [
+      "PFOF allows wholesalers to selectively choose which orders to fill with no fiduciary responsibility to the order originator, eliminating competitive order interaction",
+      "The current structure creates two separate equity markets: a dark market where actual trading occurs and a lit market that serves only as a reference pricing mechanism, which the author characterizes as capitalism without competition",
+      "Brokers advertising intermarket sweep capabilities as part of routing algorithms still trade through lit exchange orders, suggesting competitive claims are misleading",
+      "The G7 and many OECD nations have banned PFOF and various forms of internalization; the U.S. market structure is an outlier among developed markets",
+      "Wholesaler internalization without lit market interaction forecloses competition between retail resting limit orders and incoming retail market orders"
+    ],
+    "retail_investor_arguments": [
+      "Retail investors placing resting limit orders on lit exchanges are harmed when those orders are traded through by off-exchange executions at inferior prices",
+      "Retail investors submitting market orders via PFOF brokers are harmed by not receiving price improvement available from hidden midpoint liquidity on lit exchanges",
+      "PFOF is characterized as a criminal kickback scheme that defrauds individual investors by ensuring orders never reach lit markets where better prices may exist",
+      "Both sides of a trade are harmed by off-exchange execution that bypasses available lit market liquidity: the taker pays too wide a spread and the maker's order is ignored",
+      "Front-running of lit resting limit orders by executing off-exchange at exactly the same price denies time-priority rights to retail limit order placers",
+      "Retail investors pay unnecessarily wide spreads because PFOF economics prevent brokers from routing to lit venues where midpoint or sub-NBBO executions may be available"
+    ],
+    "recommended_actions": [
+      "Ban PFOF unless orders first interact with the primary listing exchange to check for available counter-party liquidity before any internalization",
+      "Require all FINRA member firms to check primary listing exchange liquidity including hidden orders and odd-lot orders prior to off-exchange execution",
+      "Direct the SEC to enforce FINRA Rule 5310 best execution requirements and hold FINRA accountable for systematic non-enforcement",
+      "Consider charging FINRA for failure to enforce its own best execution rules given the pervasive pattern of trade-throughs",
+      "Ban all unexposed off-exchange trading in alignment with OECD and G7 peer nations",
+      "Ban wholesaler internalization without a prior smart-route trade attempt against lit markets",
+      "Eliminate or severely restrict PFOF arrangements that create incentives to bypass lit market liquidity",
+      "Ensure that intermarket sweep obligations are genuinely enforced to include hidden and odd-lot orders on primary listing exchanges"
+    ],
+    "key_quotes": [
+      "Payment for order flow orders that execute at the NBBO, without first confirming that there is no hidden midpoint liquidity on the primary listing exchange, is theft and fraud.",
+      "Off exchange trading is now 65% of all volume and 99% of retail volume. PFOF creates adverse selection to lit quotes, which widens spread and also cheats lit retail liquidity providers.",
+      "PFOF is an criminal kick back scheme which defrauds the individual investors.",
+      "It's 11 am ET, and there are many many stocks that have traded thousands of shares today, none of which were on lit markets and therefore inaccessible to the reference price setters. It's capitalism without competition.",
+      "Off exchange trading is stealing from both sides of the trade. This theft is increasing the risk to on demand counter party execution on lit exchanges, which widens spreads, which increases the benefits to the theft.",
+      "Time to join the rest of the OECD and simply ban all unexposed off exchange trading.",
+      "The rest of the G7 have banned PFOF and many forms of internalization. I encourage the commission to simply join the rest of the G7 and ban wholesaler internalization and PFOF without first a smart route trade attempt against the lit markets.",
+      "There are currently two equity markets. There is the dark market, where the actual trading occurs, then there is the lit market, where the reference pricing for the dark markets take place.",
+      "Best execution has nothing to do with best price. Odd-Lots and Hidden orders on lit exchanges can be traded through, even by brokers that advertise intermarket sweeps as part of their order routing algorithms.",
+      "In every one of those cases, the executing broker failed to make even the most basic check of the primary listing exchange before executing the trade at a worse price for the customer. They have defrauded their customer as I am offering better pricing than the FINRA reported trade."
+    ],
+    "source_file": "00013_Comments_of_Jared_Albert.html"
+  },
+  {
+    "author": "Joe Kirchner",
+    "affiliation": "Individual (no organizational affiliation stated)",
+    "stakeholder_type": "Individual Retail Investor / Concerned Citizen",
+    "overall_position": "oppose",
+    "tone": "Formal, analytical, cautionary, respectful but firm",
+    "executive_summary": "Joe Kirchner opposes the SEC's proposed rescission of Rule 611 (Order Protection Rule) and Rule 610(e) (prohibition on locking and crossing quotations) under Regulation NMS. His central argument is that the rapid proliferation of AI and machine-learning systems in trading makes these bright-line protections more necessary, not less. He contends that best-execution obligations are too subjective and opaque to substitute for Rule 611's objective, machine-verifiable benchmark in an AI-driven market environment. He raises concerns about retail investor harm, degraded price discovery, liquidity migration to dark venues, and unpredictable emergent behavior from AI systems operating in an unguarded market structure. He urges the Commission to withdraw the proposed amendments and conduct robust AI-specific empirical analysis before pursuing any reforms.",
+    "market_structure_topics": [
+      "Order Protection Rule (Rule 611) rescission",
+      "Prohibition on locking and crossing quotations (Rule 610(e)) rescission",
+      "Regulation NMS modernization",
+      "AI and machine-learning in trading and order routing",
+      "Price discovery and displayed liquidity",
+      "Dark venue liquidity migration",
+      "Algorithmic accountability and auditability",
+      "Retail vs. sophisticated investor asymmetry",
+      "Best execution as a regulatory standard",
+      "Emergent behavior and feedback loops in AI-driven markets"
+    ],
+    "positions": {
+      "order_competition_rule": "Strongly supports retaining Rule 611; argues it provides an objective, machine-verifiable benchmark that is especially critical in AI-driven markets where subjective standards are harder to monitor and enforce",
+      "best_execution": "Skeptical that best execution obligations can substitute for Rule 611; characterizes best execution as a subjective, principles-based standard that is inadequate for overseeing opaque, adaptive AI algorithms operating at microsecond speed",
+      "tick_size_reform": "Not addressed",
+      "access_fee_reform": "Not addressed",
+      "transparency": "Implicitly supports transparency; argues that removing Rule 611 shifts oversight to opaque, adaptive algorithms that regulators, brokers, and investors cannot readily reconstruct or audit, widening the accountability gap"
+    },
+    "economic_arguments": [
+      "The Commission has not demonstrated that compliance-cost savings from rescission would offset the risks created by removing these protections",
+      "Empirical analysis derived from a pre-AI market structure cannot be assumed to hold in markets now shaped by machine intelligence",
+      "The proposal lacks robust analysis specifically addressing AI-driven trading dynamics and their interaction with the rescinded rules",
+      "Wholesale rescission is disproportionate; narrower, targeted reforms should be considered instead"
+    ],
+    "liquidity_arguments": [
+      "Rule 611 rewards participants who post the best displayed prices by ensuring those quotes are honored, incentivizing public quote display",
+      "Removing Rule 611 could accelerate migration of liquidity into opaque venues as AI quoting strategies deprioritize public display",
+      "Degraded public quote display would harm price discovery for all market participants",
+      "Permitting locked and crossed markets under Rule 610(e) rescission could produce emergent, hard-to-predict AI behavior and feedback loops that the Commission has not analyzed"
+    ],
+    "competition_arguments": [
+      "AI-driven trading sharpens the asymmetry between sophisticated firms and ordinary investors",
+      "Firms deploying advanced models to predict order flow and optimize execution stand to benefit most from removal of a baseline price guarantee",
+      "Retail and less-sophisticated investors cannot monitor execution quality across dozens of venues in real time or audit routing algorithms, making them disproportionately vulnerable",
+      "Rule 611 is a safeguard that does not depend on an investor's technological resources to be effective, leveling the playing field"
+    ],
+    "retail_investor_arguments": [
+      "Retail investors lack the ability to monitor execution quality across multiple venues in real time",
+      "Retail investors cannot audit the algorithms routing their orders",
+      "A bright-line protection like Rule 611 is precisely the kind of safeguard that protects investors regardless of their technological sophistication or resources",
+      "Removing Rule 611 shifts the burden of protection onto investors least equipped to bear it"
+    ],
+    "recommended_actions": [
+      "Withdraw the proposed amendments to rescind Rule 611 and Rule 610(e)",
+      "Conduct robust empirical analysis specifically addressing AI-driven trading dynamics before pursuing any reforms",
+      "Study how autonomous and increasingly adaptive trading systems would behave once these guardrails are removed",
+      "Consider narrower, targeted reforms rather than wholesale rescission of Regulation NMS protections"
+    ],
+    "key_quotes": [
+      "The rapid integration of artificial intelligence into trading and order routing makes these protections more necessary, not less.",
+      "Best execution is a subjective, principles-based standard, and in an environment where routing, pricing, and liquidity decisions are increasingly made by AI and machine-learning systems operating at microsecond speed, subjective standards are far harder to monitor and enforce.",
+      "The Order Protection Rule offers an objective, machine-verifiable benchmark \u2014 a displayed price that either was or was not honored.",
+      "Removing it would shift oversight from a clear rule to the inspection of opaque, adaptive algorithms whose decision logic regulators, brokers, and investors cannot readily reconstruct or audit.",
+      "A bright-line protection like Rule 611 is precisely the kind of safeguard that does not depend on an investor's technological resources to be effective.",
+      "Removing that assurance could accelerate the migration of liquidity into opaque venues and incentivize models to deprioritize public quote display, degrading price discovery for everyone.",
+      "AI systems optimizing within an environment of locked and crossed quotations may produce emergent, hard-to-predict behavior and feedback loops that the Commission has not analyzed.",
+      "Empirical analysis from a pre-AI market structure cannot be assumed to hold in markets now shaped by machine intelligence.",
+      "Before dismantling protections that have underpinned U.S. equity markets for nearly two decades, the Commission should conduct robust analysis specifically addressing AI-driven trading dynamics."
+    ],
+    "source_file": "00014_Comments_of_Joe_Kirchner.html"
+  },
+  {
+    "author": "@thecryptohulk",
+    "affiliation": "YouTube content creator",
+    "stakeholder_type": "retail_individual",
+    "overall_position": "unclear",
+    "tone": "enthusiastic, advocacy-oriented, non-technical",
+    "executive_summary": "A YouTube content creator focused on cryptocurrency and digital assets submitted a comment urging the SEC to immediately implement crypto, blockchain, and fintech technologies into all applicable systems. The letter does not substantively address the specific rulemaking topics covered under File No. S7-2026-20, including order competition, best execution, tick size reform, or access fee reform. The comment is broadly pro-crypto advocacy with no market microstructure analysis.",
+    "market_structure_topics": [],
+    "positions": {
+      "order_competition_rule": "not addressed",
+      "best_execution": "not addressed",
+      "tick_size_reform": "not addressed",
+      "access_fee_reform": "not addressed",
+      "transparency": "not addressed"
+    },
+    "economic_arguments": [],
+    "liquidity_arguments": [],
+    "competition_arguments": [],
+    "retail_investor_arguments": [
+      "Implicitly suggests that modernization through crypto and blockchain technology would benefit society broadly, though no specific retail investor protection arguments are made."
+    ],
+    "recommended_actions": [
+      "Immediate implementation of crypto, blockchain, digital assets, and fintech technologies into all applicable systems."
+    ],
+    "key_quotes": [
+      "Crypto, Blockchain, Digital Assets, Fintech and all related terminology shall be the basis for the future of the planet and thereby shall be implemented immediately into every system where possible ASAP.",
+      "Let's get this done to modernize the way we live."
+    ],
+    "source_file": "00014_Comments_of_thecryptohulk_YouTube.html"
+  },
+  {
+    "author": "Thomas W. Brink, MD",
+    "affiliation": "Individual Retail Investor (Medical Doctor)",
+    "stakeholder_type": "retail_investor",
+    "overall_position": "oppose",
+    "tone": "strongly opposed, emotional, populist",
+    "executive_summary": "Dr. Brink, a retail investor, vehemently opposes a proposed SEC rule that would allow corporations to shift from quarterly to semi-annual financial reporting. He argues this change would create an informational asymmetry that benefits corporate insiders and wealthy elites at the expense of ordinary individual investors.",
+    "market_structure_topics": [
+      "financial reporting frequency",
+      "corporate disclosure requirements",
+      "information asymmetry",
+      "insider advantage"
+    ],
+    "positions": {
+      "order_competition_rule": "not addressed",
+      "best_execution": "not addressed",
+      "tick_size_reform": "not addressed",
+      "access_fee_reform": "not addressed",
+      "transparency": "strongly supports maintaining quarterly reporting transparency; opposes any reduction in disclosure frequency"
+    },
+    "economic_arguments": [
+      "Reducing reporting frequency from quarterly to semi-annual creates informational advantages for corporate insiders",
+      "Insiders would be able to anticipate market reactions to financial results and trade profitably before public disclosure",
+      "The rule disproportionately benefits wealthy and elite market participants at the expense of retail investors"
+    ],
+    "liquidity_arguments": [],
+    "competition_arguments": [
+      "Semi-annual reporting would create an uneven playing field between insiders with access to non-public information and ordinary retail investors",
+      "The rule is characterized as favoring elite market participants over average individual investors"
+    ],
+    "retail_investor_arguments": [
+      "Individual investors rely on frequent financial disclosures to make informed investment decisions",
+      "Reducing reporting frequency harms retail investors by widening the information gap between them and corporate insiders",
+      "The proposed change is viewed as fundamentally unfair to ordinary investors"
+    ],
+    "recommended_actions": [
+      "Reject the proposed rule to allow semi-annual financial reporting",
+      "Maintain the existing quarterly financial reporting requirement for publicly traded corporations"
+    ],
+    "key_quotes": [
+      "I write to vehemently oppose the proposed regulation that would allow corporations to report financial information every six months instead of every three months.",
+      "This change will allow insiders to determine how the markets will perceive corporations and profit from the knowledge that they have to the exclusion of individual investors.",
+      "In other words, 'The rich get richer' and the poor man suffers.",
+      "This proposed rule is purely for the elite."
+    ],
+    "source_file": "00015_Comments_of_Thomas_W._Brink_MD.html"
+  },
+  {
+    "author": "Fardeen Irani",
+    "affiliation": "Individual (unaffiliated)",
+    "stakeholder_type": "Individual Commenter / Retail Investor Advocate",
+    "overall_position": "mixed",
+    "tone": "Analytical, technically sophisticated, cautiously supportive of deregulation with strong conditional caveats",
+    "executive_summary": "Fardeen Irani submits a technically detailed comment letter responding to the SEC's proposal to rescind Rule 611 (trade-through prohibition) and Rule 610(e) (locked/crossed quotation restrictions). While broadly supportive of moving toward a disclosure-based, free-market routing architecture, Irani argues that deregulation alone is insufficient given empirical data showing that 46-93% of internalized retail orders bypass superior midpoint liquidity available on public exchanges and ATSs. The letter calls for aggressive Best Execution enforcement, mandatory midpoint-cross checks prior to internalization, modernization of Rule 605 price impact windows to one minute, dynamic Smart Order Router requirements, PFOF reform, and full implementation of variable tick sizes under Rule 612 to restore competitive parity between exchanges and wholesalers.",
+    "market_structure_topics": [
+      "Rule 611 rescission (trade-through prohibition)",
+      "Rule 610(e) rescission (locked and crossed quotations)",
+      "Retail order internalization by wholesalers",
+      "NBBO midpoint pricing dynamics",
+      "Payment for Order Flow (PFOF)",
+      "Best Execution (FINRA Rule 5310)",
+      "Rule 605 execution quality reporting",
+      "Variable tick sizes (Rule 612)",
+      "Smart Order Routing (SOR)",
+      "Alternative Trading Systems (ATS)",
+      "Odd-lot quotation reform",
+      "Adverse selection and price impact measurement",
+      "Intermarket Sweep Orders (ISOs)",
+      "High-frequency trading and inverted-spread arbitrage",
+      "Consolidated Audit Trail (CAT) analytics",
+      "Midpoint-pegged retail order types"
+    ],
+    "positions": {
+      "order_competition_rule": "Conditionally supportive of rescinding Rule 611 and 610(e) as a simplification of market structure, but insists that without trade-through protections, a strict mandatory pre-internalization midpoint-cross check must replace the routing mandate to prevent retail investors from being systematically executed at inferior prices when superior liquidity is displayed on public venues.",
+      "best_execution": "Strongly supportive of aggressive, heightened enforcement of Best Execution obligations. Argues FINRA Rule 5310 must be fiercely enforced with meaningful penalties for brokers who blindly route to captive wholesalers. Brokers must affirmatively demonstrate regular sampling and routing to venues displaying superior midpoint liquidity.",
+      "tick_size_reform": "Strongly supportive of full implementation of Rule 612 variable sub-penny tick sizes to restore competitive parity between public exchanges and off-exchange wholesalers, arguing that exchanges lost order flow because they were legally prohibited from quoting in sub-pennies while wholesalers could trade at any fraction of a cent.",
+      "access_fee_reform": "Not directly addressed, though implicitly supportive of structural reforms that draw order flow back to transparent public venues.",
+      "transparency": "Strongly supportive of enhanced transparency through modernized Rule 605 reporting. Specifically advocates for permanently shortening the price impact measurement window from five minutes to one minute to reflect modern trading speeds and force accurate near-instantaneous adverse selection disclosure by wholesalers."
+    },
+    "economic_arguments": [
+      "Between 46% and 73% of retail marketable order shares are internalized by wholesalers at prices worse than the NBBO midpoint, representing a systematic transfer of value away from retail investors.",
+      "Wholesalers provide midpoint-or-better executions for only approximately 46% of customer orders executed in a principal capacity, indicating widespread sub-optimal execution.",
+      "Between 40% and 93% of internalized retail shares that received sub-midpoint prices had superior midpoint liquidity available on public exchanges or ATSs at the time of execution, demonstrating that inferior executions are not a function of liquidity unavailability.",
+      "For stocks priced above $30, between 60% and 93% of principal-capacity wholesaler executions bypassed unexecuted superior midpoint liquidity on transparent venues.",
+      "PFOF creates a misaligned economic incentive structure where brokers maximize routing revenue rather than execution quality, systematically disadvantaging retail investors.",
+      "The inverted-spread arbitrage mechanism following Rule 610(e) rescission will naturally attract HFT competition that collapses inefficient spreads back to efficient midpoints without regulatory intervention.",
+      "Dynamic NBBO midpoint calculations under modernized Rules 605 and 612 create mathematical asymmetries where small odd-lot quotations shift effective spread calculations differently for buy versus sell orders."
+    ],
+    "liquidity_arguments": [
+      "Superior midpoint liquidity is actively displayed on public exchanges and ATSs but is being systematically bypassed by wholesalers internalizing retail orders at inferior prices.",
+      "Rescinding Rule 611 will eliminate the artificial distinction between protected round lots and unprotected odd lots, potentially improving displayed liquidity utilization.",
+      "Locked markets under a post-Rule 611 regime collapse spreads to zero, making execution price and NBBO midpoint identical, which benefits retail investors if routing is properly managed.",
+      "Crossed markets will create temporary negative spreads that HFT arbitrage will naturally resolve, restoring efficient midpoint pricing.",
+      "Midpoint-pegged retail order types on exchanges would allow automated re-pricing to capture micro-penny optimizations as the NBBO midpoint shifts dynamically.",
+      "Intermarket Sweep Orders (ISOs) can be used to simultaneously clear superior displayed retail odd lots across fragmented venues rather than allowing block internalization at inferior wholesale prices.",
+      "Full implementation of variable tick sizes under Rule 612 would allow exchanges to compete directly with wholesalers on sub-penny pricing, drawing retail order flow back to transparent lit books."
+    ],
+    "competition_arguments": [
+      "The current PFOF-driven internalization model gives wholesalers exclusive access to retail order flow, insulating them from competitive pressure to improve execution quality.",
+      "Exchanges historically lost retail order flow because they were legally prohibited from quoting in sub-pennies while wholesalers faced no such restriction, creating a structurally unlevel playing field.",
+      "Full Rule 612 implementation restores competitive parity between exchanges and wholesalers, allowing public venues to compete directly on sub-penny pricing.",
+      "Phasing out or heavily restricting PFOF would force retail brokerages to compete strictly on execution quality rather than secondary routing revenue.",
+      "A mandatory pre-internalization midpoint-cross check requirement would force wholesalers to compete with displayed exchange and ATS liquidity before capturing retail order flow.",
+      "Dynamic SOR requirements would break the exclusive routing relationships between brokers and captive wholesalers, introducing genuine competition for retail order flow.",
+      "Post-Rule 610(e) rescission, HFT firms will naturally arbitrage inverted spreads, introducing competitive price discovery pressure that replaces the regulatory mandate of Rule 611."
+    ],
+    "retail_investor_arguments": [
+      "Retail investors are systematically harmed by internalization at sub-midpoint prices when superior liquidity is openly available on public venues, representing a quantifiable and ongoing transfer of value.",
+      "The Commission cannot rely on deregulation alone to protect retail investors given empirical evidence that up to 93% of internalized retail orders bypass superior displayed midpoint liquidity.",
+      "Enhanced Best Execution enforcement is the primary safeguard for retail investors in a post-Rule 611 environment and must be aggressively pursued with meaningful penalties.",
+      "Modernizing the Rule 605 price impact window to one minute empowers retail brokers to identify and fire underperforming wholesalers, creating market discipline that protects retail investors.",
+      "Midpoint-pegged retail order types on exchanges would give retail investors automated access to the best available price without requiring human intervention or sophisticated order routing knowledge.",
+      "Eliminating the protected round lot versus unprotected odd lot distinction removes a structural barrier that has historically disadvantaged retail investors who frequently trade in odd-lot sizes.",
+      "PFOF reform is essential to align broker incentives with retail investor interests rather than with wholesaler revenue maximization."
+    ],
+    "recommended_actions": [
+      "Aggressively enforce FINRA Rule 5310 Best Execution with meaningful penalties for brokers who blindly route to captive wholesalers without demonstrating regular sampling of superior midpoint liquidity across venues.",
+      "Mandate a pre-internalization midpoint-cross check requiring wholesalers to systematically ping public exchanges and ATSs to confirm no superior passive midpoint liquidity is being bypassed before internalizing in a principal capacity.",
+      "Permanently shorten the Rule 605 price impact measurement window from five minutes to one minute to reflect modern trading speeds and force accurate near-instantaneous adverse selection disclosure.",
+      "Require retail brokerages to upgrade Smart Order Routers to dynamically split and route orders to exchanges when those venues display active odd-lot or round-lot midpoint liquidity rather than routing 100% of flow to a single wholesaler.",
+      "Direct exchanges to introduce midpoint-pegged retail order types that automatically re-price to the shifting NBBO midpoint to capture micro-penny optimizations without human intervention.",
+      "Enable broader use of Intermarket Sweep Orders (ISOs) by retail brokers to simultaneously clear superior displayed retail odd lots across fragmented venues.",
+      "Fully implement Rule 612 variable sub-penny tick sizes to restore competitive parity between public exchanges and off-exchange wholesalers.",
+      "Phase out or heavily restrict Payment for Order Flow to force retail brokerages to compete on execution quality rather than routing revenue.",
+      "Proceed with rescinding Rules 611 and 610(e) to eliminate technical complexity, remove artificial barriers between protected and unprotected quotations, and reduce operational burdens, but only in conjunction with the above protective measures."
+    ],
+    "key_quotes": [
+      "The empirical data cited in related market structure reviews underscores severe inefficiencies in the current retail ecosystem that must be addressed concurrently through a heightened, robust enforcement of the broker's fiduciary duty of Best Execution.",
+      "Between 46% and 73% of retail marketable order shares are currently internalized by wholesalers at a price worse than the NBBO midpoint.",
+      "Between 40% and 93% of the shares in marketable retail orders that wholesalers internalize at prices less favorable than the NBBO midpoint actually had midpoint liquidity available at a better price on a public exchange or an Alternative Trading System (ATS).",
+      "For stocks priced higher than $30, between 60% and 93% of these principal-capacity wholesaler executions had unexecuted, superior midpoint liquidity sitting readily available on transparent venues.",
+      "Because up to 93% of internalized retail orders are bypassed despite superior midpoint liquidity sitting on exchanges, the SEC cannot rely on deregulation alone.",
+      "If the trade-through rule is eliminated, the Commission must strictly mandate that retail brokers actively scan all public and private venues to capture these available midpoint prices.",
+      "The fiduciary mandate of Best Execution must be fiercely enforced to ensure that retail investors are not continually internalized at inferior prices when superior liquidity is openly displayed on the tape.",
+      "Without Rule 611 forcing a trade to route to the best price, regulators must aggressively penalize brokers who blindly route to a captive wholesaler.",
+      "Public exchanges historically lost order flow because they were legally blocked from quoting in sub-pennies, while off-exchange wholesalers could trade at any fraction of a cent.",
+      "The economic incentive driving sub-optimal internalization is PFOF\u2014wholesalers paying brokers for exclusive access to uninformed retail trades."
+    ],
+    "source_file": "00016_Comments_of_fardeen_irani.html"
+  },
+  {
+    "author": "Steven Haworth",
+    "affiliation": "None (Individual Retail Investor)",
+    "stakeholder_type": "Retail Investor",
+    "overall_position": "oppose",
+    "tone": "Informal, colloquial, dismissive",
+    "executive_summary": "Steven Haworth, a self-described average retail investor, briefly opposes the proposed SEC rulemaking, arguing it would harm businesses and that cryptocurrency markets require their own distinct regulatory framework rather than being subject to existing equity market rules.",
+    "market_structure_topics": [
+      "Cryptocurrency regulation",
+      "Regulatory scope and applicability"
+    ],
+    "positions": {
+      "order_competition_rule": "Opposed, though no substantive reasoning provided",
+      "best_execution": "",
+      "tick_size_reform": "",
+      "access_fee_reform": "",
+      "transparency": ""
+    },
+    "economic_arguments": [
+      "The proposed rule would cause overall harm to businesses, though no specific economic mechanism or evidence is cited."
+    ],
+    "liquidity_arguments": [],
+    "competition_arguments": [
+      "Crypto markets are sufficiently distinct from traditional equity markets to warrant separate regulatory treatment."
+    ],
+    "retail_investor_arguments": [
+      "Author self-identifies as an ordinary retail investor ('Joe sixpack'), implying the rule's negative consequences are apparent even to non-expert market participants."
+    ],
+    "recommended_actions": [
+      "Do not adopt the proposed rule as written.",
+      "Develop separate, tailored rules specifically designed for cryptocurrency markets."
+    ],
+    "key_quotes": [
+      "Don't do this.",
+      "Crypto needs their own rules, this will overall do harm to businesses.",
+      "I'm just Joe sixpack and even I understand this."
+    ],
+    "source_file": "00016_Comments_of_Steven_Haworth.html"
+  },
+  {
+    "author": "Bhavith S",
+    "affiliation": "Individual Retail Investor",
+    "stakeholder_type": "retail_investor",
+    "overall_position": "oppose",
+    "tone": "concerned, assertive, protective of retail interests",
+    "executive_summary": "Retail investor Bhavith S strongly opposes rescinding Rule 611 (Order Protection Rule) under Regulation NMS, arguing that removing the Trade-Through Rule will expose retail investors to worse execution quality by enabling zero-commission brokerages to prioritize Payment for Order Flow revenue over best execution. The author draws on personal experience with execution discrepancies and analogizes the risk to unregulated cryptocurrency markets.",
+    "market_structure_topics": [
+      "Order Protection Rule (Rule 611)",
+      "Regulation NMS",
+      "Trade-Through Rule",
+      "National Best Bid and Offer (NBBO)",
+      "Payment for Order Flow (PFOF)",
+      "Best Execution",
+      "Off-exchange wholesalers",
+      "Zero-commission brokerages",
+      "Price slippage",
+      "Order routing conflicts of interest"
+    ],
+    "positions": {
+      "order_competition_rule": "Not directly addressed",
+      "best_execution": "Opposes reliance on subjective best execution standard as a replacement for Rule 611; views it as insufficient protection for retail investors compared to a hard mechanical rule",
+      "tick_size_reform": "Not addressed",
+      "access_fee_reform": "Not addressed",
+      "transparency": "Implicitly supports price transparency through retention of NBBO-based trade-through protections"
+    },
+    "economic_arguments": [
+      "Zero-commission brokerages have a financial incentive to route orders to venues that pay the highest PFOF rather than venues offering the best price for customers",
+      "Removing Rule 611 would allow brokerages to prioritize their own revenue (kickbacks) over customer execution quality",
+      "A subjective best execution standard is economically insufficient to replace a hard mathematical rule guaranteeing NBBO execution",
+      "Retail investors already experience execution discrepancies under current rules; rescission would worsen this"
+    ],
+    "liquidity_arguments": [
+      "No explicit liquidity arguments made; author implicitly assumes that NBBO-displayed prices represent the best available liquidity for retail investors"
+    ],
+    "competition_arguments": [
+      "Off-exchange wholesalers and alternative venues compete for order flow through PFOF arrangements rather than on price quality",
+      "Removing Rule 611 would tilt competitive dynamics further in favor of intermediaries over retail investors",
+      "Conflict of interest at zero-commission brokerages distorts competitive order routing away from best-price venues"
+    ],
+    "retail_investor_arguments": [
+      "Retail investors already experience price slippage and execution discrepancies even with Rule 611 in place",
+      "Cryptocurrency markets serve as a cautionary analogy: unregulated markets with no trade-through protection result in chronic slippage for everyday traders",
+      "Rule 611 is characterized as the primary safeguard preventing retail orders from being traded-through for the benefit of corporate middlemen",
+      "Retail investors cannot rely on broker discretion or subjective standards to protect their execution interests given inherent conflicts of interest"
+    ],
+    "recommended_actions": [
+      "Retain Rule 611 (Order Protection Rule) in its current form",
+      "Do not substitute the hard Trade-Through Rule with a subjective best execution standard",
+      "Protect retail investors from order routing practices that prioritize broker revenue over customer price improvement"
+    ],
+    "key_quotes": [
+      "I am deeply concerned that repealing Rule 611 will bring that same lack of strict price protection to the U.S. stock market, exacerbating the problem for everyday traders.",
+      "If the strict mandate to route orders to the venue displaying the National Best Bid and Offer (NBBO) is removed, these brokerages will be highly incentivized to route retail orders to favored off-exchange wholesalers and alternative venues that pay them the most in Payment for Order Flow (PFOF).",
+      "Without the rigid mechanical protection of the Trade-Through Rule, brokerages will prioritize their own kickbacks and revenue over securing the absolute best execution price for their customers.",
+      "The subjective 'best execution' standard is not a sufficient replacement for a hard, mathematical rule that guarantees retail investors get the best publicly displayed price.",
+      "Please do not remove the very safeguard that ensures retail trades are not traded-through for the benefit of corporate middlemen."
+    ],
+    "source_file": "00017_Comments_of_Bhavith_S.html"
+  },
+  {
+    "author": "@thecryptohulk",
+    "affiliation": "YouTube content creator",
+    "stakeholder_type": "retail_individual",
+    "overall_position": "unclear",
+    "tone": "enthusiastic, advocacy-driven, non-technical, urgent",
+    "executive_summary": "A YouTube content creator focused on cryptocurrency and digital assets submitted a comment urging the SEC to immediately implement crypto, blockchain, and fintech technologies into all applicable systems. The letter does not substantively address the specific rulemaking topics covered under File No. S7-2026-20, including order competition, best execution, tick size reform, or access fee reform. The comment is broadly pro-crypto advocacy with no engagement with market microstructure issues.",
+    "market_structure_topics": [
+      "digital assets",
+      "blockchain technology",
+      "fintech modernization"
+    ],
+    "positions": {
+      "order_competition_rule": "not addressed",
+      "best_execution": "not addressed",
+      "tick_size_reform": "not addressed",
+      "access_fee_reform": "not addressed",
+      "transparency": "not addressed"
+    },
+    "economic_arguments": [
+      "No substantive economic arguments provided; author asserts crypto and blockchain are the future of the planet without supporting analysis."
+    ],
+    "liquidity_arguments": [
+      "No liquidity arguments provided."
+    ],
+    "competition_arguments": [
+      "No competition arguments provided."
+    ],
+    "retail_investor_arguments": [
+      "No retail investor-specific arguments provided, though the author is themselves a retail-oriented content creator."
+    ],
+    "recommended_actions": [
+      "Immediate implementation of crypto, blockchain, digital assets, and fintech technologies into every applicable system."
+    ],
+    "key_quotes": [
+      "Crypto, Blockchain, Digital Assets, Fintech and all related terminology shall be the basis for the future of the planet and thereby shall be implemented immediately into every system where possible ASAP.",
+      "Let's get this done to modernize the way we live."
+    ],
+    "source_file": "00019_Comments_of_thecryptohulk_YouTube.html"
+  },
+  {
+    "author": "Thomas W. Brink, MD",
+    "affiliation": "Individual Retail Investor (Medical Doctor)",
+    "stakeholder_type": "retail_investor",
+    "overall_position": "oppose",
+    "tone": "strongly opposed, emotional, populist",
+    "executive_summary": "Dr. Thomas Brink, a retail investor, vehemently opposes a proposed SEC rule that would allow corporations to shift from quarterly to semi-annual financial reporting. He argues this change would create an informational asymmetry that benefits corporate insiders and wealthy elites at the expense of ordinary individual investors.",
+    "market_structure_topics": [
+      "financial reporting frequency",
+      "corporate disclosure requirements",
+      "information asymmetry",
+      "insider advantage",
+      "retail investor protection"
+    ],
+    "positions": {
+      "order_competition_rule": "not addressed",
+      "best_execution": "not addressed",
+      "tick_size_reform": "not addressed",
+      "access_fee_reform": "not addressed",
+      "transparency": "strongly opposes any reduction in corporate reporting transparency; favors maintaining quarterly reporting requirements"
+    },
+    "economic_arguments": [
+      "Reducing reporting frequency from quarterly to semi-annual creates informational advantages for corporate insiders",
+      "Insiders would be able to profit from non-public knowledge during extended reporting gaps",
+      "The rule disproportionately benefits wealthy and elite market participants over ordinary investors"
+    ],
+    "liquidity_arguments": [],
+    "competition_arguments": [
+      "Semi-annual reporting would create an uneven playing field between insiders and retail investors",
+      "Reduced disclosure frequency entrenches advantages of those with privileged access to corporate information"
+    ],
+    "retail_investor_arguments": [
+      "Individual investors would be harmed by reduced access to timely financial information",
+      "The proposed rule favors elite and insider interests over the average retail investor",
+      "Retail investors rely on frequent disclosures to make informed investment decisions"
+    ],
+    "recommended_actions": [
+      "Reject the proposed rule to allow semi-annual financial reporting",
+      "Maintain existing quarterly reporting requirements to protect retail investors"
+    ],
+    "key_quotes": [
+      "I write to vehemently oppose the proposed regulation that would allow corporations to report financial information every six months instead of every three months.",
+      "This change will allow insiders to determine how the markets will perceive corporations and profit from the knowledge that they have to the exclusion of individual investors.",
+      "In other words, 'The rich get richer' and the poor man suffers.",
+      "This proposed rule is purely for the elite."
+    ],
+    "source_file": "00021_Comments_of_Thomas_W._Brink_MD.html"
+  },
+  {
+    "author": "Steven Haworth",
+    "affiliation": "None (Individual Retail Investor)",
+    "stakeholder_type": "Retail Investor",
+    "overall_position": "oppose",
+    "tone": "Informal, colloquial, dismissive",
+    "executive_summary": "Steven Haworth, a self-described average retail investor, briefly opposes the proposed SEC rulemaking, arguing it would harm businesses and that cryptocurrency markets require their own distinct regulatory framework rather than being subject to existing equity market rules.",
+    "market_structure_topics": [
+      "Cryptocurrency regulation",
+      "Regulatory scope and applicability"
+    ],
+    "positions": {
+      "order_competition_rule": "Opposed, though no substantive reasoning provided",
+      "best_execution": "",
+      "tick_size_reform": "",
+      "access_fee_reform": "",
+      "transparency": ""
+    },
+    "economic_arguments": [
+      "The proposed rule would cause overall harm to businesses, though no specific economic mechanism or evidence is cited."
+    ],
+    "liquidity_arguments": [],
+    "competition_arguments": [
+      "Crypto markets are sufficiently distinct from traditional equity markets to warrant separate regulatory treatment."
+    ],
+    "retail_investor_arguments": [
+      "Author self-identifies as an ordinary retail investor ('Joe sixpack'), implying the rule's negative consequences are apparent even to non-expert market participants."
+    ],
+    "recommended_actions": [
+      "Do not adopt the proposed rule as written.",
+      "Develop separate, tailored rules specifically designed for cryptocurrency markets."
+    ],
+    "key_quotes": [
+      "Don't do this.",
+      "Crypto needs their own rules, this will overall do harm to businesses.",
+      "I'm just Joe sixpack and even I understand this."
+    ],
+    "source_file": "00022_Comments_of_Steven_Haworth.html"
+  },
+  {
+    "author": "Bhavith S",
+    "affiliation": "None (Individual Retail Investor)",
+    "stakeholder_type": "retail_investor",
+    "overall_position": "oppose",
+    "tone": "concerned, assertive, protective of retail interests",
+    "executive_summary": "Bhavith S, a retail investor, strongly opposes the proposed rescission of Rule 611 (Order Protection Rule) under Regulation NMS. The author argues that removing the Trade-Through Rule will eliminate a critical hard mechanical safeguard for retail investors, enabling zero-commission brokerages to prioritize Payment for Order Flow (PFOF) revenue over best execution. The author draws on personal experience with execution discrepancies and analogizes the risk to unregulated cryptocurrency markets.",
+    "market_structure_topics": [
+      "Order Protection Rule (Rule 611)",
+      "Regulation NMS",
+      "Trade-Through Rule",
+      "National Best Bid and Offer (NBBO)",
+      "Payment for Order Flow (PFOF)",
+      "Best Execution",
+      "Off-Exchange Wholesalers",
+      "Order Routing",
+      "Retail Investor Protection",
+      "Zero-Commission Brokerages"
+    ],
+    "positions": {
+      "order_competition_rule": "Not directly addressed",
+      "best_execution": "Opposes reliance on subjective best execution standard as a replacement for Rule 611; views it as insufficient protection compared to a hard mathematical rule",
+      "tick_size_reform": "Not addressed",
+      "access_fee_reform": "Not addressed",
+      "transparency": "Implicitly supports price transparency through retention of NBBO-based routing requirements"
+    },
+    "economic_arguments": [
+      "Zero-commission brokerages have inherent conflicts of interest because they generate revenue through PFOF rather than commissions, misaligning their incentives with retail investor outcomes",
+      "Without Rule 611, brokerages will be financially incentivized to route orders to venues that pay the highest PFOF rather than venues offering the best price",
+      "A hard mathematical rule provides stronger and more reliable investor protection than a subjective qualitative standard such as best execution"
+    ],
+    "liquidity_arguments": [
+      "Author does not make explicit liquidity arguments but implicitly suggests that off-exchange routing to wholesalers may not provide retail investors with access to the best publicly displayed prices"
+    ],
+    "competition_arguments": [
+      "Removal of Rule 611 would favor corporate middlemen and off-exchange wholesalers over retail investors",
+      "PFOF-driven routing decisions would distort competitive order routing away from price-optimal venues toward revenue-optimal venues for brokerages"
+    ],
+    "retail_investor_arguments": [
+      "Retail investors already experience execution price discrepancies relative to displayed prices under the current regime",
+      "Rescinding Rule 611 risks replicating the unregulated, slippage-prone conditions observed in cryptocurrency markets within U.S. equities",
+      "The NBBO-based Trade-Through Rule is the primary mechanical guarantee that retail trades receive the best publicly displayed price",
+      "Subjective best execution standards are inadequate substitutes for a hard, enforceable price protection rule",
+      "Retail investors are particularly vulnerable to broker conflicts of interest at zero-commission platforms such as Robinhood and Webull"
+    ],
+    "recommended_actions": [
+      "Retain Rule 611 (Order Protection Rule) in its current form",
+      "Do not rescind the Trade-Through Rule under Regulation NMS",
+      "Maintain the hard mechanical NBBO price protection standard for retail order routing"
+    ],
+    "key_quotes": [
+      "I am deeply concerned that repealing Rule 611 will bring that same lack of strict price protection to the U.S. stock market, exacerbating the problem for everyday traders.",
+      "If the strict mandate to route orders to the venue displaying the National Best Bid and Offer (NBBO) is removed, these brokerages will be highly incentivized to route retail orders to favored off-exchange wholesalers and alternative venues that pay them the most in Payment for Order Flow (PFOF).",
+      "Without the rigid mechanical protection of the Trade-Through Rule, brokerages will prioritize their own kickbacks and revenue over securing the absolute best execution price for their customers.",
+      "The subjective 'best execution' standard is not a sufficient replacement for a hard, mathematical rule that guarantees retail investors get the best publicly displayed price.",
+      "Please do not remove the very safeguard that ensures retail trades are not traded-through for the benefit of corporate middlemen."
+    ],
+    "source_file": "00023_Comments_of_Bhavith_S.html"
+  }
+]

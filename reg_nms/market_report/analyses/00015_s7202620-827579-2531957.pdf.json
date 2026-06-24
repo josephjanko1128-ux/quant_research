@@ -1,0 +1,68 @@
+{
+  "author": "Bernard McDevitt",
+  "affiliation": "FCF Securities and Derivatives LLC (d/b/a FOG Equities LLC)",
+  "stakeholder_type": "Broker-Dealer / Market Intermediary",
+  "overall_position": "mixed",
+  "tone": "Constructive and cautionary; formally respectful but urgently warning of unintended consequences",
+  "executive_summary": "FOG Equities, a Chicago-based registered broker-dealer specializing in the stock leg of complex listed options orders, conditionally supports the rescission of Rule 611 (the trade-through prohibition) but raises a focused and urgent concern: the Proposal eliminates the Qualified Contingent Trade (QCT) exemption without providing a replacement safe harbor. The firm argues this creates a regulatory vacuum that will introduce legal uncertainty into the equity hedging mechanism underpinning options market liquidity, foreseeably causing wider spreads, reduced depth in complex options series, and diminished hedging capacity. FOG Equities requests that the Commission issue a no-action letter or adopt a new standalone safe harbor for QCT-type transactions before or concurrent with finalizing the Proposal.",
+  "market_structure_topics": [
+    "Rescission of Rule 611 (Trade-Through Prohibition)",
+    "Qualified Contingent Trade (QCT) Exemption",
+    "Complex Listed Options Market Structure",
+    "Stock Leg of Stock-Option Contingent Trades",
+    "Best Execution Duty (FINRA Rule 5310)",
+    "National Best Bid and Offer (NBBO)",
+    "Options Market Maker Liquidity Provision",
+    "Regulatory Safe Harbors and No-Action Relief",
+    "Equity-Options Market Linkage",
+    "Regulation NMS Reform"
+  ],
+  "positions": {
+    "order_competition_rule": "Not directly addressed in this letter",
+    "best_execution": "Concerned that principles-based best execution duty (FINRA Rule 5310) is fundamentally ambiguous when applied to the stock leg of contingent options transactions, providing no bright-line standard to replace the QCT exemption's certainty; requests no-action relief or explicit FINRA guidance on how Rule 5310 applies to these transactions",
+    "tick_size_reform": "Not addressed in this letter",
+    "access_fee_reform": "Not addressed in this letter",
+    "transparency": "Implicitly supports regulatory clarity and predictability; criticizes the Proposal for failing to acknowledge, request comment on, or propose transitional relief for the QCT gap, characterizing the Commission's silence as a failure of transparency in rulemaking"
+  },
+  "economic_arguments": [
+    "The QCT exemption reflects a longstanding Commission finding that contingent trades contribute to efficient market functioning and price discovery, and that requiring the stock leg to meet trade-through provisions would make such trades too risky and costly to employ successfully.",
+    "Removing the QCT safe harbor without replacement disrupts the economics of options liquidity provision: market makers must price regulatory uncertainty into their quotes, resulting in wider spreads and reduced size, costs ultimately borne by investors.",
+    "The predetermined economics of a contingent trade fix the spread or ratio between component prices at order placement, meaning the stock leg price may legitimately differ from the prevailing NBBO \u2014 a structural feature that a facts-and-circumstances best execution standard cannot accommodate with predictability.",
+    "Liquidity provision in complex options series depends on market maker confidence built over years of stable regulatory treatment; once disrupted, restoring it after the fact may be slow and incomplete, counseling strongly for preemptive action.",
+    "The Commission's own 2006 findings in Release No. 34-54389 \u2014 that breaking up contingent trade components could leave parties out of hedge, prevent dealers from committing capital, and disadvantage the market as a whole \u2014 remain equally valid today and are directly applicable to the consequences of rescinding Rule 611 without a replacement."
+  ],
+  "liquidity_arguments": [
+    "The stock leg of a complex options order is the hedge that allows options market makers to quote multi-leg strategies confidently and in size; regulatory certainty around that hedge is a prerequisite for deep, tightly quoted complex options markets.",
+    "Without a defined safe harbor, each equity hedge priced outside the NBBO becomes subject to after-the-fact, facts-and-circumstances best execution scrutiny, making the hedge legally uncertain and operationally unreliable.",
+    "Market makers facing hedge uncertainty will respond by widening options quotes, reducing quoted size, or declining to quote certain complex series altogether, directly degrading liquidity in the complex options market.",
+    "Institutions managing risk, pension funds hedging equity exposure, and sophisticated investors constructing tailored risk profiles are the primary users of complex stock-tied options strategies and will bear the greatest harm from reduced liquidity depth.",
+    "The Commission itself warned in 2006 that reducing contingent trading activity 'potentially could remove liquidity from the market' \u2014 the Proposal risks reintroducing that precise harm as an unintended byproduct of equity market structure reform."
+  ],
+  "competition_arguments": [
+    "The Proposal is intended to reduce costs and enhance competition and market quality in equities, but by inadvertently undermining the hedging mechanism underpinning options liquidity, it risks producing the opposite result in the options market.",
+    "A reform designed to improve equity market quality should not be permitted to degrade options market quality as an unintended byproduct, particularly when the two markets are structurally linked through contingent stock-option transactions.",
+    "The Commission's separate options market structure review, including the April 2026 roundtable, does not address the immediate consequences of Rule 611 rescission for the stock leg of listed options orders, leaving a competitive gap that cannot await the outcome of that review."
+  ],
+  "retail_investor_arguments": [
+    "While FOG Equities' primary concern is market-wide, it notes that the investors who rely most heavily on complex stock-tied options strategies \u2014 including institutions and pension funds \u2014 depend on deep, tightly quoted complex options markets for efficient risk management.",
+    "As liquidity in complex options strategies thins due to regulatory uncertainty, the ability to efficiently construct and unwind hedges deteriorates, raising the cost of risk management across the market for all participants.",
+    "The Commission's broader market structure agenda aims to serve market participants broadly; degrading options market quality as an unintended consequence of equity reform would undermine that agenda and harm the investors it is designed to benefit."
+  ],
+  "recommended_actions": [
+    "Issue a no-action letter confirming that broker-dealers reporting the stock leg of a complex listed options order outside the NBBO, pursuant to the predetermined economics of the contingent transaction, will not be deemed to have violated best execution obligations under FINRA Rule 5310 or applicable Commission rules, provided the overall transaction meets conditions substantially equivalent to the seven elements of a qualified contingent trade set forth in Release No. 34-54389.",
+    "Alternatively, adopt a new standalone safe harbor \u2014 by rule or interpretive guidance \u2014 providing the same bright-line certainty as the QCT exemption for tied stock-option transactions, independent of Rule 611's existence, using the Commission's existing exemptive order authority as precedent.",
+    "At minimum, explicitly request comment on the QCT gap in any reproposing release, and coordinate with FINRA to issue guidance on how Rule 5310 applies to the stock leg of contingent options transactions.",
+    "Address the QCT safe harbor question before or concurrent with finalizing the Proposal, rather than leaving market participants without regulatory clarity during an indeterminate transition period pending the outcome of the separate options market structure review."
+  ],
+  "key_quotes": [
+    "'The stock leg is not an ancillary detail of these transactions; it is the hedge that makes options market makers willing to quote complex, multi-leg strategies in size.'",
+    "'Introducing legal uncertainty into the execution of that hedge would, FOG Equities submits, degrade liquidity in the options market, widen spreads, and impair the ability of investors to execute and hedge complex options strategies \u2014 the very harms the Commission sought to avoid when it granted the QCT exemption.'",
+    "'The Proposal states only that the duty of best execution is independent from the requirements under Rule 611 and will continue to apply. FOG Equities is concerned that this creates a material regulatory vacuum.'",
+    "'It is unclear whether prevailing market conditions incorporates the predetermined economics of the options leg, and whether pricing the stock component outside the NBBO to facilitate a complex options transaction satisfies the reasonable diligence standard.'",
+    "'The only thing that has changed is the regulatory vehicle: the harm the Commission guarded against by granting the exemption would now be reintroduced by rescinding the rule on which the exemption rests, without putting anything in its place.'",
+    "'A reform designed to improve equity market quality should not be permitted to degrade options market quality as an unintended byproduct.'",
+    "'Liquidity provision in complex options series depends on market maker confidence built over many years of stable regulatory treatment. If that confidence is disrupted and liquidity providers withdraw, restoring it after the fact \u2014 even through subsequent corrective guidance \u2014 may prove slow and incomplete.'",
+    "'The Commission has not addressed what standard will govern these transactions going forward... This silence is itself a concern: it suggests that the Commission may not have fully considered the downstream consequences of Rule 611's rescission for the complex options market.'"
+  ],
+  "source_file": "00015_s7202620-827579-2531957.pdf.pdf"
+}

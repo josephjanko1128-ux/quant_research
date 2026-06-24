@@ -1,0 +1,84 @@
+{
+  "author": "Jared Albert",
+  "affiliation": "Individual Retail Investor / Lit Exchange Liquidity Provider",
+  "stakeholder_type": "Retail Investor / Individual",
+  "overall_position": "oppose",
+  "tone": "Highly adversarial, emotionally charged, repetitive, urgent, accusatory",
+  "executive_summary": "Jared Albert, an individual retail investor who actively places hidden and odd-lot resting limit orders on primary listing exchanges, submits a collection of emails to multiple SEC Chairs opposing Payment for Order Flow (PFOF) and off-exchange internalization. His core argument is that FINRA-reported trades routinely trade through his resting hidden and odd-lot limit orders on lit exchanges without first checking for available liquidity, constituting what he characterizes as theft and fraud. He calls on the SEC to ban PFOF, enforce FINRA Rule 5310 best execution requirements, and require that all orders interact with the primary listing exchange before any off-exchange execution. He draws comparisons to G7 and OECD nations that have banned or restricted PFOF and internalization.",
+  "market_structure_topics": [
+    "Payment for Order Flow (PFOF)",
+    "Off-exchange / dark trading",
+    "Best execution (FINRA Rule 5310)",
+    "Hidden and odd-lot order trade-throughs",
+    "Internalization by wholesalers",
+    "Lit exchange liquidity and quote quality",
+    "NBBO formation and reference pricing",
+    "Adverse selection on lit markets",
+    "Spread widening",
+    "Primary listing exchange interaction requirements",
+    "Retail Liquidity Programs",
+    "Midpoint execution",
+    "SRO enforcement failures",
+    "International regulatory comparisons (G7/OECD)"
+  ],
+  "positions": {
+    "order_competition_rule": "Strongly supports requiring all orders to interact with the primary listing exchange before off-exchange execution; believes orders should be exposed to lit market liquidity, particularly hidden and odd-lot orders, prior to any internalization",
+    "best_execution": "Strongly supports strict enforcement of FINRA Rule 5310; argues FINRA has systematically failed to enforce its own best execution rules by allowing trade-throughs of resting limit orders on lit exchanges; calls for SEC intervention to compel compliance",
+    "tick_size_reform": "Not directly addressed",
+    "access_fee_reform": "Not directly addressed",
+    "transparency": "Implicitly supports greater transparency; argues that the dominance of dark/off-exchange trading undermines price discovery and reference pricing on lit markets, and that quotes on lit markets are rendered meaningless if no trades occur there"
+  },
+  "economic_arguments": [
+    "Off-exchange trading now represents approximately 65% of all volume and 99% of retail volume, fundamentally undermining lit market price discovery",
+    "PFOF creates adverse selection against lit quotes, which mechanically widens bid-ask spreads over time",
+    "Wholesalers and internalizers pay for the right to selectively fill orders without fiduciary responsibility to the order originator, enabling front-running and cherry-picking of order flow",
+    "Closing prints and NBBO reference prices are derived from lit exchange activity, yet the vast majority of actual trading occurs off-exchange, creating a structurally parasitic relationship between dark and lit markets",
+    "Widening spreads caused by adverse selection increase the economic benefit to off-exchange participants, creating a self-reinforcing cycle that further degrades lit market quality",
+    "PFOF kickback economics incentivize brokers to route orders away from lit markets regardless of execution quality, constituting a misalignment of broker and customer interests"
+  ],
+  "liquidity_arguments": [
+    "Hidden resting limit orders and odd-lot orders on primary listing exchanges represent genuine available liquidity that is systematically bypassed by FINRA-reported off-exchange trades",
+    "Trade-throughs of hidden midpoint orders on lit exchanges deny both sides of the trade access to better pricing than the NBBO",
+    "Off-exchange execution eliminates direct order interaction between retail liquidity providers and retail liquidity takers on lit exchanges, fragmenting natural order matching",
+    "The risk of providing on-demand counter-party liquidity on lit exchanges increases as off-exchange trading grows, further discouraging lit market participation and widening spreads",
+    "Stocks can trade thousands of shares in a session entirely off-exchange, making that volume inaccessible to lit market participants who set reference prices",
+    "Retail Liquidity Program pricing and midpoint execution opportunities are foregone when orders are internalized without checking lit exchange liquidity"
+  ],
+  "competition_arguments": [
+    "PFOF creates a two-tiered market: a dark market where actual trading occurs and a lit market that serves only as a reference pricing mechanism, eliminating genuine competition between buyers and sellers",
+    "Wholesalers can pick and choose which orders to fill without competitive pressure from lit exchange liquidity, constituting capitalism without competition",
+    "The G7 and many OECD nations have banned PFOF and various forms of internalization; the U.S. market structure is an outlier among developed markets",
+    "Brokers advertising intermarket sweep capabilities as part of their routing algorithms still trade through lit exchange hidden and odd-lot orders, suggesting competitive claims are misleading",
+    "Concentration of retail order flow among a small number of large wholesalers reduces competitive pressure for best execution"
+  ],
+  "retail_investor_arguments": [
+    "Retail investors who place resting limit orders on lit exchanges are harmed when those orders are traded through by off-exchange executions at inferior prices",
+    "Retail investors who take liquidity are harmed by paying wider spreads than would exist if their orders were routed to lit markets with available hidden or midpoint liquidity",
+    "PFOF arrangements defraud retail investors on both sides of the trade: liquidity providers whose orders are bypassed and liquidity takers who receive inferior prices",
+    "Retail investors have no visibility into or recourse against systematic trade-throughs of their resting limit orders by FINRA-member firms",
+    "The author personally experiences his hidden resting limit orders being traded through by non-de minimis amounts throughout the trading day, representing direct and quantifiable harm"
+  ],
+  "recommended_actions": [
+    "Ban PFOF outright, consistent with G7 and OECD regulatory standards",
+    "Require all orders to interact with the primary listing exchange and check for available liquidity before any off-exchange or internalized execution",
+    "Mandate that FINRA enforce Rule 5310 best execution requirements, specifically the requirement to check the number of markets including the primary listing exchange",
+    "Prohibit off-exchange execution at the NBBO without first confirming no hidden midpoint liquidity exists on the primary listing exchange",
+    "Ban all unexposed off-exchange trading, joining the regulatory approach of other OECD member nations",
+    "Require smart-order routing with a lit market interaction attempt before any wholesaler internalization is permitted",
+    "Investigate and potentially charge FINRA for failure to enforce its own best execution rules",
+    "Eliminate the ability of FINRA-member firms to front-run lit resting limit orders by executing off-exchange at exactly the same price"
+  ],
+  "key_quotes": [
+    "Payment for order flow orders that execute at the NBBO, without first confirming that there is no hidden midpoint liquidity on the primary listing exchange, is theft and fraud.",
+    "Off exchange trading is now 65% of all volume and 99% of retail volume. PFOF creates adverse selection to lit quotes, which widens spread and also cheats lit retail liquidity providers.",
+    "PFOF is an criminal kick back scheme which defrauds the individual investors.",
+    "There are currently two equity markets. There is the dark market, where the actual trading occurs, then there is the lit market, where the reference pricing for the dark markets take place. It's capitalism without competition.",
+    "Off exchange trading is stealing from both sides of the trade. This theft is increasing the risk to on demand counter party execution on lit exchanges, which widens spreads, which increases the benefits to the theft.",
+    "Time to join the rest of the OECD and simply ban all unexposed off exchange trading.",
+    "The rest of the G7 have banned PFOF and many forms of internalization. I encourage the commission to simply join the rest of the G7 and ban wholesaler internalization and PFOF without first a smart route trade attempt against the lit markets.",
+    "If no trades occur on a lit market, what are the quotes for?",
+    "We have participants that pay to pick and choose which order they fill, with no fiduciary responsibility to the originator of the order, which leads to massive front running and adverse selection to lit quotes, which widens the NBBO spread.",
+    "In every one of those cases, the executing broker failed to make even the most basic check of the primary listing exchange before executing the trade at a worse price for the customer. They have defrauded their customer as I am offering better pricing than the FINRA reported trade."
+  ],
+  "source_file": "00011_Comments_of_Jared_Albert.html"
+}

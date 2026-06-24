@@ -1,0 +1,47 @@
+{
+  "author": "Thomas W. Brink, MD",
+  "affiliation": "Individual Retail Investor (Medical Doctor)",
+  "stakeholder_type": "retail_investor",
+  "overall_position": "oppose",
+  "tone": "strongly opposed, emotional, populist",
+  "executive_summary": "Dr. Brink, a retail investor, vehemently opposes a proposed SEC rule that would allow corporations to shift from quarterly to semi-annual financial reporting. He argues this change would create an informational asymmetry that benefits corporate insiders and wealthy elites at the expense of ordinary individual investors.",
+  "market_structure_topics": [
+    "financial reporting frequency",
+    "corporate disclosure requirements",
+    "information asymmetry",
+    "insider advantage"
+  ],
+  "positions": {
+    "order_competition_rule": "not addressed",
+    "best_execution": "not addressed",
+    "tick_size_reform": "not addressed",
+    "access_fee_reform": "not addressed",
+    "transparency": "strongly supports maintaining quarterly reporting transparency; opposes any reduction in disclosure frequency"
+  },
+  "economic_arguments": [
+    "Reducing reporting frequency from quarterly to semi-annual creates informational advantages for corporate insiders",
+    "Insiders would be able to anticipate market reactions to financial results and trade profitably before public disclosure",
+    "The rule disproportionately benefits wealthy and elite market participants at the expense of retail investors"
+  ],
+  "liquidity_arguments": [],
+  "competition_arguments": [
+    "Semi-annual reporting would create an uneven playing field between insiders with access to non-public information and ordinary retail investors",
+    "The rule is characterized as favoring elite market participants over average individual investors"
+  ],
+  "retail_investor_arguments": [
+    "Individual investors rely on frequent financial disclosures to make informed investment decisions",
+    "Reducing reporting frequency harms retail investors by widening the information gap between them and corporate insiders",
+    "The proposed change is viewed as fundamentally unfair to ordinary investors"
+  ],
+  "recommended_actions": [
+    "Reject the proposed rule to allow semi-annual financial reporting",
+    "Maintain the existing quarterly financial reporting requirement for publicly traded corporations"
+  ],
+  "key_quotes": [
+    "I write to vehemently oppose the proposed regulation that would allow corporations to report financial information every six months instead of every three months.",
+    "This change will allow insiders to determine how the markets will perceive corporations and profit from the knowledge that they have to the exclusion of individual investors.",
+    "In other words, 'The rich get richer' and the poor man suffers.",
+    "This proposed rule is purely for the elite."
+  ],
+  "source_file": "00015_Comments_of_Thomas_W._Brink_MD.html"
+}

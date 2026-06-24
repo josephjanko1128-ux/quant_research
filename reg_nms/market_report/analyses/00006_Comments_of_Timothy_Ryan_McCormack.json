@@ -1,0 +1,29 @@
+{
+  "author": "Timothy Ryan McCormack",
+  "affiliation": "Unknown/Individual",
+  "stakeholder_type": "Individual/Retail Public",
+  "overall_position": "unclear",
+  "tone": "informal, tangential, non-substantive",
+  "executive_summary": "The comment letter submitted by Timothy Ryan McCormack does not address any substantive SEC rulemaking topics related to market microstructure, equity market structure reform, order competition, best execution, tick sizes, or access fees. Instead, the letter discusses unrelated concerns about telephone scams, malware, viruses, telecom companies profiting from malware remediation, and outdated software. The comment appears to be entirely off-topic relative to the SEC rulemaking docket it was submitted under.",
+  "market_structure_topics": [],
+  "positions": {
+    "order_competition_rule": "No position stated",
+    "best_execution": "No position stated",
+    "tick_size_reform": "No position stated",
+    "access_fee_reform": "No position stated",
+    "transparency": "No position stated"
+  },
+  "economic_arguments": [],
+  "liquidity_arguments": [],
+  "competition_arguments": [],
+  "retail_investor_arguments": [],
+  "recommended_actions": [
+    "Remove outdated software from the market (as stated by author, though unrelated to SEC rulemaking)"
+  ],
+  "key_quotes": [
+    "scammers are hitting insurance people's telephones with an overflow of links and comments; it has led to more viruses and malware incidents",
+    "telecom sectors like AT&T and Spectrum are getting paid to fix offline malware like never before",
+    "perhaps we need to extract outdated software from the market"
+  ],
+  "source_file": "00006_Comments_of_Timothy_Ryan_McCormack.html"
+}

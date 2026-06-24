@@ -1,0 +1,72 @@
+{
+  "author": "Katya Malinova and Andreas Park",
+  "affiliation": "McMaster University (DeGroote School of Business) and University of Toronto; APIA Scholar consultancy",
+  "stakeholder_type": "Academic Researchers / Market Microstructure Economists",
+  "overall_position": "support",
+  "tone": "Analytical, measured, cautiously supportive with substantive caveats; scholarly and evidence-based",
+  "executive_summary": "Professors Malinova and Park, academic market microstructure researchers, support the SEC's proposed rescission of Rule 611 (the Order Protection Rule/Trade-Through Rule) on two principal grounds: (1) the OPR's mandatory routing creates predictable cross-market order-splitting patterns that fast traders exploit through latency arbitrage, as documented in their own empirical research using Canadian regulatory audit-trail data; and (2) the OPR is structurally incompatible with the emerging world of tokenized equities trading on blockchain-based venues. Their support is conditioned on two important caveats: retail investors must retain robust best-execution protections anchored to a meaningful benchmark, and the Commission must monitor the potential weakening of incentives to post aggressive displayed limit orders following removal of the OPR's price-priority protection.",
+  "market_structure_topics": [
+    "Order Protection Rule (Rule 611) rescission",
+    "Trade-through rule and routing mandates",
+    "Market fragmentation and venue competition",
+    "Latency arbitrage and high-frequency trading",
+    "Cross-market order splitting and sniping",
+    "Tokenized equities and blockchain-based trading venues",
+    "Automated market makers (AMMs) and decentralized finance",
+    "Best execution obligations",
+    "Displayed liquidity and limit order incentives",
+    "National Market System integration",
+    "Retail investor protection",
+    "European market structure comparison (MiFID best execution)"
+  ],
+  "positions": {
+    "order_competition_rule": "Supportive of rescinding Rule 611; argue the OPR has outlived its purpose, generates exploitable predictability via mandatory order splitting, and is incompatible with tokenized/blockchain trading environments. Support is conditional on maintaining investor protections.",
+    "best_execution": "Strongly favor a robust, benchmark-anchored best-execution obligation as the replacement framework for investor protection post-OPR rescission. Explicitly warn against weak European-style 'all reasonable steps' standards, citing empirical evidence that only 79-86% of orders in European markets execute at the best available price under that regime.",
+    "tick_size_reform": "Not addressed",
+    "access_fee_reform": "Not addressed",
+    "transparency": "Implicitly supportive of transparency in displayed liquidity; caution that rescinding the OPR may reduce incentives to post aggressive displayed limit orders, with broader implications for price discovery and market quality that warrant Commission monitoring."
+  },
+  "economic_arguments": [
+    "The OPR's mandatory cross-venue order routing creates predictable order-splitting patterns that are structurally exploitable by fast traders, making latency arbitrage profitable as a direct consequence of regulatory compliance requirements rather than informational advantages.",
+    "Removing the OPR routing mandate eliminates the primary source of cross-market predictability that enables latency arbitrage, potentially reducing a form of trading cost imposed on investors by the rule itself.",
+    "The OPR is economically incompatible with blockchain-based trading systems: on-chain venues execute trades at discrete block intervals via smart contract calls, making real-time cross-system routing physically impossible.",
+    "Automated market makers price continuously based on pool state and may display best prices at any moment, creating an irresolvable compliance paradox if the OPR were extended to cover tokenized equity venues.",
+    "European best-execution experience demonstrates that vague 'reasonable steps' standards produce measurable execution quality shortfalls, with 14-21% of marketable orders failing to execute at the best available price across major Eurostoxx50 stocks.",
+    "A price-driven best-execution framework protects only marketable order submitters, leaving limit order posters\u2014who provide liquidity and bear option risk\u2014without the priority protection currently afforded by the OPR."
+  ],
+  "liquidity_arguments": [
+    "The OPR currently protects investors who post the best displayed prices by giving their orders priority over worse-priced orders; rescission removes this protection and may weaken the incentive to display aggressive limit orders.",
+    "Reduced incentives to post displayed limit orders could have broader negative implications for market liquidity quality, price discovery, and the overall health of displayed order books.",
+    "The Commission is urged to monitor post-rescission changes in displayed liquidity as a key market quality metric.",
+    "Cross-market order splitting mandated by the OPR, while intended to ensure best prices, paradoxically exposes liquidity-seeking orders to sniping by fast traders who anticipate subsequent legs of split orders arriving at other venues."
+  ],
+  "competition_arguments": [
+    "The OPR electronically integrates geographically dispersed market centers, but this integration comes at the cost of creating exploitable routing patterns that benefit fast traders at the expense of other market participants.",
+    "Rescinding the OPR allows best-execution obligations rather than hard routing mandates to govern competition between traditional and emerging (blockchain-based) trading venues, enabling more organic market evolution.",
+    "The inability of decentralized on-chain venues to comply with OPR routing requirements creates an unlevel competitive playing field that would either exclude blockchain venues from the NMS or impose irresolvable compliance burdens on traditional brokers."
+  ],
+  "retail_investor_arguments": [
+    "Retail investors are identified as the most vulnerable population requiring continued protection following OPR rescission, as they are the least sophisticated participants and most reliant on broker intermediation for execution quality.",
+    "A strong best-execution obligation anchored to a clear, measurable benchmark is recommended as the primary mechanism to protect retail investors in the absence of the OPR.",
+    "The European cautionary example is directly relevant to retail protection: weak best-execution standards demonstrably result in a significant percentage of orders not executing at the best available price, a harm that would disproportionately affect retail investors.",
+    "The authors implicitly distinguish between retail investors who submit marketable orders (protected by best-execution frameworks) and those who might post limit orders (whose priority protection would be lost with OPR rescission)."
+  ],
+  "recommended_actions": [
+    "Support rescission of Rule 611 (the Order Protection Rule/Trade-Through Rule).",
+    "Establish a robust best-execution obligation anchored to a specific, measurable benchmark to replace OPR investor protections, explicitly avoiding the weak European 'all reasonable steps' standard.",
+    "Ensure the best-execution framework provides meaningful, enforceable protection specifically for retail investors who rely on broker intermediation.",
+    "Monitor post-rescission market quality, with particular attention to changes in displayed liquidity, limit order posting incentives, and the broader implications for price discovery.",
+    "Consider the structural incompatibility of the OPR with tokenized equity and blockchain-based trading venues as a forward-looking rationale for rescission, and develop a regulatory framework that can accommodate both traditional and on-chain trading systems.",
+    "Allow best-execution obligations rather than hard routing mandates to govern the interaction between traditional NMS venues and emerging decentralized trading platforms."
+  ],
+  "key_quotes": [
+    "The OPR is a well-intended rule: it electronically integrates geographically dispersed market centers, it assures investors that their orders execute at the best displayed prices, and it gives priority to traders who publicly post the best-priced orders. We believe, however, that the rule has outlived its time, and we support the proposed rescission.",
+    "In short, the OPR's routing mandate itself generates the predictability that makes latency arbitrage profitable. Removing the mandate removes the source of this predictability.",
+    "On a platform such as Ethereum, trades are the result of calls to smart contracts; they execute when validators include them in a block, at discrete intervals; and the systems are disjoint, so it is impossible to 'route' an order from one to the other.",
+    "The absence of an order protection rule allows market participants to sidestep this essentially irresolvable issue, and lets best-execution obligations, rather than a hard routing mandate, govern the interaction between the two systems.",
+    "The Commission should ensure that a robust mechanism remains in place so that the least sophisticated participants, retail investors above all, continue to obtain the best available prices when relying on the services of a broker.",
+    "The European experience provides a cautionary tale: there, brokers merely apply the nebulous criterion of taking 'all reasonable steps' toward favourable outcomes... only 79-86% of marketable orders in Eurostoxx50 stocks execute at the best available price.",
+    "Rescinding the rule removes the protection that gives them priority over worse-priced orders, which may weaken the incentive to display aggressive limit orders. The Commission should consider, and monitor, the broader implications for displayed liquidity."
+  ],
+  "source_file": "00011_s7202620-820899-2503568.pdf.pdf"
+}

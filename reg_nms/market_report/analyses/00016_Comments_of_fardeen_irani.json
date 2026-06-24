@@ -1,0 +1,93 @@
+{
+  "author": "Fardeen Irani",
+  "affiliation": "Individual (unaffiliated)",
+  "stakeholder_type": "Individual Commenter / Retail Investor Advocate",
+  "overall_position": "mixed",
+  "tone": "Analytical, technically sophisticated, cautiously supportive of deregulation with strong conditional caveats",
+  "executive_summary": "Fardeen Irani submits a technically detailed comment letter responding to the SEC's proposal to rescind Rule 611 (trade-through prohibition) and Rule 610(e) (locked/crossed quotation restrictions). While broadly supportive of moving toward a disclosure-based, free-market routing architecture, Irani argues that deregulation alone is insufficient given empirical data showing that 46-93% of internalized retail orders bypass superior midpoint liquidity available on public exchanges and ATSs. The letter calls for aggressive Best Execution enforcement, mandatory midpoint-cross checks prior to internalization, modernization of Rule 605 price impact windows to one minute, dynamic Smart Order Router requirements, PFOF reform, and full implementation of variable tick sizes under Rule 612 to restore competitive parity between exchanges and wholesalers.",
+  "market_structure_topics": [
+    "Rule 611 rescission (trade-through prohibition)",
+    "Rule 610(e) rescission (locked and crossed quotations)",
+    "Retail order internalization by wholesalers",
+    "NBBO midpoint pricing dynamics",
+    "Payment for Order Flow (PFOF)",
+    "Best Execution (FINRA Rule 5310)",
+    "Rule 605 execution quality reporting",
+    "Variable tick sizes (Rule 612)",
+    "Smart Order Routing (SOR)",
+    "Alternative Trading Systems (ATS)",
+    "Odd-lot quotation reform",
+    "Adverse selection and price impact measurement",
+    "Intermarket Sweep Orders (ISOs)",
+    "High-frequency trading and inverted-spread arbitrage",
+    "Consolidated Audit Trail (CAT) analytics",
+    "Midpoint-pegged retail order types"
+  ],
+  "positions": {
+    "order_competition_rule": "Conditionally supportive of rescinding Rule 611 and 610(e) as a simplification of market structure, but insists that without trade-through protections, a strict mandatory pre-internalization midpoint-cross check must replace the routing mandate to prevent retail investors from being systematically executed at inferior prices when superior liquidity is displayed on public venues.",
+    "best_execution": "Strongly supportive of aggressive, heightened enforcement of Best Execution obligations. Argues FINRA Rule 5310 must be fiercely enforced with meaningful penalties for brokers who blindly route to captive wholesalers. Brokers must affirmatively demonstrate regular sampling and routing to venues displaying superior midpoint liquidity.",
+    "tick_size_reform": "Strongly supportive of full implementation of Rule 612 variable sub-penny tick sizes to restore competitive parity between public exchanges and off-exchange wholesalers, arguing that exchanges lost order flow because they were legally prohibited from quoting in sub-pennies while wholesalers could trade at any fraction of a cent.",
+    "access_fee_reform": "Not directly addressed, though implicitly supportive of structural reforms that draw order flow back to transparent public venues.",
+    "transparency": "Strongly supportive of enhanced transparency through modernized Rule 605 reporting. Specifically advocates for permanently shortening the price impact measurement window from five minutes to one minute to reflect modern trading speeds and force accurate near-instantaneous adverse selection disclosure by wholesalers."
+  },
+  "economic_arguments": [
+    "Between 46% and 73% of retail marketable order shares are internalized by wholesalers at prices worse than the NBBO midpoint, representing a systematic transfer of value away from retail investors.",
+    "Wholesalers provide midpoint-or-better executions for only approximately 46% of customer orders executed in a principal capacity, indicating widespread sub-optimal execution.",
+    "Between 40% and 93% of internalized retail shares that received sub-midpoint prices had superior midpoint liquidity available on public exchanges or ATSs at the time of execution, demonstrating that inferior executions are not a function of liquidity unavailability.",
+    "For stocks priced above $30, between 60% and 93% of principal-capacity wholesaler executions bypassed unexecuted superior midpoint liquidity on transparent venues.",
+    "PFOF creates a misaligned economic incentive structure where brokers maximize routing revenue rather than execution quality, systematically disadvantaging retail investors.",
+    "The inverted-spread arbitrage mechanism following Rule 610(e) rescission will naturally attract HFT competition that collapses inefficient spreads back to efficient midpoints without regulatory intervention.",
+    "Dynamic NBBO midpoint calculations under modernized Rules 605 and 612 create mathematical asymmetries where small odd-lot quotations shift effective spread calculations differently for buy versus sell orders."
+  ],
+  "liquidity_arguments": [
+    "Superior midpoint liquidity is actively displayed on public exchanges and ATSs but is being systematically bypassed by wholesalers internalizing retail orders at inferior prices.",
+    "Rescinding Rule 611 will eliminate the artificial distinction between protected round lots and unprotected odd lots, potentially improving displayed liquidity utilization.",
+    "Locked markets under a post-Rule 611 regime collapse spreads to zero, making execution price and NBBO midpoint identical, which benefits retail investors if routing is properly managed.",
+    "Crossed markets will create temporary negative spreads that HFT arbitrage will naturally resolve, restoring efficient midpoint pricing.",
+    "Midpoint-pegged retail order types on exchanges would allow automated re-pricing to capture micro-penny optimizations as the NBBO midpoint shifts dynamically.",
+    "Intermarket Sweep Orders (ISOs) can be used to simultaneously clear superior displayed retail odd lots across fragmented venues rather than allowing block internalization at inferior wholesale prices.",
+    "Full implementation of variable tick sizes under Rule 612 would allow exchanges to compete directly with wholesalers on sub-penny pricing, drawing retail order flow back to transparent lit books."
+  ],
+  "competition_arguments": [
+    "The current PFOF-driven internalization model gives wholesalers exclusive access to retail order flow, insulating them from competitive pressure to improve execution quality.",
+    "Exchanges historically lost retail order flow because they were legally prohibited from quoting in sub-pennies while wholesalers faced no such restriction, creating a structurally unlevel playing field.",
+    "Full Rule 612 implementation restores competitive parity between exchanges and wholesalers, allowing public venues to compete directly on sub-penny pricing.",
+    "Phasing out or heavily restricting PFOF would force retail brokerages to compete strictly on execution quality rather than secondary routing revenue.",
+    "A mandatory pre-internalization midpoint-cross check requirement would force wholesalers to compete with displayed exchange and ATS liquidity before capturing retail order flow.",
+    "Dynamic SOR requirements would break the exclusive routing relationships between brokers and captive wholesalers, introducing genuine competition for retail order flow.",
+    "Post-Rule 610(e) rescission, HFT firms will naturally arbitrage inverted spreads, introducing competitive price discovery pressure that replaces the regulatory mandate of Rule 611."
+  ],
+  "retail_investor_arguments": [
+    "Retail investors are systematically harmed by internalization at sub-midpoint prices when superior liquidity is openly available on public venues, representing a quantifiable and ongoing transfer of value.",
+    "The Commission cannot rely on deregulation alone to protect retail investors given empirical evidence that up to 93% of internalized retail orders bypass superior displayed midpoint liquidity.",
+    "Enhanced Best Execution enforcement is the primary safeguard for retail investors in a post-Rule 611 environment and must be aggressively pursued with meaningful penalties.",
+    "Modernizing the Rule 605 price impact window to one minute empowers retail brokers to identify and fire underperforming wholesalers, creating market discipline that protects retail investors.",
+    "Midpoint-pegged retail order types on exchanges would give retail investors automated access to the best available price without requiring human intervention or sophisticated order routing knowledge.",
+    "Eliminating the protected round lot versus unprotected odd lot distinction removes a structural barrier that has historically disadvantaged retail investors who frequently trade in odd-lot sizes.",
+    "PFOF reform is essential to align broker incentives with retail investor interests rather than with wholesaler revenue maximization."
+  ],
+  "recommended_actions": [
+    "Aggressively enforce FINRA Rule 5310 Best Execution with meaningful penalties for brokers who blindly route to captive wholesalers without demonstrating regular sampling of superior midpoint liquidity across venues.",
+    "Mandate a pre-internalization midpoint-cross check requiring wholesalers to systematically ping public exchanges and ATSs to confirm no superior passive midpoint liquidity is being bypassed before internalizing in a principal capacity.",
+    "Permanently shorten the Rule 605 price impact measurement window from five minutes to one minute to reflect modern trading speeds and force accurate near-instantaneous adverse selection disclosure.",
+    "Require retail brokerages to upgrade Smart Order Routers to dynamically split and route orders to exchanges when those venues display active odd-lot or round-lot midpoint liquidity rather than routing 100% of flow to a single wholesaler.",
+    "Direct exchanges to introduce midpoint-pegged retail order types that automatically re-price to the shifting NBBO midpoint to capture micro-penny optimizations without human intervention.",
+    "Enable broader use of Intermarket Sweep Orders (ISOs) by retail brokers to simultaneously clear superior displayed retail odd lots across fragmented venues.",
+    "Fully implement Rule 612 variable sub-penny tick sizes to restore competitive parity between public exchanges and off-exchange wholesalers.",
+    "Phase out or heavily restrict Payment for Order Flow to force retail brokerages to compete on execution quality rather than routing revenue.",
+    "Proceed with rescinding Rules 611 and 610(e) to eliminate technical complexity, remove artificial barriers between protected and unprotected quotations, and reduce operational burdens, but only in conjunction with the above protective measures."
+  ],
+  "key_quotes": [
+    "The empirical data cited in related market structure reviews underscores severe inefficiencies in the current retail ecosystem that must be addressed concurrently through a heightened, robust enforcement of the broker's fiduciary duty of Best Execution.",
+    "Between 46% and 73% of retail marketable order shares are currently internalized by wholesalers at a price worse than the NBBO midpoint.",
+    "Between 40% and 93% of the shares in marketable retail orders that wholesalers internalize at prices less favorable than the NBBO midpoint actually had midpoint liquidity available at a better price on a public exchange or an Alternative Trading System (ATS).",
+    "For stocks priced higher than $30, between 60% and 93% of these principal-capacity wholesaler executions had unexecuted, superior midpoint liquidity sitting readily available on transparent venues.",
+    "Because up to 93% of internalized retail orders are bypassed despite superior midpoint liquidity sitting on exchanges, the SEC cannot rely on deregulation alone.",
+    "If the trade-through rule is eliminated, the Commission must strictly mandate that retail brokers actively scan all public and private venues to capture these available midpoint prices.",
+    "The fiduciary mandate of Best Execution must be fiercely enforced to ensure that retail investors are not continually internalized at inferior prices when superior liquidity is openly displayed on the tape.",
+    "Without Rule 611 forcing a trade to route to the best price, regulators must aggressively penalize brokers who blindly route to a captive wholesaler.",
+    "Public exchanges historically lost order flow because they were legally blocked from quoting in sub-pennies, while off-exchange wholesalers could trade at any fraction of a cent.",
+    "The economic incentive driving sub-optimal internalization is PFOF\u2014wholesalers paying brokers for exclusive access to uninformed retail trades."
+  ],
+  "source_file": "00016_Comments_of_fardeen_irani.html"
+}

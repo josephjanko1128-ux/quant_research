@@ -1,0 +1,39 @@
+{
+  "author": "Steven Haworth",
+  "affiliation": "None (Individual Retail Investor)",
+  "stakeholder_type": "Retail Investor",
+  "overall_position": "oppose",
+  "tone": "Informal, colloquial, dismissive",
+  "executive_summary": "Steven Haworth, a self-described average retail investor, briefly opposes the proposed SEC rulemaking, arguing it would harm businesses and that cryptocurrency markets require their own distinct regulatory framework rather than being subject to existing equity market rules.",
+  "market_structure_topics": [
+    "Cryptocurrency regulation",
+    "Regulatory scope and applicability"
+  ],
+  "positions": {
+    "order_competition_rule": "Opposed, though no substantive reasoning provided",
+    "best_execution": "",
+    "tick_size_reform": "",
+    "access_fee_reform": "",
+    "transparency": ""
+  },
+  "economic_arguments": [
+    "The proposed rule would cause overall harm to businesses, though no specific economic mechanism or evidence is cited."
+  ],
+  "liquidity_arguments": [],
+  "competition_arguments": [
+    "Crypto markets are sufficiently distinct from traditional equity markets to warrant separate regulatory treatment."
+  ],
+  "retail_investor_arguments": [
+    "Author self-identifies as an ordinary retail investor ('Joe sixpack'), implying the rule's negative consequences are apparent even to non-expert market participants."
+  ],
+  "recommended_actions": [
+    "Do not adopt the proposed rule as written.",
+    "Develop separate, tailored rules specifically designed for cryptocurrency markets."
+  ],
+  "key_quotes": [
+    "Don't do this.",
+    "Crypto needs their own rules, this will overall do harm to businesses.",
+    "I'm just Joe sixpack and even I understand this."
+  ],
+  "source_file": "00016_Comments_of_Steven_Haworth.html"
+}

@@ -1,0 +1,65 @@
+{
+  "author": "Division of Trading and Markets",
+  "affiliation": "U.S. Securities and Exchange Commission",
+  "stakeholder_type": "Regulator/Government Agency",
+  "overall_position": "unclear",
+  "tone": "neutral, analytical, data-driven",
+  "executive_summary": "This SEC Division of Trading and Markets internal memorandum updates six key market structure data tables originally published in the April 2015 EMSAC Market Structure Memo, substituting January 2026 data for the prior February 2014 figures. The memo documents significant structural shifts including dramatic growth in off-exchange (dark) trading, a massive increase in average daily share volume particularly in NASDAQ-listed stocks, a continued decline in average trade size, and persistent fragmentation across lit venues. It does not advocate for any specific policy position but provides empirical baseline data relevant to File Number S7-2026-20, which concerns Rule 611 of Regulation NMS.",
+  "market_structure_topics": [
+    "Rule 611 of Regulation NMS (Order Protection Rule)",
+    "Market share distribution across exchanges and dark venues",
+    "Off-exchange and dark trading fragmentation",
+    "Visible market fragmentation (HHI analysis)",
+    "Average daily share volume trends",
+    "Average trade size trends",
+    "Exchange consolidation and proliferation",
+    "FINRA TRF reporting and off-exchange volume",
+    "Lit venue competition",
+    "Market fragmentation over time"
+  ],
+  "positions": {
+    "order_competition_rule": "No explicit position taken; memo provides updated empirical data on market share and fragmentation relevant to Rule 611 (Order Protection Rule) rulemaking under File S7-2026-20",
+    "best_execution": "Not addressed",
+    "tick_size_reform": "Not addressed",
+    "access_fee_reform": "Not addressed",
+    "transparency": "Implicitly supports transparency through provision of updated public data on market structure metrics, but no explicit policy position stated"
+  },
+  "economic_arguments": [
+    "Average daily share volume in NASDAQ-listed stocks increased 333% from February 2014 to January 2026 (from 2.11 billion to 9.14 billion shares), suggesting dramatic growth in overall market activity",
+    "Average daily share volume in NYSE-listed stocks increased 50% from February 2014 to January 2026 (from 3.67 billion to 5.51 billion shares)",
+    "Average trade size has declined sharply and continuously: NYSE-listed stocks fell from 777 shares in 2005 to 110 shares in 2026 (-86% total), suggesting increasing algorithmic and retail participation with smaller order sizes",
+    "Average trade size in NASDAQ-listed stocks fell from 434 shares in 2005 to 146 shares in 2026 (-66% total), consistent with market microstructure fragmentation and high-frequency trading trends"
+  ],
+  "liquidity_arguments": [
+    "Dark trading as a share of total volume has grown substantially: NASDAQ-listed stocks rose from 29.4% in 2005 to 51.9% in January 2026, meaning over half of NASDAQ volume now executes off-exchange",
+    "NYSE-listed stock dark trading share rose from 13.0% in 2005 to 47.0% in January 2026, nearly quadrupling over two decades",
+    "The shift of volume to dark venues raises implicit questions about price discovery quality and the effectiveness of Rule 611's order protection framework on lit exchanges",
+    "Declining average trade sizes alongside rising total volume may indicate liquidity is more dispersed and harder to aggregate, with implications for institutional execution quality"
+  ],
+  "competition_arguments": [
+    "Lit venue fragmentation among NASDAQ-listed stocks remains high with no single dominant exchange: NASDAQ leads at 19.71% but FINRA TRFs account for 51.89% of volume, dwarfing all lit venues combined",
+    "NYSE has partially recovered its share in NYSE-listed stocks (23.30% in 2026 vs. 20.1% in 2014), suggesting some re-consolidation on the primary listing exchange",
+    "The number of lit trading venues has proliferated significantly, with at least 17 distinct market centers reporting volume for NYSE-listed stocks in January 2026 compared to far fewer in 2005",
+    "HHI for NYSE-listed stocks on visible venues declined from 0.816 in 2014 to 0.750 in 2026, indicating slightly more competitive fragmentation among lit venues",
+    "HHI for NASDAQ-listed stocks increased modestly from 0.754 in 2014 to 0.766 in 2026, suggesting marginal consolidation among lit venues for those stocks",
+    "New entrants such as MEMX, IEX, 24X, and LTSE have captured measurable but modest market share, demonstrating continued competitive entry into exchange markets"
+  ],
+  "retail_investor_arguments": [
+    "The dramatic decline in average trade size (to 110-146 shares) may reflect increased retail participation, as retail orders tend to be smaller than institutional orders",
+    "The dominance of FINRA TRFs (51.89% for NASDAQ stocks, 46.97% for NYSE stocks) suggests a large proportion of retail order flow is being internalized or executed in dark venues rather than on lit exchanges, which has implications for price improvement and execution quality debates",
+    "No explicit retail investor protection arguments are made in this memo, as it is purely a data update document"
+  ],
+  "recommended_actions": [
+    "No policy recommendations are made; the memorandum is solely a data update to support the rulemaking record for File Number S7-2026-20 concerning Rule 611 of Regulation NMS"
+  ],
+  "key_quotes": [
+    "The purpose of this memorandum is to update Table 1 through Table 6 of the memorandum re: Rule 611 of Regulation NMS from SEC Division of Trading and Markets to SEC Market Structure Advisory Committee, dated April 30, 2015.",
+    "FINRA TRFs: 51.89% [of NASDAQ-listed stock volume, January 2026]",
+    "FINRA TRFs: 46.97% [of NYSE-listed stock volume, January 2026]",
+    "Dark ATSs and Broker-Dealers [NASDAQ Stocks]: 29.4% [2005], 38.6% [2014], 51.9% [2026]",
+    "Dark ATSs and Broker-Dealers [NYSE Stocks]: 13.0% [2005], 34.6% [2014], 47.0% [2026]",
+    "Average Daily Share Volume NASDAQ Stocks: 1.97B [2005], 2.11B [2014], 9.14B [2026] \u2014 Change '14 to '26: +333%",
+    "Average Trade Size NYSE Stocks: 777 [2005], 195 [2014], 110 [2026] \u2014 Change '05 to '14: -75%, Change '14 to '26: -44%"
+  ],
+  "source_file": "00017_s7202620-831659-2544033.pdf.pdf"
+}

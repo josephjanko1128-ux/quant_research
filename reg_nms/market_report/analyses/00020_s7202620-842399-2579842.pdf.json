@@ -1,0 +1,76 @@
+{
+  "author": "Michael Ravnitzky",
+  "affiliation": "Individual (Silver Spring, Maryland)",
+  "stakeholder_type": "Individual/Academic Observer",
+  "overall_position": "mixed",
+  "tone": "Analytical, measured, constructive, technically rigorous",
+  "executive_summary": "Michael Ravnitzky, an individual commenter from Silver Spring, Maryland, submits a technically sophisticated comment letter on the SEC's proposal to rescind Rule 611 (Trade-Through Rule) and Rule 610(e) (Locked and Crossed Markets) under Regulation NMS. Rather than opposing or supporting the proposal outright, Ravnitzky identifies five specific analytical gaps in the Commission's economic analysis and requests additional clarity, scenario analyses, and monitoring frameworks. His core concerns center on: (1) whether best execution obligations can functionally substitute for explicit price protection; (2) ambiguous fragmentation predictions; (3) insufficient analysis of quoting incentive changes; (4) unsubstantiated exchange disconnection assumptions; and (5) the limited inferential validity of odd-lot trade-through data as a proxy for round-lot behavior. The letter is notable for its intellectual rigor and absence of advocacy for any particular industry interest.",
+  "market_structure_topics": [
+    "Trade-through protection (Rule 611 rescission)",
+    "Best execution obligations as a substitute safeguard",
+    "Rule 605 reporting and execution quality metrics",
+    "Market fragmentation and off-exchange trading growth",
+    "Displayed liquidity and quoting incentives",
+    "Adverse selection and spread dynamics",
+    "Exchange connectivity and broker-dealer disconnection economics",
+    "Odd-lot vs. round-lot quote protection dynamics",
+    "Wholesaler internalization and payment for order flow",
+    "National Best Bid and Offer (NBBO) integrity",
+    "SIP data dissemination and top-of-book odd-lot quotes",
+    "Smaller exchange viability and competitive resilience",
+    "Cross-subsidization in wholesale market making",
+    "Scenario analysis and regulatory monitoring frameworks"
+  ],
+  "positions": {
+    "order_competition_rule": "Not directly addressed; implicitly relevant insofar as wholesaler internalization and routing incentives are discussed in the context of Rule 611 rescission",
+    "best_execution": "Skeptical that principles-based best execution obligations, assessed on an aggregate flow basis, can serve as an effective real-time substitute for explicit trade-through price protection, particularly for smaller orders; requests Commission clarify how per-order execution shortfalls will be monitored and addressed",
+    "tick_size_reform": "Not addressed",
+    "access_fee_reform": "Not directly addressed; exchange connectivity cost savings from potential broker-dealer disconnections are noted as a relevant economic variable",
+    "transparency": "Strongly supportive of enhanced transparency; requests publication of scenario analyses, disconnection rate assumptions, and explicit identification of Rule 605 metrics the Commission will use to monitor post-rescission execution quality"
+  },
+  "economic_arguments": [
+    "Best execution is a principles-based, flow-averaged standard that permits cross-subsidization across orders, meaning some orders may receive inferior prices while aggregate metrics remain acceptable \u2014 a structural limitation not resolved by Rule 605 enhancements alone",
+    "The proposal's fragmentation predictions are internally inconsistent: rescinding Rule 611 could reduce exchange connectivity incentives (reducing fragmentation) but simultaneously accelerate off-exchange internalization (increasing fragmentation), and the Commission does not resolve which effect dominates",
+    "The Commission's conclusions about exchange disconnection rates and their revenue impact on smaller exchanges rest on unstated assumptions; low, medium, and high disconnection scenarios should be modeled explicitly",
+    "Odd-lot trade-through cost data, used to suggest modest harm from trade-throughs, may not be a valid proxy for round-lot behavior because odd-lot quotes were historically unprotected and market participants have adapted their strategies accordingly",
+    "The sensitivity of posted liquidity to changes in expected adverse selection is not quantified, leaving the Commission's conclusion that effects on price efficiency will be limited without sufficient empirical grounding"
+  ],
+  "liquidity_arguments": [
+    "Liquidity providers may widen spreads, reduce displayed sizes, or shorten quote duration if trade-through protection is removed and adverse selection risk increases \u2014 the proposal acknowledges this but does not model the magnitude",
+    "The proposal notes that odd-lot quotes inside the NBBO are frequently traded through today, but does not explain how this observation translates to predictions about round-lot quoting behavior under the new regime",
+    "A detailed discussion of how spreads, displayed sizes, and quote duration might change under different market conditions would make the Commission's liquidity analysis more complete and credible",
+    "The conclusion that effects on displayed liquidity and price efficiency are likely limited depends critically on quoting behavior assumptions that are not fully articulated"
+  ],
+  "competition_arguments": [
+    "Smaller exchanges may face significant revenue pressure if broker-dealers disconnect to reduce connectivity and data costs following Rule 611 rescission; the Commission's assertion that exchanges will not exit the market requires more rigorous support",
+    "The proposal anticipates competitive innovation by exchanges in response to reduced trade-through protection, but does not specify what forms such innovation might take or how likely they are to succeed in retaining order flow",
+    "Wholesaler internalization may increase if trade-through protection is removed, potentially concentrating more retail order flow off-exchange and reducing competitive pressure on displayed markets",
+    "The distribution of trading activity between exchanges and off-exchange venues under the new framework is uncertain, and the Commission should outline the scenarios it considers most plausible"
+  ],
+  "retail_investor_arguments": [
+    "Retail orders, particularly smaller orders, may be most vulnerable to execution quality degradation because the per-order incentive for wholesalers to seek incremental price improvement is limited at small order sizes",
+    "The cross-subsidization dynamic in wholesale market making \u2014 where some orders receive better prices and others worse while averages remain acceptable \u2014 is a structural concern for retail investors whose individual orders may be on the unfavorable side of that distribution",
+    "Enhanced Rule 605 reporting is a necessary but potentially insufficient safeguard for retail investors if it cannot identify and trigger remediation of systematic per-order execution shortfalls",
+    "The Commission should clarify what specific Rule 605 metrics will be monitored post-rescission and what thresholds or patterns would prompt regulatory intervention to protect retail execution quality"
+  ],
+  "recommended_actions": [
+    "Publish scenario analyses showing the effects of different broker-dealer disconnection rates on exchange revenues, displayed liquidity, and retail execution quality",
+    "Clarify how best execution obligations and Rule 605 reporting are expected to function as real-time constraints on routing decisions in the absence of explicit trade-through price protection",
+    "Describe the monitoring tools and specific Rule 605 metrics the Commission will rely on to identify adverse outcomes after any rescission of Rule 611",
+    "Explain how the Commission expects the overall distribution of trading activity between exchanges and off-exchange venues to evolve, and identify which fragmentation scenarios are considered most plausible",
+    "Provide a more detailed analysis of how spreads, displayed sizes, and quote duration might change under different adverse selection conditions following rescission",
+    "Disclose the assumptions underlying disconnection estimates and present outcomes under low, medium, and high disconnection scenarios to allow readers to evaluate smaller exchange resilience",
+    "Explain the inferential relationship between odd-lot trade-through behavior and expected round-lot behavior, and provide a sensitivity analysis showing how conclusions change if round-lot behavior differs materially from odd-lot patterns",
+    "Address how the Commission expects to monitor and remediate systematic per-order execution shortfalls, particularly for smaller retail orders"
+  ],
+  "key_quotes": [
+    "Best execution is principles-based and assessed across a broker's flow... This structure allows for cross-subsidization: some orders may receive better prices and others less favorable prices while overall averages remain acceptable.",
+    "Nothing in these comments is intended to suggest that wholesalers would reduce execution quality if Rule 611 were rescinded; the point is simply that the proposal would benefit from a clearer explanation of how best execution and Rule 605 reporting are expected to operate as the primary safeguards in the new framework.",
+    "These trends point in different directions, and the proposal would benefit from a clearer explanation of how the Commission expects the overall distribution of trading activity to evolve.",
+    "Quantifying the sensitivity of posted liquidity to changes in expected adverse selection would help clarify the potential impact on execution quality.",
+    "Providing the assumptions behind the disconnection estimates and presenting outcomes under low, medium, and high disconnection scenarios would help readers understand the basis for the Commission's expectations and evaluate the resilience of smaller exchanges under the proposed framework.",
+    "Odd-lot patterns are informative, but they may not fully predict how market participants will treat larger displayed sizes.",
+    "Clarifying the monitoring tools and Rule 605 metrics the Commission will rely on to identify adverse outcomes after any rescission would also assist market participants in understanding how execution quality will be overseen in the new framework."
+  ],
+  "source_file": "00020_s7202620-842399-2579842.pdf.pdf"
+}

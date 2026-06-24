@@ -1,0 +1,40 @@
+{
+  "author": "Alex Zislin",
+  "affiliation": "Individual Retail Investor",
+  "stakeholder_type": "retail_investor",
+  "overall_position": "oppose",
+  "tone": "concerned, direct, brief",
+  "executive_summary": "Alex Zislin, a self-described active small investor, opposes the proposed changes to the Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS (File No. S7-2026-20), citing the importance of best price execution to his personal portfolio performance.",
+  "market_structure_topics": [
+    "Trade-Through Rule",
+    "Locked and Crossed Markets",
+    "Regulation NMS",
+    "Best Price Execution",
+    "Order Protection"
+  ],
+  "positions": {
+    "order_competition_rule": "Not addressed",
+    "best_execution": "Strongly supportive of maintaining best execution protections; opposes changes that may weaken them",
+    "tick_size_reform": "Not addressed",
+    "access_fee_reform": "Not addressed",
+    "transparency": "Not addressed"
+  },
+  "economic_arguments": [
+    "Best price execution is critical to maximizing retail investor portfolio returns",
+    "Changes to the Trade-Through Rule may negatively impact the prices retail investors receive on their orders"
+  ],
+  "liquidity_arguments": [],
+  "competition_arguments": [],
+  "retail_investor_arguments": [
+    "As an active small investor, the author has a direct personal stake in best execution outcomes",
+    "Proposed changes to Regulation NMS Trade-Through Rule protections are seen as harmful to retail investors who rely on order protection rules to receive the best available prices"
+  ],
+  "recommended_actions": [
+    "Reject or withdraw the proposed changes to the Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS"
+  ],
+  "key_quotes": [
+    "I wish to register opposition to the proposed changes to S7-2026-20 == The Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS.",
+    "As an active small investor, best price execution of orders is extremely important to maximizing my portfolio."
+  ],
+  "source_file": "00008_Comments_of_Alex_Zislin.html"
+}

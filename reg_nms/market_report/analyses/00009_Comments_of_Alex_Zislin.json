@@ -1,0 +1,41 @@
+{
+  "author": "Alex Zislin",
+  "affiliation": "Individual retail investor",
+  "stakeholder_type": "Retail Investor",
+  "overall_position": "oppose",
+  "tone": "Concerned, direct, brief",
+  "executive_summary": "Alex Zislin, an active small retail investor, opposes the proposed changes to the Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS (File No. S7-2026-20), citing the critical importance of best price execution to his personal portfolio performance.",
+  "market_structure_topics": [
+    "Trade-Through Rule",
+    "Locked and Crossed Markets",
+    "Regulation NMS",
+    "Best Price Execution",
+    "Order Protection"
+  ],
+  "positions": {
+    "order_competition_rule": "Not addressed",
+    "best_execution": "Strongly supportive of maintaining best execution protections; opposes changes that may weaken them",
+    "tick_size_reform": "Not addressed",
+    "access_fee_reform": "Not addressed",
+    "transparency": "Not addressed"
+  },
+  "economic_arguments": [
+    "Best price execution is essential to maximizing retail investor portfolio returns",
+    "Changes to the Trade-Through Rule could negatively impact the prices retail investors receive on their orders"
+  ],
+  "liquidity_arguments": [],
+  "competition_arguments": [],
+  "retail_investor_arguments": [
+    "As an active small investor, the author is directly and personally affected by order execution quality",
+    "Weakening the Trade-Through Rule protections could harm retail investors who rely on best price guarantees",
+    "Retail investors depend on Regulation NMS protections to ensure they receive the best available prices in the market"
+  ],
+  "recommended_actions": [
+    "Reject or withdraw the proposed changes to the Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS"
+  ],
+  "key_quotes": [
+    "I wish to register opposition to the proposed changes to S7-2026-20 == The Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS.",
+    "As an active small investor, best price execution of orders is extremely important to maximizing my portfolio."
+  ],
+  "source_file": "00009_Comments_of_Alex_Zislin.html"
+}

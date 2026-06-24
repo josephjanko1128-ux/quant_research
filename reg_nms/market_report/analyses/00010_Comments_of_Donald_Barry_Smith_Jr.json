@@ -1,0 +1,48 @@
+{
+  "author": "Donald Barry Smith Jr",
+  "affiliation": "None (Individual Retail Investor)",
+  "stakeholder_type": "Retail Investor / Individual",
+  "overall_position": "oppose",
+  "tone": "Skeptical, adversarial, populist, informal",
+  "executive_summary": "Donald Barry Smith Jr opposes the proposed rule change, arguing that the existing rule is functioning adequately and that the proposed modification is motivated by Wall Street profit-seeking rather than genuine market improvement. He warns that removing the rule would harm retail investors by allowing trading firms to route orders opportunistically for their own financial benefit.",
+  "market_structure_topics": [
+    "Order routing practices",
+    "Retail investor protection",
+    "Regulatory rollback concerns",
+    "Conflicts of interest in order flow"
+  ],
+  "positions": {
+    "order_competition_rule": "Strongly opposes any removal or weakening of the existing rule, asserting it is working as intended",
+    "best_execution": "Implicitly supports best execution protections, warning that deregulation would undermine fair order routing for retail investors",
+    "tick_size_reform": "Not addressed",
+    "access_fee_reform": "Not addressed",
+    "transparency": "Not explicitly addressed, though concern about firm discretion in order routing implies support for transparency constraints"
+  },
+  "economic_arguments": [
+    "The proposed rule change is characterized as a mechanism to increase profits for Wall Street trading firms rather than improve market efficiency",
+    "Removing the rule would shift economic benefits away from retail investors toward institutional trading firms"
+  ],
+  "liquidity_arguments": [
+    "No explicit liquidity arguments made"
+  ],
+  "competition_arguments": [
+    "Warns that without the rule, trading firms would selectively route orders to venues that maximize their own profits, undermining competitive and neutral order routing"
+  ],
+  "retail_investor_arguments": [
+    "Retail investors will bear significant costs if the rule is removed",
+    "The current rule provides meaningful protection to retail participants",
+    "Deregulation in this area disproportionately benefits sophisticated trading firms at the expense of ordinary investors"
+  ],
+  "recommended_actions": [
+    "Retain the existing rule without modification",
+    "Reject the justification that the current rule creates undue complexity"
+  ],
+  "key_quotes": [
+    "This is just a way for wall street to make more money.",
+    "The rule is working just fine.",
+    "The justification that it is 'making trading too complex' is laughable.",
+    "Removing this rule will allow trading firms to pick and choose where to send orders in order to increase profits.",
+    "Retail investors will pay a heavy price if this rule is removed."
+  ],
+  "source_file": "00010_Comments_of_Donald_Barry_Smith_Jr.html"
+}
